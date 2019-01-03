@@ -6,7 +6,7 @@
 ---
 
 #  数据结构
-   *  数组
+   *  [数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84.md)
    *  集合
    *  线性表
       *  线性表的基本操作
