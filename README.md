@@ -7,8 +7,8 @@
 
 #  数据结构
    *  [数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84.md)
-   *  集合
-   *  线性表
+   *  [集合](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%9B%86%E5%90%88.md)
+   *  [线性表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
       *  线性表的基本操作
       *  线性表的顺序存储结构
       *  线性表的链式存储结构
@@ -20,25 +20,24 @@
          *  线性表的实现分析
          *  线性表的功能
    *  栈与队列
-      *  栈
+       * [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88.md)
          *  栈的常用操作
          *  栈的顺序存储结构
          *  栈的链式存储结构
          *  两栈共享空间
          *  Java集合中的栈
-       *  队列
+       * [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97.md)
           *  队列的常用操作
           *  队列的顺序存储结构
           *  队列的链式存储结构
           *  环队列
           *  Java集合中的队列
       *  双端队列
-   *  散列
+   *  [散列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%A3%E5%88%97.md)
       *  散列的概念
-      
-   *  串
+   *  [串](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%B8%B2.md)
       *  串的存储结构
-   *  树
+   *  [树](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91.md)
       *  树的概述
          *  树的存储结构 
             *  树的链表存储
@@ -63,7 +62,7 @@
       *  哈夫曼树
          *  哈夫曼树的概念
          
-   *  图
+   *  [图](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE.md)
       *  图的存储结构
       *  图的遍历
    *  查找
