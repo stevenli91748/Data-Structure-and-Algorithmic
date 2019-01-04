@@ -77,7 +77,8 @@
       
 
 #  算法
-   *  
+## [算法的学习方法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
+   
    *  算法策略
    *  算法分析
    *  算法设计
