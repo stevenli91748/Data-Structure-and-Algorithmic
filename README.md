@@ -66,7 +66,9 @@
    *  [图](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE.md)
       *  图的存储结构
       *  图的遍历
+   *  [排序](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
       
+   *  [查找](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%9F%A5%E6%89%BE.md)
 
 #  算法
 ## [算法的学习方法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
@@ -90,37 +92,6 @@
       *  网络流
       *  近拟算法
       *  随机算法
-   *  [初等排序](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
-      * 内部排序（只使用内存）
-        *  插入排序
-           *  直接插入排序
-           *  折半插入排序
-           *  希尔排序
-        *  选择排序
-           *  简单选择排序
-           *  堆排序
-        *  交换排序
-           *  冒泡排序
-           *  快速排序
-        *  归并排序
-        *  桶式排序
-        *  基数排序
-     
-      *  外部排序（内存和外存结合使用）
-   *  [高等排序]()
-      * 归并排序
-      * 分割排序
-      * 
-   *  [查找](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%9F%A5%E6%89%BE.md)
-      *  顺序表查找
-      *  有序表查找
-      *  线性索引查找
-      *  二叉排序树
-      *  平衡二叉数(AVL)
-      *  多路查找树(B树)
-      *  散列表查找
-
-
       
       
       
