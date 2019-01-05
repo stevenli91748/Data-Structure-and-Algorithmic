@@ -139,6 +139,23 @@
 
 
    *  [查找](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%9F%A5%E6%89%BE.md)
+      *  [静态查找表](#静态查找表)
+         *  [顺序表查找](#顺序表查找)
+         *  [有序表查找](#有序表查找)
+         *  [静态树表的查找](#静态树表的查找)
+         *  [索引顺序表的查找](#索引顺序表的查找)
+      *  [动态查找表](#动态查找表)
+         *  [键树](#键树)     
+         *  [B_树和B+树](#B_树和B+树)
+         *  [二叉排序树](#二叉排序树)
+      *  [哈希表](#哈希表)   
+      *  [平衡二叉数](#平衡二叉数)
+      *  [线性索引查找](#线性索引查找)
+      *  [多路查找树B树](#多路查找树B树)
+      *  [散列表查找](#散列表查找)
+
+
+
 
 #  算法
 ## [算法的学习方法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
