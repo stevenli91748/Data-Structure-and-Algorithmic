@@ -101,7 +101,7 @@
       * 归并排序
       * 分割排序
       * 
-   *  查找
+   *  [查找](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%9F%A5%E6%89%BE.md)
       *  顺序表查找
       *  有序表查找
       *  线性索引查找
