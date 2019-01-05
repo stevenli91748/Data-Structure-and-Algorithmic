@@ -67,7 +67,7 @@
       *  图的存储结构
       *  图的遍历
    *  [排序](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
-   * [内部排序 只使用内存](#内部排序-只使用内存)
+   * [内部排序 只使用内存]([1]#内部排序-只使用内存)
      *  [插入排序](#插入排序)
         *  [直接插入排序](#直接插入排序)
            * [直接插入排序 算法基本思想](#直接插入排序-算法基本思想)
@@ -180,6 +180,9 @@
       *  近拟算法
       *  随机算法
       
+      
+      
+     [1]:https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md 
       
       
 #  参考书籍
