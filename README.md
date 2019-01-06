@@ -1,6 +1,6 @@
 # Data-Structure-and-Algorithmic
 
-# [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Interview/README)
+# [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)
 
 目录
 ---
