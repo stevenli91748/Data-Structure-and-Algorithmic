@@ -195,4 +195,5 @@
    * [剖析八种经典排序算法](https://blog.csdn.net/l953972252/article/details/51284884)
    * [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275)
    * [https://github.com/zhuli19901106/leetcode-2](https://github.com/zhuli19901106/leetcode-2)
+   * [看动画学算法](https://github.com/MisterBooo/LeetCodeAnimation)
    
