@@ -4,10 +4,10 @@
 
 #  [数据结构和算法的学习方法路径](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
 
-目录
+# 目录
 ---
 
-#  数据结构
+##  数据结构
    *  [数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84.md)
    *  [集合](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%9B%86%E5%90%88.md)
    *  [线性表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
@@ -159,7 +159,7 @@
 
 
 
-#  算法
+##  算法
 ## [算法的学习方法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E7%AE%97%E6%B3%95%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
    
    *  算法策略
