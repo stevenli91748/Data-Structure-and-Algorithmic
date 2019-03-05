@@ -187,6 +187,7 @@
 #  参考书籍
 
    *  Java程序员的基本修养---疯狂Java讲义
+   *  [从入门到修仙的算法之路](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247484319&idx=1&sn=11f9bce35fae40dd2ed54b2b3c785425&chksm=ec6e7ac7db19f3d14c11cd9e6e03f4ef2d31d45332979cf44711f15213dd964d8ced00643260&token=516051101&lang=zh_CN#rd)
    *  https://github.com/githubofrico
    *  [可视化的数据结构 - 各种算法动画演示](https://visualgo.net/en)
    *  [Algomation：查看、创建和分享算法的学习平台](http://hao.jobbole.com/algomation/)
