@@ -186,7 +186,7 @@
    
      * [一致性哈希算法1](https://www.cnblogs.com/color-my-life/p/5799903.html)
      * [一致性哈希算法2](https://www.cnblogs.com/lpfuture/p/5796398.html)
-     * [分布式缓存一致性哈希算法](https://www.cnblogs.com/heapStark/p/8351368.html)
+     * [分布式缓存一致性哈希算法](https://www.cnblogs.com/mikevictor07/p/4458736.html)
      * [一致性哈希算法----nginx负载均衡器配置之一](https://www.cnblogs.com/FengGeBlog/p/10615345.html)     
       
       
