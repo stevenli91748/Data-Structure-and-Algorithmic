@@ -33,19 +33,7 @@ int是基本类型，直接存放数值；Integer是类，产生对象时用一�
 </details>
 
 
-<details>
-<summary>int和 Integer 哪个会占用更多的内存？int和 Integer 有什么区别？parseInt()函数在什么时候使用到？</summary>
-  
-当然是Integer会占用更多的内存。以下为int和Integer的区别：
-
-1、Integer是int的包装类，int则是java的一种基本数据类型
-
-2、Integer变量必须实例化后才能使用，而int变量不需要
-
-3、Integer实际是对象的引用，当new一个Integer时，实际上是生成一个指针指向此对象；而int则是直接存储数据值
-
-4、Integer的默认值是null，int的默认值是0
-
+<details>w
 延伸关于Integer和int的比较 ：
 
 由于Integer变量实际上是对一个Integer对象的引用，所以两个通过new生成的Integer变量永远是不相等的（因为new生成的是两个对象，其内存地址不同）。
@@ -423,6 +411,11 @@ ArrayList与数组的区别主要就是由于动态增容的效率问题了
 数组有没有length()这个方法? String有没有length()这个方法 
   
 </details>    
+
+<details>
+<summary>为什麽数组从栈中分配空间？</summary>
+
+</details>   
 
 # 队列
 
