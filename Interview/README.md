@@ -124,7 +124,93 @@ static int parseInt(String s, int radix)
  
 </details>
 
+
+<details>
+<summary>如何去小数四舍五入保留小数点后两位？</summary>
+
+//使用银行家算法
+BigDecimal i = d.multiply(r).setScale(2,RoundingMode.HALF_EVEN);
+
+推荐使用BigDecimal ，并且采用setScale方法来设置精确度，同时使用RoundingMode.HALF_UP表示使用最近数字舍入法则来近似计算。在这里我们可以看出BigDecimal和四舍五入是绝妙的搭配。
+
+* [java的四舍五入](https://www.cnblogs.com/chenssy/p/3366632.html)
+
+</details>
+
+<details>
+<summary>char 型变量中能不能存贮一个中文汉字，为什么？</summary>
+
+char型变量是用来存储Unicode编码的字符的，unicode编码字符集中包含了汉字，所以char型变量中当然可以存储汉字啦。不过，如果某个特殊的汉字没有被包含在unicode编码字符集中，那么，这个char型变量中就不能存储这个特殊汉字。
+
+补充说明：unicode编码占用两个字节，所以，char类型的变量也是占用两个字节。
+
+</details>
+
+
 # 类型转换
+
+<details>
+<summary>怎样将 bytes 转换为 long 类型</summary>
+
+```java
+  
+  public static long bytes2long(byte[] b) {
+    long temp = 0;
+    long res = 0;
+    for (int i=0;i<8;i++) {
+        res <<= 8;
+        temp = b[i] & 0xff;
+        res |= temp;
+    }
+    return res;
+}
+
+```
+
+</details>
+
+<details>
+<summary>.怎么将 byte 转换为 String</summary>
+
+1. string 转成 byte
+
+```java
+
+string s = "Hello!!";
+byte[] b = new byte[1024*1024];
+b = System.Text.Encoding.ASCII.GetBytes(s);
+//当string含有中文字符时用 System.Text.Encoding.UTF8.GetBytes(s);
+sock.Send(b);
+
+```
+
+2. byte 转成 string
+
+``java
+
+byte[] b1 = new byte[1024*1024*2];
+sock.Receive(b1);
+string s1 = System.Text.Encoding.ASCII.GetString(b1);
+
+```
+
+// System.Text.Encoding.UTF8.GetString(b1);
+
+
+
+注意： 在把byte数组转换成string的时候，由于byte数组有2M的字节，所以转换后得到的字符串s1也会填充到2M的字符（用\0来填充）
+所以，为了避免这个问题，可以使用Receive返回的字节数来确定接收到byte的长度
+
+```java
+int length = sock.Receive(b1);
+string s1 = System.Text.Encoding.ASCII.GetString(b1, 0, length);
+
+```
+
+//这样，s1就为byte实际的值
+
+
+</details>
 
 # 数组
 
