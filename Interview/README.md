@@ -235,7 +235,7 @@ Integer.valueof返回的是Integer对象，Integer.paseInt返回的是int
 <details>
 <summary>我们能将 int 强制转换为 byte 类型的变量吗？如果该值大于 byte 类型的范围，将会出现什么现象</summary>
   
-**Byte转int**
+**1. Byte转int**
 
 ```java
 
@@ -249,7 +249,7 @@ public static int bytes2int(byte[] bytes) {
 
 ```
 
-**int转 byte**
+**2. int转 byte**
 
 ```java
 
@@ -266,9 +266,122 @@ public static byte[] int2bytes(int i) {
   
 </details>
 
+<details>
+<summary>能在不进行强制转换的情况下将一个 double 值赋值给 long 类型的变量吗?</summary>
+  
+```java
+
+  public static void main(String[] args) {
+    double d = 88.88;
+    long l = Math.round(d);
+    System.out.println(l);
+
+    long ll = 100L;
+    double dd = (double) ll;
+    System.out.println(dd);
+}
+
+```
+
+</details>
 
 
 # 数组
+
+<details>
+<summary>如何权衡是使用无序的数组还是有序的数组</summary>
+
+在数据偏向查找操作的时候用有序数组快一些，在数据偏向插入的时候，无序数组好一些。删除操作效率一样。
+  
+</details>  
+
+
+<details>
+  
+<summary>怎么判断数组是 null 还是为空</summary>
+
+（无论使用哪种类型的数组，数组标识符其实只是一个引用，指向在堆中创建的一个真实对象 Int[] A =new int[10];new 一下就是实例化了，开辟了内存空间，基本数据类型的元素会被赋初始值，数组建立后长度不能改变，但是还是可以重新赋值）
+
+有如下两个变量定义：
+
+1 int[] zero = new int[0];
+
+2 int[] nil = null;
+
+这两种定义有什么区别呢？
+
+zero是一个长度为0的数组，我们称之为“空数组”，空数组也是一个对象，只是包含元素个数为0。nil是一个数组类型的空引用。
+  
+</details>  
+
+<details>
+<summary>Array 和 ArrayList有什么区别？什么时候应该使用Array而不是ArrayList?</summary>
+
+1）精辟阐述：
+
+可以将 ArrayList想象成一种“会自动扩增容量的Array”。
+
+2）Array（[]）：最高效；但是其容量固定且无法动态改变；
+
+ArrayList： 容量可动态增长；但牺牲效率；
+
+3）建议：
+基于效率和类型检验，应尽可能使用Array，无法确定数组大小时才使用ArrayList！
+
+不过当你试着解决更一般化的问题时，Array的功能就可能过于受限。
+
+4）Java中一切皆对象，Array也是对象。不论你所使用得Array型别为何，Array名称本身实际上是个reference，指向heap之内得某个实际对象。这个对象可经
+由“Array初始化语法”被自动产生，也可以以new表达式手动产生。
+
+5）Array可做为函数返回值，因为它本身是对象的reference；
+
+6）对象数组与基本类型数组在运用上几乎一模一样，唯一差别在于，前者持有得是reference，后者直接持有基本型别之值；
+
+例如：
+
+```java
+string [] staff=new string[100];
+int [] num=new int[10];
+
+```
+
+7）容器所持有的其实是一个reference指向Object，进而才能存储任意型别。当然这不包括基本型别，因为基本型别并不继承自任何classes。
+
+8）面对Array，我们可以直接持有基本型别数值的Array（例如：int [] num;),也可以持有reference（指向对象）的Array；但是容器类仅能持有reference（指向对象），若要将基本型别置于容器内，需要使用wrapper类。但是wrapper类使用起来可能不很容易上手，此外，primitives Array的效率比起“容纳基本型别之外覆类（的reference）”的容器好太多了。
+
+当然，如果你的操作对象是基本型别，而且需要在空间不足时自动扩增容量，Array便不适合，此时就得使用外覆类的容器了。
+
+9）某些情况下，容器类即使没有转型至原来的型别，仍然可以运作无误。有一种情况尤其特别：编译器对String class提供了一些额外的支持，使它可以平滑运作。
+
+10）对数组的一些基本操作，像排序、搜索与比较等是很常见的。因此在Java中提供了Arrays类协助这几个操作
+
+sort(),binarySearch(),equals(),fill(),asList().
+
+不过Arrays类没有提供删除方法，而ArrayList中有remove()方法，不知道是否是不需要在Array中做删除等操作的原因（因为此时应该使用链表）。
+
+11）ArrayList的使用也很简单：产生ArrayList，利用add()将对象置入，利用get(i）配合索引值将它们取出。这一切就和Array的使用方式完全相同，只不过少了[]而已。
+
+换一种简单说法：
+
+1）效率：
+
+数组扩容是对ArrayList效率影响比较大的一个因素。
+
+每当执行Add、AddRange、Insert、InsertRange等添加元素的方法，都会检查内部数组的容量是否不够了，如果是，它就会以当前容量的两倍来重新构建一个数组，将旧元素Copy到新数组中，然后丢弃旧数组，在这个临界点的扩容操作，应该来说是比较影响效率的。
+
+ArrayList是Array的复杂版本
+
+ArrayList内部封装了一个Object类型的数组，从一般的意义来说，它和数组没有本质的差别，甚至于ArrayList的许多方法，如Index、IndexOf、Contains、Sort等都是在内部数组的基础上直接调用Array的对应方法。
+
+2）类型识别：
+
+ArrayList存入对象时，抛弃类型信息，所有对象屏蔽为Object，编译时不检查类型，但是运行时会报错。但是现在有jdk1.5后引入泛型来进行编译检查类型，如错存入了不同类型会直接报错。
+
+ArrayList与数组的区别主要就是由于动态增容的效率问题了
+
+3）ArrayList可以存任何Object，如String等。
+  
+</details>  
 
 # 队列
 
