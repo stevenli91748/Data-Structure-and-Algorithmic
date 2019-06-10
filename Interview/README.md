@@ -415,7 +415,7 @@ ArrayList与数组的区别主要就是由于动态增容的效率问题了
 <details>
 <summary>为什麽数组从栈中分配空间？</summary>
 
-* [数组是分配在栈中的](https://blog.csdn.net/qq_35779815/article/details/82882641)
+* [数组是分配在栈中的](https://blog.csdn.net/lcl19970203/article/details/54428358)
 
 </details>   
 
