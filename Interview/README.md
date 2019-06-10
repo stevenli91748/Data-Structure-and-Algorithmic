@@ -186,7 +186,7 @@ sock.Send(b);
 <details>
 <summary>.怎么将 byte 转换为 String</summary>
 
-``java
+```java
 
 byte[] b1 = new byte[1024*1024*2];
 sock.Receive(b1);
@@ -205,10 +205,30 @@ string s1 = System.Text.Encoding.ASCII.GetString(b1);
 
 int length = sock.Receive(b1);
 string s1 = System.Text.Encoding.ASCII.GetString(b1, 0, length);
+//这样，s1就为byte实际的值
 
 ```
 
-//这样，s1就为byte实际的值
+</details>
+
+<details>
+<summary>如何将数值型字符转换为数字</summary>
+
+**string和int之间的转换
+
+string转换成int : Integer.valueOf("12")
+
+int转换成string : String.valueOf(12)
+
+**char转int之间的转换
+
+首先将char转换成string
+
+String str=String.valueOf('2')
+
+Integer.valueof(str) 或者Integer.PaseInt(str)
+
+Integer.valueof返回的是Integer对象，Integer.paseInt返回的是int
 
 </details>
 
