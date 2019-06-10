@@ -214,13 +214,13 @@ string s1 = System.Text.Encoding.ASCII.GetString(b1, 0, length);
 <details>
 <summary>如何将数值型字符转换为数字</summary>
 
-**string和int之间的转换
+**string和int之间的转换**
 
 string转换成int : Integer.valueOf("12")
 
 int转换成string : String.valueOf(12)
 
-**char转int之间的转换
+**char转int之间的转换**
 
 首先将char转换成string
 
@@ -231,6 +231,42 @@ Integer.valueof(str) 或者Integer.PaseInt(str)
 Integer.valueof返回的是Integer对象，Integer.paseInt返回的是int
 
 </details>
+
+<details>
+<summary>我们能将 int 强制转换为 byte 类型的变量吗？如果该值大于 byte 类型的范围，将会出现什么现象</summary>
+  
+**Byte转int**
+
+```java
+
+public static int bytes2int(byte[] bytes) {
+        int num = bytes[0] & 0xFF;
+        num |= ((bytes[1] << 8) & 0xFF00);
+        num |= ((bytes[2] << 16) & 0xFF0000);
+        num |= ((bytes[3] << 24) & 0xFF000000);
+        return num;
+}
+
+```
+
+**int转 byte**
+
+```java
+
+public static byte[] int2bytes(int i) {
+        byte[] b = new byte[4];
+        b[0] = (byte) (0xff&i);
+        b[1] = (byte) ((0xff00&i) >> 8);
+        b[2] = (byte) ((0xff0000&i) >> 16);
+        b[3] = (byte) ((0xff000000&i) >> 24);
+        return b;
+}
+
+```
+  
+</details>
+
+
 
 # 数组
 
