@@ -170,9 +170,7 @@ char型变量是用来存储Unicode编码的字符的，unicode编码字符集�
 </details>
 
 <details>
-<summary>.怎么将 byte 转换为 String</summary>
-
-1. string 转成 byte
+<summary>.怎么将 string 转成 byte</summary>
 
 ```java
 
@@ -183,8 +181,10 @@ b = System.Text.Encoding.ASCII.GetBytes(s);
 sock.Send(b);
 
 ```
+</details>
 
-2. byte 转成 string
+<details>
+<summary>.怎么将 byte 转换为 String</summary>
 
 ``java
 
@@ -202,13 +202,13 @@ string s1 = System.Text.Encoding.ASCII.GetString(b1);
 所以，为了避免这个问题，可以使用Receive返回的字节数来确定接收到byte的长度
 
 ```java
+
 int length = sock.Receive(b1);
 string s1 = System.Text.Encoding.ASCII.GetString(b1, 0, length);
 
 ```
 
 //这样，s1就为byte实际的值
-
 
 </details>
 
