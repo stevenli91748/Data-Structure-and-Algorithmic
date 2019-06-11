@@ -792,9 +792,43 @@ pthread_cond_wait是一个多线程的条件变量函数，cond是condition的�
   
 </details>   
 
+<details>
+<summary>ArrayList、Vector、LinkedList的存储性能和特性</summary>
+
+ArrayList 和Vector他们底层的实现都是一样的，都是使用数组方式存储数据，此数组元素数大于实际存储的数据以便增加和插入元素，它们都允许直接按序号索引元素，但是插入元素要涉及数组元素移动等内存操作，所以索引数据快而插入数据慢。
+
+Vector中的方法由于添加了synchronized修饰，因此Vector是线程安全的容器，但性能上较ArrayList差，因此已经是Java中的遗留容器。
+
+LinkedList使用双向链表实现存储（将内存中零散的内存单元通过附加的引用关联起来，形成一个可以按序号索引的线性结构，这种链式存储方式与数组的连续存储方式相比，内存的利用率更高），按序号索引数据需要进行前向或后向遍历，但是插入数据时只需要记录本项的前后项即可，所以插入速度较快。
+
+Vector属于遗留容器（Java早期的版本中提供的容器，除此之外，Hashtable、Dictionary、BitSet、Stack、Properties都是遗留容器），已经不推荐使用，但是由于ArrayList和LinkedListed都是非线程安全的，如果遇到多个线程操作同一个容器的场景，则可以通过工具类Collections中的synchronized List方法将其转换成线程安全的容器后再使用（这是对装潢模式的应用，将已有对象传入另一个类的构造器中创建新的对象来增强实现）。
+
+</details>   
+
+
 # String
 
+<details>
+<summary>ByteBuffer 与 StringBuffer有什么区别</summary>
+
+
+</details>   
+
+
 # Collections
+
+<details>
+<summary>介绍Java中的Collection FrameWork。集合类框架的基本接口有哪些？</summary>
+
+总共有两大接口：Collection 和Map ，一个元素集合，一个是键值对集合；
+
+其中List和Set接口继承了Collection接口，一个是有序元素集合，一个是无序元素集合；
+
+ArrayList和LinkedList实现了List接口，HashSet实现了Set接口，这几个都比较常用；
+
+HashMap和HashTable实现了Map接口，并且HashTable是线程安全的，但是HashMap性能更好；
+
+</details>   
 
 # 有用的参考
 
