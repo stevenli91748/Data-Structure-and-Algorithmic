@@ -830,6 +830,49 @@ HashMap和HashTable实现了Map接口，并且HashTable是线程安全的，但�
 
 </details>   
 
+<details>
+<summary>集合类框架的最佳实践有哪些</summary>
+
+根据应用的需要合理的选择集合的类型对性能非常重要
+
+假如元素的大小是固定的，而且能事先知道，我们就该用Array而不是ArrayList.
+
+有些集合类允许指定初始容量。因此，如果我们能估计出存储元素的数目，我们可以设置初始容量来避免重新计算hash值或者扩容.
+
+为了类型安全，可读性和健壮性的原因总要使用翻新。同时，使用泛型还能皮面运行时的ClassCastException.
+
+使用JDK提供的不变类（immutable class）作为Map的键可以避免为我们自己的类实现hashCode()和equals()方法。
+
+编程的时候接口优于实现。
+
+底层的集合实际上是空的情况下返回长度是0的集合或者是数组，不要返回null.
+
+</details>   
+
+<details>
+<summary>为什么 Collection 不从 Cloneable 和 Serializable 接口继承?</summary>
+
+Collection接口指定一组对象，对象即为它的元素。如何维护这些元素由Collection的具体实现决定。例如，一些如List的Collection实现允许重复的元素，而其它的如Set就不允许。很多Collection实现有一个公有的clone方法。然而，把它放到集合的所有实现中也是没有意义的。这是因为Collection是一个抽象表现。
+
+重要的是实现，克隆（cloning）或者序列化（serialization）的语义和含义是跟具体的实现相关的。**因此应该由集合类的具体实现类来决定如何被克隆或者序列化。**
+
+</details>   
+
+<details>
+<summary>说出几点 Java 中使用 Collections 的最佳实践？</summary>
+
+）使用正确的集合类，例如，如果不需要同步列表，使用 ArrayList 而不是 Vector。
+
+b）优先使用并发集合，而不是对集合进行同步。并发集合提供更好的可扩展性。
+
+c）使用接口代表和访问集合，如使用List存储 ArrayList，使用 Map 存储 HashMap 等等。
+
+d）使用迭代器来循环集合。
+
+e）使用集合的时候使用泛型
+
+</details>   
+
 # 有用的参考
 
 * [数据结构面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/interview.md)
