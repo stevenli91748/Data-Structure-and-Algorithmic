@@ -42,6 +42,7 @@
       *  散列的概念
    *  [串](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%B8%B2.md)
       *  串的存储结构
+   *  矩阵
    *  [树](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91.md)
       *  树的概述
          *  树的存储结构 
