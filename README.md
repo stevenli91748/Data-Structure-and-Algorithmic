@@ -22,6 +22,16 @@
          ，STRING还是array。
 
 ##  数据结构
+   * 4种逻辑结构
+     * 集合结构
+     * 线性结构
+     * 树型结构
+     * 图型结构
+   * 物理结构
+     * 顺序存储结构
+     * 链式存储结构
+     
+
    *  [数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84.md)
    *  [集合](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%9B%86%E5%90%88.md)
    *  [线性表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
