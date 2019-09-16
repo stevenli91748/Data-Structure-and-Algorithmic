@@ -39,63 +39,58 @@
              *  线性表的实现分析
              *  线性表的功能
        *  矩阵   
-            
+       *  栈与队列
+          * [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88.md)
+            *  栈的常用操作
+            *  栈的顺序存储结构
+            *  栈的链式存储结构
+            *  两栈共享空间
+            *  Java集合中的栈
+          * [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97.md)
+            *  队列的常用操作
+            *  队列的顺序存储结构
+            *  队列的链式存储结构
+            *  环队列
+            *  Java集合中的队列
+            *  双端队列      
+       *  [串](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%B8%B2.md)
+            *  串的存储结构
+       *  [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86.md)
+       *  [散列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%A3%E5%88%97.md)
+            *  散列的概念
+
      * [树型结构](#树型结构)
+       *  [树](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91.md)
+          *  树的概述
+             *  树的存储结构 
+                *  树的链表存储     
+          *  树的基本操作
+          *  父节点表示法
+          *  子节点表示法
+       *  二叉树
+          *  二叉树的基本操作
+          *  二叉树的顺序存储
+          *  二叉树二叉链表存储
+          *  二叉树的三叉链表存储
+          *  遍历二叉树
+             *  先序遍历
+             *  中序遍历
+             *  后序遍历
+             *  广度优先（按层）遍历
+          *  排序二叉树
+          *  红黑树
+       *  森林
+       *  转换方法
+          *  森林 树和二叉树的转换
+       *  哈夫曼树
+          *  哈夫曼树的概念
      * [图型结构](#图型结构)
+       *  [图](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE.md)
+          *  图的存储结构
+          *  图的遍历
    * 物理结构
      * 顺序存储结构
      * 链式存储结构
-     
-
-
-   *  栈与队列
-       * [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88.md)
-         *  栈的常用操作
-         *  栈的顺序存储结构
-         *  栈的链式存储结构
-         *  两栈共享空间
-         *  Java集合中的栈
-       * [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97.md)
-          *  队列的常用操作
-          *  队列的顺序存储结构
-          *  队列的链式存储结构
-          *  环队列
-          *  Java集合中的队列
-      *  双端队列
-   *  [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86.md)
-   *  [散列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%A3%E5%88%97.md)
-      *  散列的概念
-   *  [串](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%B8%B2.md)
-      *  串的存储结构
-   
-   *  [树](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91.md)
-      *  树的概述
-         *  树的存储结构 
-            *  树的链表存储
-         *  树的基本操作
-         *  父节点表示法
-         *  子节点表示法
-      *  二叉树
-         *  二叉树的基本操作
-         *  二叉树的顺序存储
-         *  二叉树二叉链表存储
-         *  二叉树的三叉链表存储
-         *  遍历二叉树
-            *  先序遍历
-            *  中序遍历
-            *  后序遍历
-            *  广度优先（按层）遍历
-         *  排序二叉树
-         *  红黑树
-      *  森林
-      *  转换方法
-         *  森林 树和二叉树的转换
-      *  哈夫曼树
-         *  哈夫曼树的概念
-         
-   *  [图](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE.md)
-      *  图的存储结构
-      *  图的遍历
    *  [排序](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95.md)
    * [内部排序 只使用内存](#内部排序-只使用内存)
      *  [插入排序](#插入排序)
