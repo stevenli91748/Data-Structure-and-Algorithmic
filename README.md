@@ -40,6 +40,7 @@
              *  线性表的功能
        *  矩阵   
        *  栈与队列
+          * [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86.md)
           * [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88.md)
             *  栈的常用操作
             *  栈的顺序存储结构
@@ -55,7 +56,7 @@
             *  双端队列      
        *  [串](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%B8%B2.md)
             *  串的存储结构
-       *  [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86.md)
+
        *  [散列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%A3%E5%88%97.md)
             *  散列的概念
 
