@@ -268,6 +268,8 @@
   [算法第四版 english](https://www.bilibili.com/video/av66547337/?spm_id_from=333.788.videocard.19)
 
   [【全】清华大学-邓俊辉MOOC数据结构与算法全套](https://www.bilibili.com/video/av49361421/?spm_id_from=333.788.videocard.14)
+  
+  [算法导论-麻省理工](https://www.bilibili.com/video/av48922404/?spm_id_from=333.788.videocard.0)
 
 #  参考书籍
    * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
