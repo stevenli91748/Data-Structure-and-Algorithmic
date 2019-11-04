@@ -253,23 +253,18 @@
 
 # 算法视频
 
-  [油管上最好的Java 版本 LeetCode逐题详解](https://www.bilibili.com/video/av51692387/?spm_id_from=333.788.videocard.4)
+* [斯坦福大学】算法设计与分析（第 1 部分）# Algorithms Design and Analysis](https://www.bilibili.com/video/av60729219/?spm_id_from=333.788.videocard.3)
+* [斯坦福大学】算法设计与分析（第二版） Algorithms Design and Analysis, Part 2](https://www.bilibili.com/video/av60098061/?spm_id_from=333.788.videocard.6)
 
-  [Leetcode刷题大全](https://www.bilibili.com/video/av68783564/?spm_id_from=333.788.videocard.2)
-  
-  [数据结构与算法365天特训营（带视频+源码课件）](https://www.bilibili.com/video/av60287175/?spm_id_from=333.788.videocard.1)
-  
-  [BAT算法特训](https://www.bilibili.com/video/av57622237/?spm_id_from=333.788.videocard.3)
-  
-  [十大算法精讲](https://www.bilibili.com/video/av62628269/?spm_id_from=333.788.videocard.2)
-  
-  [剑指offer-数据结构与算法（全套无水印）](https://www.bilibili.com/video/av64288683/?spm_id_from=333.788.videocard.4)
-
-  [算法第四版 english](https://www.bilibili.com/video/av66547337/?spm_id_from=333.788.videocard.19)
-
-  [【全】清华大学-邓俊辉MOOC数据结构与算法全套](https://www.bilibili.com/video/av49361421/?spm_id_from=333.788.videocard.14)
-  
-  [算法导论-麻省理工](https://www.bilibili.com/video/av48922404/?spm_id_from=333.788.videocard.0)
+* [油管上最好的Java 版本 LeetCode逐题详解](https://www.bilibili.com/video/av51692387/?spm_id_from=333.788.videocard.4)
+* [Leetcode刷题大全](https://www.bilibili.com/video/av68783564/?spm_id_from=333.788.videocard.2)
+* [数据结构与算法365天特训营（带视频+源码课件）](https://www.bilibili.com/video/av60287175/?spm_id_from=333.788.videocard.1)
+* [BAT算法特训](https://www.bilibili.com/video/av57622237/?spm_id_from=333.788.videocard.3)
+* [十大算法精讲](https://www.bilibili.com/video/av62628269/?spm_id_from=333.788.videocard.2)
+* [剑指offer-数据结构与算法（全套无水印）](https://www.bilibili.com/video/av64288683/?spm_id_from=333.788.videocard.4)
+* [算法第四版 english](https://www.bilibili.com/video/av66547337/?spm_id_from=333.788.videocard.19)
+* [【全】清华大学-邓俊辉MOOC数据结构与算法全套](https://www.bilibili.com/video/av49361421/?spm_id_from=333.788.videocard.14)
+* [算法导论-麻省理工](https://www.bilibili.com/video/av48922404/?spm_id_from=333.788.videocard.0)
 
 #  参考书籍
    * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
