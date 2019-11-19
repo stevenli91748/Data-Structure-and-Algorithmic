@@ -252,7 +252,7 @@
 
 
 # 算法视频
-
+* [尚硅谷-韩顺平图解Java数据结构和算法](https://www.bilibili.com/video/av54029771?from=search&seid=14417099915885539219)
 * [斯坦福大学】算法设计与分析（第 1 部分）# Algorithms Design and Analysis](https://www.bilibili.com/video/av60729219/?spm_id_from=333.788.videocard.3)
 * [斯坦福大学】算法设计与分析（第二版） Algorithms Design and Analysis, Part 2](https://www.bilibili.com/video/av60098061/?spm_id_from=333.788.videocard.6)
 
