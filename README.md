@@ -6,20 +6,6 @@
 
 # 目录
 ---
-## 数据类型
-
-    1. 基本数据类型(atomic data type)
-       
-          8种基本数据类型：
-    
-    2. 结构型数据类型(structure data type)
-    
-          一个数据结构包含其他的数据类型，例如string， set , array
-          
-    3. 抽象型数据类型(Abstract Data Type, ADT)
-    
-         定义一些结构型数据类型所具备的数学运算关系，只针对数据的运算，而非数据本身的性质，例如某个对象插入一个列表，而不关心这个对象的类型是整数
-         ，STRING还是array。
 
 ##  数据结构
    * 4种逻辑结构
@@ -290,6 +276,8 @@ B站：
 
 https://space.bilibili.com/9880352?fr...
 
+花花酱youtube传送门: https://www.youtube.com/user/xxfflower
+
 2. 小Q刷题
 
 https://space.bilibili.com/149758?fro...
@@ -298,6 +286,7 @@ https://space.bilibili.com/149758?fro...
 
 https://space.bilibili.com/354892788?...
 
+绵羊教授youtube传送门: https://www.youtube.com/channel/UCB7X04ICYJ_LMyFN3045wPw
 
 #  参考书籍
    * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
