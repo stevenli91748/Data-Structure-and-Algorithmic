@@ -266,6 +266,28 @@
 * [【全】清华大学-邓俊辉MOOC数据结构与算法全套](https://www.bilibili.com/video/av49361421/?spm_id_from=333.788.videocard.14)
 * [算法导论-麻省理工](https://www.bilibili.com/video/av48922404/?spm_id_from=333.788.videocard.0)
 
+
+# leeCode视频
+
+刷题目录
+https://github.com/CyC2018/CS-Notes/b...
+
+推荐的学习频道👍🏻
+Youtube ：Back To Back SWE
+https://www.youtube.com/channel/UCmJz...
+
+B站：
+
+1. 花花酱
+https://space.bilibili.com/9880352?fr...
+
+2. 小Q刷题
+https://space.bilibili.com/149758?fro...
+
+3.绵羊教授
+https://space.bilibili.com/354892788?...
+
+
 #  参考书籍
    * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
    * [算法与数据结构+一点点ACM从入门到进阶吐血整理推荐书单（珍藏版）](https://pymlovelyq.github.io/2018/10/06/Algorithm/)
