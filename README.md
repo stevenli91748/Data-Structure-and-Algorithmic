@@ -269,22 +269,33 @@
 
 # leeCode视频
 
+算法公众号
+
+微信号：labuladong
+
+
 刷题目录
+
 https://github.com/CyC2018/CS-Notes/b...
 
 推荐的学习频道👍🏻
+
 Youtube ：Back To Back SWE
+
 https://www.youtube.com/channel/UCmJz...
 
 B站：
 
 1. 花花酱
+
 https://space.bilibili.com/9880352?fr...
 
 2. 小Q刷题
+
 https://space.bilibili.com/149758?fro...
 
 3.绵羊教授
+
 https://space.bilibili.com/354892788?...
 
 
