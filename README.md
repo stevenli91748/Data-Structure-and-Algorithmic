@@ -399,6 +399,8 @@ java常用算法手册 第三版本.pdf
 
 # leeCode视频
 
+* [高效刷题，如何使用LeetCode来准备美国硅谷技术公司面试，拿到Offer](https://www.youtube.com/watch?v=XObufhWMQ1o)
+
 算法公众号
 
 微信号：labuladong
