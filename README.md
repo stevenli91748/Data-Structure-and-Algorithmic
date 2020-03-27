@@ -455,3 +455,4 @@ https://space.bilibili.com/354892788?...
    * [https://github.com/zhuli19901106/leetcode-2](https://github.com/zhuli19901106/leetcode-2)
    * [看动画学算法](https://github.com/MisterBooo/LeetCodeAnimation)
    * [Java排序算法详解及示例汇总——超详细](https://blog.csdn.net/sd09044901guic/article/details/80613053)
+  * [程序员必须掌握的核心算法有哪些](https://blog.csdn.net/m0_37907797/article/details/102661778?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
