@@ -16,7 +16,7 @@
 | 1-4 算法的空间复杂度| [无代码] |
 |---|---|
 | **6种逻辑结构**| [无代码] |
-| **第二章 集合逻辑结构篇**|[代码](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%9B%86%E5%90%88.md)|
+| **[第二章 集合逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%9B%86%E5%90%88.md)**|[代码]|
 |---|---|
 | **线性逻辑结构篇**| |
 | **第二章 稀蔬数组和队列 矩阵** | [无代码] |
