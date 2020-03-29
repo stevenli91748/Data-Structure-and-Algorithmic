@@ -16,13 +16,12 @@
 | 1-4 算法的空间复杂度| [无代码] |
 |---|---|
 | **6种逻辑结构**| [无代码] |
-| **[第二章 集合逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%9B%86%E5%90%88.md)**|[代码]|
+| **[第二章 集合逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%9B%86%E5%90%88.md)**|[无代码]|
 |---|---|
 | **线性逻辑结构篇**| |
-| **第二章 稀蔬数组和队列 矩阵** | [无代码] |
-| 2-1  稀蔬SPARESARRAY数组| []() |
-| 2-2  矩阵 | [无代码] |
-| 2-2-1 稀蔬矩阵| [无代码] |
+| **第三章 稀蔬数组和队列 矩阵** | [无代码] |
+| [3-1  稀蔬SPARESARRAY数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md)| [无代码] |
+| [3-2  矩阵](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E7%9F%A9%E9%98%B5/README.md) | [无代码] |
 |---|---|
 | **第三章 链表**| [无代码] |
 | 3-1  单向链表| [无代码] |
