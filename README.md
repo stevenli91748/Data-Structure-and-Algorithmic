@@ -391,6 +391,7 @@ java常用算法手册 第三版本.pdf
 
 
 # 算法视频
+* [Google面试官讲算法：如何吃透算法，获得Hire？](https://www.youtube.com/watch?v=JU2ZpooE9PM&t=6s)
 * [尚硅谷-韩顺平图解Java数据结构和算法](https://www.bilibili.com/video/av54029771?from=search&seid=14417099915885539219)
 * [斯坦福大学】算法设计与分析（第 1 部分）# Algorithms Design and Analysis](https://www.bilibili.com/video/av60729219/?spm_id_from=333.788.videocard.3)
 * [斯坦福大学】算法设计与分析（第二版） Algorithms Design and Analysis, Part 2](https://www.bilibili.com/video/av60098061/?spm_id_from=333.788.videocard.6)
