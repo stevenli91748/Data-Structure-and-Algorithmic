@@ -146,7 +146,9 @@ java常用算法手册 第三版本.pdf
 算法问题实战策略.pdf  (很多题目练习)
 
 
+# 有用的参考
 
+* [图解 Java 中的数据结构及原理，傻瓜也能看懂](https://mp.weixin.qq.com/s/2t_XO3G1v1jx7q0-9YU0YA)
 
 
 
