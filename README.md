@@ -414,7 +414,8 @@ java常用算法手册 第三版本.pdf
 * [高效刷题，如何使用LeetCode来准备美国硅谷技术公司面试，拿到Offer](https://www.youtube.com/watch?v=XObufhWMQ1o)
 * [算法刷题 leetcode（Java版）](https://www.bilibili.com/video/BV1Hb411g7Jb/?spm_id_from=333.788.videocard.7)
 * [如何高效刷题](https://www.youtube.com/watch?v=QcLGNFBb8YI)
-
+* [左神算法 初级](https://www.bilibili.com/video/BV1KJ411E76p/?spm_id_from=333.788.videocard.17)
+* [算法刷题教程](https://www.bilibili.com/video/BV1v4411W7aU/?spm_id_from=333.788.videocard.3)
 算法公众号
 
 微信号：labuladong
