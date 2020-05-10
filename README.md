@@ -419,6 +419,14 @@ java常用算法手册 第三版本.pdf
 * [如何高效刷题](https://www.youtube.com/watch?v=QcLGNFBb8YI)
 * [左神算法 初级](https://www.bilibili.com/video/BV1KJ411E76p/?spm_id_from=333.788.videocard.17)
 * [算法刷题教程](https://www.bilibili.com/video/BV1v4411W7aU/?spm_id_from=333.788.videocard.3)
+
+* [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275)
+* [leetcode题解](https://mp.weixin.qq.com/s/vG0URwp8gI4jOkZlG5Vp6g)
+* [LeetCode解题汇总目录](https://blog.csdn.net/qq_21201267/article/details/100577842)
+
+
+
+
 算法公众号
 
 微信号：labuladong
@@ -464,9 +472,6 @@ https://space.bilibili.com/354892788?...
    *  [ Algorithm Visualizer，做得很好](https://algorithm-visualizer.org/divide-and-conquer/bucket-sort)
    *  [[数据结构与算法]超级详细解读基本排序算法（不看后悔，带排序演示动画）](https://blog.csdn.net/david_520042/article/details/52784620)
    * [剖析八种经典排序算法](https://blog.csdn.net/l953972252/article/details/51284884)
-   * [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275)
-   * [leetcode题解](https://mp.weixin.qq.com/s/vG0URwp8gI4jOkZlG5Vp6g)
-   * [LeetCode解题汇总目录](https://blog.csdn.net/qq_21201267/article/details/100577842)
    * [https://github.com/zhuli19901106/leetcode-2](https://github.com/zhuli19901106/leetcode-2)
    * [看动画学算法](https://github.com/MisterBooo/LeetCodeAnimation)
    * [Java排序算法详解及示例汇总——超详细](https://blog.csdn.net/sd09044901guic/article/details/80613053)
