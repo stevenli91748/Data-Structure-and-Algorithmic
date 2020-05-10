@@ -462,6 +462,7 @@ https://space.bilibili.com/354892788?...
 
 #  参考书籍
    * [准备算法面试的终极策略](https://zhuanlan.zhihu.com/p/98580817)
+   * [LeetCode中的easy medium类形的题目](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews!!)
    * [码农找工作之：秒杀算法面试必须掌握的14种模式](https://zhuanlan.zhihu.com/p/90664857)
    * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
    * [算法与数据结构+一点点ACM从入门到进阶吐血整理推荐书单（珍藏版）](https://pymlovelyq.github.io/2018/10/06/Algorithm/)
