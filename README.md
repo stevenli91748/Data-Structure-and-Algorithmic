@@ -411,6 +411,8 @@ java常用算法手册 第三版本.pdf
 * [牛客网算法初级班](https://www.bilibili.com/video/BV1B7411d786/?spm_id_from=333.788.videocard.2)
 
 # leeCode视频
+   * [LeetCode到底应该怎么刷？面试应该注意哪些问题？大公司到底怎么进？来看看LC大神们的刷题攻略](https://zhuanlan.zhihu.com/p/98580817)
+   * [LeetCode中的easy medium类形的题目](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews!!)
 
 * [高效刷题，如何使用LeetCode来准备美国硅谷技术公司面试，拿到Offer](https://www.youtube.com/watch?v=XObufhWMQ1o)
 * [油管上最好的Java 版本 LeetCode逐题详解](https://www.bilibili.com/video/av51692387/?spm_id_from=333.788.videocard.4)
@@ -461,8 +463,6 @@ https://space.bilibili.com/354892788?...
 绵羊教授youtube传送门: https://www.youtube.com/channel/UCB7X04ICYJ_LMyFN3045wPw
 
 #  参考书籍
-   * [LeetCode到底应该怎么刷？面试应该注意哪些问题？大公司到底怎么进？来看看LC大神们的刷题攻略](https://zhuanlan.zhihu.com/p/98580817)
-   * [LeetCode中的easy medium类形的题目](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews!!)
    * [码农找工作之：秒杀算法面试必须掌握的14种模式](https://zhuanlan.zhihu.com/p/90664857)
    * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
    * [算法与数据结构+一点点ACM从入门到进阶吐血整理推荐书单（珍藏版）](https://pymlovelyq.github.io/2018/10/06/Algorithm/)
