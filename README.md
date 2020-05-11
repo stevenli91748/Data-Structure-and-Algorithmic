@@ -411,6 +411,7 @@ java常用算法手册 第三版本.pdf
 * [牛客网算法初级班](https://www.bilibili.com/video/BV1B7411d786/?spm_id_from=333.788.videocard.2)
 
 # leeCode视频
+* [如何最快速的刷题](https://www.youtube.com/watch?v=HlIu_kf_KH0&t=1917s)
 * [LeetCode使用介绍](https://blog.csdn.net/seabiscuityj/article/details/80730733)
    * [免费刷LeetCode的网站](https://leetcode.jp/problems.php?page_index=1&sort=0000&keyword=&company=)
    * [LeetCode到底应该怎么刷？面试应该注意哪些问题？大公司到底怎么进？来看看LC大神们的刷题攻略](https://zhuanlan.zhihu.com/p/98580817)
