@@ -416,6 +416,7 @@ java常用算法手册 第三版本.pdf
 * [白板讲题：如何十倍提升刷题效率，把算法题刷透？](https://www.youtube.com/watch?v=cIoGuSCU14A)
 * [你会这100道算法题就够了](https://www.youtube.com/watch?v=yRpp-D7NlOQ&t=236s)
 * [如何最快速的刷题](https://www.youtube.com/watch?v=HlIu_kf_KH0&t=1917s)
+* [花花酱 LeetCode 全系例](https://www.bilibili.com/video/BV1Et411J7Dh?from=search&seid=5429381296856667717)
 * [LeetCode使用介绍](https://blog.csdn.net/seabiscuityj/article/details/80730733)
    * [免费刷LeetCode的网站](https://leetcode.jp/problems.php?page_index=1&sort=0000&keyword=&company=)
    * [LeetCode到底应该怎么刷？面试应该注意哪些问题？大公司到底怎么进？来看看LC大神们的刷题攻略](https://zhuanlan.zhihu.com/p/98580817)
