@@ -435,7 +435,7 @@ java常用算法手册 第三版本.pdf
 * [LeetCode解题汇总目录](https://blog.csdn.net/qq_21201267/article/details/100577842)
 
 * [推荐4个基于 Java 语言的 Leetcode 题解项目！算法面试不愁了！](https://juejin.im/post/5edb5989f265da771066dea9)
-
+* [LeetCode按照怎样的顺序来刷题比较好？](https://www.zhihu.com/question/36738189/answer/797854274?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 
 算法公众号
 
@@ -471,10 +471,10 @@ https://space.bilibili.com/354892788?...
 绵羊教授youtube传送门: https://www.youtube.com/channel/UCB7X04ICYJ_LMyFN3045wPw
 
 #  参考书籍
+   * []()
    * [码农找工作之：秒杀算法面试必须掌握的14种模式](https://zhuanlan.zhihu.com/p/90664857)
    * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
    * [算法与数据结构+一点点ACM从入门到进阶吐血整理推荐书单（珍藏版）](https://pymlovelyq.github.io/2018/10/06/Algorithm/)
-   *  Java程序员的基本修养---疯狂Java讲义
    *  [从入门到修仙的算法之路](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247484319&idx=1&sn=11f9bce35fae40dd2ed54b2b3c785425&chksm=ec6e7ac7db19f3d14c11cd9e6e03f4ef2d31d45332979cf44711f15213dd964d8ced00643260&token=516051101&lang=zh_CN#rd)
    *  https://github.com/githubofrico
    *  [可视化的数据结构 - 各种算法动画演示](https://visualgo.net/en)
