@@ -412,7 +412,7 @@ java常用算法手册 第三版本.pdf
 * [算法导论-麻省理工](https://www.bilibili.com/video/av48922404/?spm_id_from=333.788.videocard.0)
 * [牛客网算法初级班](https://www.bilibili.com/video/BV1B7411d786/?spm_id_from=333.788.videocard.2)
 
-# leeCode视频
+# leetCode视频
 * [白板讲题：如何十倍提升刷题效率，把算法题刷透？](https://www.youtube.com/watch?v=cIoGuSCU14A)
 * [你会这100道算法题就够了](https://www.youtube.com/watch?v=yRpp-D7NlOQ&t=236s)
 * [如何最快速的刷题](https://www.youtube.com/watch?v=HlIu_kf_KH0&t=1917s)
@@ -434,7 +434,7 @@ java常用算法手册 第三版本.pdf
 * [leetcode题解](https://mp.weixin.qq.com/s/vG0URwp8gI4jOkZlG5Vp6g)
 * [LeetCode解题汇总目录](https://blog.csdn.net/qq_21201267/article/details/100577842)
 
-
+* [推荐4个基于 Java 语言的 Leetcode 题解项目！算法面试不愁了！](https://juejin.im/post/5edb5989f265da771066dea9)
 
 
 算法公众号
