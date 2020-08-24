@@ -6,7 +6,6 @@
 
 # [如何系统地学习算法](https://www.zhihu.com/question/20588261/answer/756044375?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 # [如何正确高效地使用LeetCode](https://www.zhihu.com/question/26580300)
-# [900 多道LeetCode All in One 题目讲解汇总](https://www.cnblogs.com/grandyang/p/4606334.html)
 # 目录
 ---
 <a href="https://ibb.co/ZgBpzfR"><img src="https://i.ibb.co/T04xMwD/image.png" alt="image" border="0"></a>
@@ -390,6 +389,7 @@ java常用算法手册 第三版本.pdf
 * [Leetcode刷题顺序，看这一篇就够了](https://zhuanlan.zhihu.com/p/161036474)
 * [如何科学的刷 LeetCode ](https://zhuanlan.zhihu.com/p/96883783)
 * [白板讲题：如何十倍提升刷题效率，把算法题刷透？](https://www.youtube.com/watch?v=cIoGuSCU14A)
+* [LeetCode按照怎样的顺序来刷题比较好？](https://www.zhihu.com/question/36738189/answer/797854274?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [你会这100道算法题就够了](https://www.youtube.com/watch?v=yRpp-D7NlOQ&t=236s)
 * [如何最快速的刷题](https://www.youtube.com/watch?v=HlIu_kf_KH0&t=1917s)
 * [花花酱 LeetCode 全系例](https://www.bilibili.com/video/BV1Et411J7Dh?from=search&seid=5429381296856667717)
@@ -397,7 +397,6 @@ java常用算法手册 第三版本.pdf
    * [免费刷LeetCode的网站](https://leetcode.jp/problems.php?page_index=1&sort=0000&keyword=&company=)
    * [LeetCode到底应该怎么刷？面试应该注意哪些问题？大公司到底怎么进？来看看LC大神们的刷题攻略](https://zhuanlan.zhihu.com/p/98580817)
    * [LeetCode中的easy medium类形的题目](https://leetcode.com/discuss/career/449135/How-to-effectively-use-LeetCode-to-prepare-for-interviews!!)
-
 * [高效刷题，如何使用LeetCode来准备美国硅谷技术公司面试，拿到Offer](https://www.youtube.com/watch?v=XObufhWMQ1o)
 * [油管上最好的Java 版本 LeetCode逐题详解](https://www.bilibili.com/video/av51692387/?spm_id_from=333.788.videocard.4)
 * [Leetcode刷题大全](https://www.bilibili.com/video/av68783564/?spm_id_from=333.788.videocard.2)
@@ -405,13 +404,12 @@ java常用算法手册 第三版本.pdf
 * [如何高效刷题](https://www.youtube.com/watch?v=QcLGNFBb8YI)
 * [左神算法 初级](https://www.bilibili.com/video/BV1KJ411E76p/?spm_id_from=333.788.videocard.17)
 * [算法刷题教程](https://www.bilibili.com/video/BV1v4411W7aU/?spm_id_from=333.788.videocard.3)
-
 * [Leetcode 简略题解 - 共567题](https://zhuanlan.zhihu.com/p/25697275)
 * [leetcode题解](https://mp.weixin.qq.com/s/vG0URwp8gI4jOkZlG5Vp6g)
-* [LeetCode解题汇总目录](https://blog.csdn.net/qq_21201267/article/details/100577842)
-
+* [1500道LeetCode解题汇总目录](https://blog.csdn.net/qq_21201267/article/details/100577842)
+* [900 多道LeetCode All in One 题目讲解汇总](https://www.cnblogs.com/grandyang/p/4606334.html)
 * [推荐4个基于 Java 语言的 Leetcode 题解项目！算法面试不愁了！](https://juejin.im/post/5edb5989f265da771066dea9)
-* [LeetCode按照怎样的顺序来刷题比较好？](https://www.zhihu.com/question/36738189/answer/797854274?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+
 
 算法公众号
 
