@@ -157,18 +157,6 @@ java常用算法手册 第三版本.pdf
 
 * [图解 Java 中的数据结构及原理，傻瓜也能看懂](https://mp.weixin.qq.com/s/2t_XO3G1v1jx7q0-9YU0YA)
 
-
-
-
-
-
-
-
-
-
-
-
-
 ##  数据结构
    * 4种逻辑结构
      * [集合结构](#集合结构)
@@ -398,24 +386,9 @@ java常用算法手册 第三版本.pdf
    
       数据元素存放在任意的存储单元里，这组存储单元可以是连续的，也可以是不连续的
 
-
-# 算法视频
-* [揭秘 Google 工程师的4个学习算法的小窍门](https://www.bilibili.com/video/BV1V7411g76u/?spm_id_from=333.788.videocard.14)
-* [Google面试官讲算法：如何吃透算法，获得Hire？](https://www.youtube.com/watch?v=JU2ZpooE9PM&t=6s)
-* [尚硅谷-韩顺平图解Java数据结构和算法](https://www.bilibili.com/video/av54029771?from=search&seid=14417099915885539219)
-* [斯坦福大学】算法设计与分析（第 1 部分）# Algorithms Design and Analysis](https://www.bilibili.com/video/av60729219/?spm_id_from=333.788.videocard.3)
-* [斯坦福大学】算法设计与分析（第二版） Algorithms Design and Analysis, Part 2](https://www.bilibili.com/video/av60098061/?spm_id_from=333.788.videocard.6)
-
-* [数据结构与算法365天特训营（带视频+源码课件）](https://www.bilibili.com/video/av60287175/?spm_id_from=333.788.videocard.1)
-* [BAT算法特训](https://www.bilibili.com/video/av57622237/?spm_id_from=333.788.videocard.3)
-* [十大算法精讲](https://www.bilibili.com/video/av62628269/?spm_id_from=333.788.videocard.2)
-* [剑指offer-数据结构与算法（全套无水印）](https://www.bilibili.com/video/av64288683/?spm_id_from=333.788.videocard.4)
-* [算法第四版 english](https://www.bilibili.com/video/av66547337/?spm_id_from=333.788.videocard.19)
-* [【全】清华大学-邓俊辉MOOC数据结构与算法全套](https://www.bilibili.com/video/av49361421/?spm_id_from=333.788.videocard.14)
-* [算法导论-麻省理工](https://www.bilibili.com/video/av48922404/?spm_id_from=333.788.videocard.0)
-* [牛客网算法初级班](https://www.bilibili.com/video/BV1B7411d786/?spm_id_from=333.788.videocard.2)
-
 # leetCode视频
+* [Leetcode刷题顺序，看这一篇就够了](https://zhuanlan.zhihu.com/p/161036474)
+* [如何科学的刷 LeetCode ](https://zhuanlan.zhihu.com/p/96883783)
 * [白板讲题：如何十倍提升刷题效率，把算法题刷透？](https://www.youtube.com/watch?v=cIoGuSCU14A)
 * [你会这100道算法题就够了](https://www.youtube.com/watch?v=yRpp-D7NlOQ&t=236s)
 * [如何最快速的刷题](https://www.youtube.com/watch?v=HlIu_kf_KH0&t=1917s)
@@ -473,21 +446,38 @@ https://space.bilibili.com/354892788?...
 
 绵羊教授youtube传送门: https://www.youtube.com/channel/UCB7X04ICYJ_LMyFN3045wPw
 
+# 算法视频
+* [揭秘 Google 工程师的4个学习算法的小窍门](https://www.bilibili.com/video/BV1V7411g76u/?spm_id_from=333.788.videocard.14)
+* [Google面试官讲算法：如何吃透算法，获得Hire？](https://www.youtube.com/watch?v=JU2ZpooE9PM&t=6s)
+* [尚硅谷-韩顺平图解Java数据结构和算法](https://www.bilibili.com/video/av54029771?from=search&seid=14417099915885539219)
+* [斯坦福大学】算法设计与分析（第 1 部分）# Algorithms Design and Analysis](https://www.bilibili.com/video/av60729219/?spm_id_from=333.788.videocard.3)
+* [斯坦福大学】算法设计与分析（第二版） Algorithms Design and Analysis, Part 2](https://www.bilibili.com/video/av60098061/?spm_id_from=333.788.videocard.6)
+
+* [数据结构与算法365天特训营（带视频+源码课件）](https://www.bilibili.com/video/av60287175/?spm_id_from=333.788.videocard.1)
+* [BAT算法特训](https://www.bilibili.com/video/av57622237/?spm_id_from=333.788.videocard.3)
+* [十大算法精讲](https://www.bilibili.com/video/av62628269/?spm_id_from=333.788.videocard.2)
+* [剑指offer-数据结构与算法（全套无水印）](https://www.bilibili.com/video/av64288683/?spm_id_from=333.788.videocard.4)
+* [算法第四版 english](https://www.bilibili.com/video/av66547337/?spm_id_from=333.788.videocard.19)
+* [【全】清华大学-邓俊辉MOOC数据结构与算法全套](https://www.bilibili.com/video/av49361421/?spm_id_from=333.788.videocard.14)
+* [算法导论-麻省理工](https://www.bilibili.com/video/av48922404/?spm_id_from=333.788.videocard.0)
+* [牛客网算法初级班](https://www.bilibili.com/video/BV1B7411d786/?spm_id_from=333.788.videocard.2)
+
+
+
 #  参考书籍
-   * [Leetcode刷题顺序，看这一篇就够了](https://zhuanlan.zhihu.com/p/161036474)
-   * [如何科学的刷 LeetCode ](https://zhuanlan.zhihu.com/p/96883783)
-   * [码农找工作之：秒杀算法面试必须掌握的14种模式](https://zhuanlan.zhihu.com/p/90664857)
-   * [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
-   * [算法与数据结构+一点点ACM从入门到进阶吐血整理推荐书单（珍藏版）](https://pymlovelyq.github.io/2018/10/06/Algorithm/)
+
+   *  [码农找工作之：秒杀算法面试必须掌握的14种模式](https://zhuanlan.zhihu.com/p/90664857)
+   *  [程序员一般喜欢浏览哪些网站呢？](https://www.zhihu.com/question/283272958/answer/598956527?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+   *  [算法与数据结构+一点点ACM从入门到进阶吐血整理推荐书单（珍藏版）](https://pymlovelyq.github.io/2018/10/06/Algorithm/)
    *  [从入门到修仙的算法之路](https://mp.weixin.qq.com/s?__biz=MzI5MzYzMDAwNw==&mid=2247484319&idx=1&sn=11f9bce35fae40dd2ed54b2b3c785425&chksm=ec6e7ac7db19f3d14c11cd9e6e03f4ef2d31d45332979cf44711f15213dd964d8ced00643260&token=516051101&lang=zh_CN#rd)
    *  https://github.com/githubofrico
    *  [可视化的数据结构 - 各种算法动画演示](https://visualgo.net/en)
    *  [Algomation：查看、创建和分享算法的学习平台](http://hao.jobbole.com/algomation/)
    *  [ Algorithm Visualizer，做得很好](https://algorithm-visualizer.org/divide-and-conquer/bucket-sort)
    *  [[数据结构与算法]超级详细解读基本排序算法（不看后悔，带排序演示动画）](https://blog.csdn.net/david_520042/article/details/52784620)
-   * [剖析八种经典排序算法](https://blog.csdn.net/l953972252/article/details/51284884)
-   * [https://github.com/zhuli19901106/leetcode-2](https://github.com/zhuli19901106/leetcode-2)
-   * [看动画学算法](https://github.com/MisterBooo/LeetCodeAnimation)
-   * [Java排序算法详解及示例汇总——超详细](https://blog.csdn.net/sd09044901guic/article/details/80613053)
-  * [程序员必须掌握的核心算法有哪些](https://blog.csdn.net/m0_37907797/article/details/102661778?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
-  * [那些年，我们又爱又恨的HashMap，你掌握了吗？](https://www.jianshu.com/p/42c8ebbf83d5)
+   *  [剖析八种经典排序算法](https://blog.csdn.net/l953972252/article/details/51284884)
+   *  [https://github.com/zhuli19901106/leetcode-2](https://github.com/zhuli19901106/leetcode-2)
+   *  [看动画学算法](https://github.com/MisterBooo/LeetCodeAnimation)
+   *  [Java排序算法详解及示例汇总——超详细](https://blog.csdn.net/sd09044901guic/article/details/80613053)
+   *  [程序员必须掌握的核心算法有哪些](https://blog.csdn.net/m0_37907797/article/details/102661778?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
+   *  [那些年，我们又爱又恨的HashMap，你掌握了吗？](https://www.jianshu.com/p/42c8ebbf83d5)
