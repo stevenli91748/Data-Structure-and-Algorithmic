@@ -9,6 +9,7 @@
 
 # [如何系统地学习算法](https://www.zhihu.com/question/20588261/answer/756044375?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 # [如何正确高效地使用LeetCode](https://www.zhihu.com/question/26580300)
+# [可以查答案的网址：LeetCode / LintCode 答案查询](https://www.jiuzhang.com/solution/)
 # 目录
 ---
 <a href="https://ibb.co/ZgBpzfR"><img src="https://i.ibb.co/T04xMwD/image.png" alt="image" border="0"></a>
