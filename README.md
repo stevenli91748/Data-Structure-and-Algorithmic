@@ -1,5 +1,8 @@
 # Data-Structure-and-Algorithmic
 
+**去年找互联网的工作，刷了两遍LeetCode，只做了前200道。面试过程中碰到的算法题基本都被秒杀了。最后拿了9个offer。我是按Tag来刷的。链表，二叉树，回溯，深度宽度优先遍历，图，贪心，动规，数组，哈希表……每个tag由easy到hard，每道题先自己思考，不会的参考了一个开源的解答或者参考Discuss或者博客。开始的时候自己独立思考的时间比较长，后来没了耐心，不会的题目就马上看解答了。一般题目解法有多种，这时候最好尝试一下其他的做法，至少要知道思路。比如有关图的题目就会有DFS和BFS两种解法。Discuss里一般都会有高质量的解答。关键是每道题都要弄明白。一开始用IDE，跑出正确结果，再在线默写代码。后来写的多了，直接在线写代码了。这是一个自然的过程，做的多了就有“手感”了。总结一下，按tag由易到难，每道题弄清楚，知道其他的解法，这是核心！搞定了核心，其他的技巧都是锦上添花了
+
+
 # [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)
 
 #  [数据结构和算法的学习方法路径](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
