@@ -54,6 +54,9 @@
 | 5-3  [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97/README.md) | [无代码] |
 |---|---|
 | **第六章 递归**| [无代码] |
+|排列||
+|子集||
+|组合||
 |---|---|
 | **第七章 排序算法**| [无代码] |
 |7-1 初等排序算法||
@@ -118,9 +121,11 @@
 |AVL树||
 |红黑树||
 |[B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)||
-|区间树||
-|字典树||
-|最小生成树||
+|特殊树||
+|---区间树||
+|---字典树||
+|---最小生成树||
+|---树状数组||
 |TreeMap源码分析||
 |TreeSet源码分析||
 |---|---|
