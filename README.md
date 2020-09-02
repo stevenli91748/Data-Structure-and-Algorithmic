@@ -36,9 +36,9 @@
 |    [3-1-2  矩阵](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md) | [无代码] |
 | 3-2  动态数组(dynamic array)||
 |---|---|
-| **第三章 [链表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| [无代码] |
-| 3-1  单向链表| [无代码] |
-| 3-1  双向链表| [无代码] |
+| **第三章 [链表(Linked list)](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| [无代码] |
+| 3-1  单向链表(singly linked list)| [无代码] |
+| 3-1  双向链表(doubly linked list)| [无代码] |
 | 3-1  环型链表| [无代码] |
 | 3-1  静态链表| [无代码] |
 |---|---|
@@ -71,6 +71,8 @@
 |  ---二分查找算法(非递归)的时间复杂度| [无代码] |
 |  ---二分查找算法(非递归)的空间复杂度| [无代码]|
 |  插值查找算法| [无代码] |
+|  平衡查找算法||
+|     || 
 |  奜波那契(黄金分割法)查找算法| [无代码] |
 |  数据结构中的查找算法| [无代码] |
 |  --顺序表结构中的查找算法| [无代码] |
@@ -88,9 +90,13 @@
 |---|---|
 | **第十二章 树逻辑结构篇**| [无代码] |
 | [B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)||
+| 区间树||
+| 字典树||
+| 最小生成树||
+|||
 |---|---|
 | **第十三章 图逻辑结构篇**| [无代码] |
-| 10-1 | [无代码]|
+| 10-1 二分图匹配| [无代码]|
 | 10-2 | [无代码]|
 | 10-3 广度优先搜索| [无代码]|
 | 10-3 深度优先搜索| [无代码]|
