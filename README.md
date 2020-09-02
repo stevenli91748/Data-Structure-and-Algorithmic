@@ -35,12 +35,14 @@
 |    [3-1-1  稀蔬SPARESARRAY数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md)| [无代码] |
 |    [3-1-2  矩阵](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md) | [无代码] |
 | 3-2  动态数组(dynamic array)||
+| 3-3  ArrayList源码分析||
 |---|---|
 | **第三章 [链表(Linked list)](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| [无代码] |
 | 3-1  单向链表(singly linked list)| [无代码] |
 | 3-1  双向链表(doubly linked list)| [无代码] |
 | 3-1  环型链表| [无代码] |
 | 3-1  静态链表| [无代码] |
+| 3-1  LinkedList源码分析||
 |---|---|
 | **第四章 字符串**| [无代码] | 
 |---|---|
@@ -86,21 +88,8 @@
 |  --树结构中的查找算法| [无代码] |
 |  --图结构中的查找算法| [无代码] |
 |---|---|
-| **第九章 散列表**| [无代码] |
-|直接寻址||
-|散列函数||
-|再hash法||
-|开放地址法||
-|链接法||
-|Bloom Filter||
+| **第九章 哈希表(散列)**| [无代码] |
 |[HashMap底层原理](https://www.bilibili.com/video/BV1uW411N7CG)||
-|源码分析||
-|---HashMap源码分析||
-|---HashTable源码分析||
-|---HashSet源码分析||
-|---HashCode源码分析||
-|---LinkedHashMap源码分析||
-|---Equals源码分析||
 |---|---|
 | **非线性结构篇**| [无代码] |
 | **第十章 二维数组 多维数组逻辑结构篇**| [无代码] |
@@ -108,11 +97,19 @@
 | **第十一章 广义表逻辑结构篇**| [无代码] |
 |---|---|
 | **第十二章 树逻辑结构篇**| [无代码] |
-| [B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)||
-| 区间树||
-| 字典树||
-| 最小生成树||
-|||
+|树的遍历||
+|  前序遍历||
+|  中序遍历||
+|  后序遍历||
+|二叉查找树||
+|AVL树||
+|红黑树||
+|[B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)||
+|区间树||
+|字典树||
+|最小生成树||
+|TreeMap源码分析||
+|TreeSet源码分析||
 |---|---|
 | **第十三章 图逻辑结构篇**| [无代码] |
 | 10-1 二分图匹配| [无代码]|
