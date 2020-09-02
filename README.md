@@ -461,7 +461,7 @@ https://space.bilibili.com/354892788?...
 * [BAT算法特训](https://www.bilibili.com/video/av57622237/?spm_id_from=333.788.videocard.3)
 * [十大算法精讲](https://www.bilibili.com/video/av62628269/?spm_id_from=333.788.videocard.2)
 * [剑指offer-数据结构与算法（全套无水印）](https://www.bilibili.com/video/av64288683/?spm_id_from=333.788.videocard.4)
-* [算法第四版 english](https://www.bilibili.com/video/av66547337/?spm_id_from=333.788.videocard.19)
+* [算法第四版 english](https://www.bilibili.com/video/BV1jx411U768/?spm_id_from=333.788.videocard.1)
 * [【全】清华大学-邓俊辉MOOC数据结构与算法全套](https://www.bilibili.com/video/av49361421/?spm_id_from=333.788.videocard.14)
 * [算法导论-麻省理工](https://www.bilibili.com/video/av48922404/?spm_id_from=333.788.videocard.0)
 * [牛客网算法初级班](https://www.bilibili.com/video/BV1B7411d786/?spm_id_from=333.788.videocard.2)
