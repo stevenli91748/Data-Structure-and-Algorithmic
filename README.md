@@ -46,8 +46,8 @@
 |---|---|
 | **第五章 堆栈 队列**| [无代码] |
 | 5-1  [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/%E5%A0%86/README.md) | [无代码] |
-| 5-2  [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/%E6%A0%88/README.md) | [无代码] |
-| 5-3  队列 | [无代码] |
+| 5-2  [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88/README.md) | [无代码] |
+| 5-3  [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97/README.md) | [无代码] |
 |---|---|
 | **第六章 递归**| [无代码] |
 |---|---|
