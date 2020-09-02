@@ -31,8 +31,10 @@
 |---|---|
 | **线性逻辑结构篇**| |
 | **第三章 稀蔬数组和矩阵(Array)** | [无代码] |
-| [3-1  稀蔬SPARESARRAY数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md)| [无代码] |
-| [3-2  矩阵](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md) | [无代码] |
+| 3-1 静态数组||
+|    [3-1-1  稀蔬SPARESARRAY数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md)| [无代码] |
+|    [3-1-2  矩阵](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md) | [无代码] |
+| 3-2  动态数组(dynamic array)||
 |---|---|
 | **第三章 [链表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| [无代码] |
 | 3-1  单向链表| [无代码] |
@@ -43,7 +45,7 @@
 | **第四章 字符串**| [无代码] | 
 |---|---|
 | **第五章 位运算**| [无代码] | 
-|---|---|
+| 5-1 利用位运算实现集合|---|
 | **第五章 堆栈 队列**| [无代码] |
 | 5-1  [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/%E5%A0%86/README.md) | [无代码] |
 | 5-2  [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88/README.md) | [无代码] |
