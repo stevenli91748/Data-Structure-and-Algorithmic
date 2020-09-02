@@ -34,7 +34,7 @@
 | [3-1  稀蔬SPARESARRAY数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md)| [无代码] |
 | [3-2  矩阵](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md) | [无代码] |
 |---|---|
-| **第三章 链表**| [无代码] |
+| **第三章 [链表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| [无代码] |
 | 3-1  单向链表| [无代码] |
 | 3-1  双向链表| [无代码] |
 | 3-1  环型链表| [无代码] |
