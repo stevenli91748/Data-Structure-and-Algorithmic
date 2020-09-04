@@ -1,6 +1,6 @@
 # 目录
 
-  *  [线性表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
+  *  [线性表---LinkList](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
       *  [线性表的基本操作](#线性表的基本操作)
       *  [线性表的顺序存储结构](#线性表的顺序存储结构)
       *  [线性表的链式存储结构](#线性表的链式存储结构)
@@ -22,19 +22,21 @@
             - [链表是否相交](#链表是否相交)
             - [链表的交点](#链表的交点)
             - [多项式的列表表示法](#多项式的列表表示法)
-         *  [静态链表](#静态链表)
+         *  [静态链表---StaticLinkList](#静态链表)
             - 
-         *  [双向链表](#双向链表)
+         *  [双向链表---LinkListDouble](#双向链表)
             -  双向链表的建立
             -  双向链表的节点插入
             -  双向链表的节点删除
-         *  [环链表](#环链表)
+         *  [环链表---LinkListConnect](#环链表)
             - 环型链表的建立
             - 环型链表的节点插入
             - 环型链表的节点删除
             - 环型链表的串联
             - 环型链表表示稀疏矩阵
          *  [双向环链表]()   
+      *  链栈---LinkStack
+      *  两栈共享空间---DoubleStack
       *  Linkedlist源码分析
       *  [线性表的分析](#线性表的分析)
          *  [线性表的实现分析](#线性表的实现分析)
