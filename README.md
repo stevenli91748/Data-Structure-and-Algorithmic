@@ -17,6 +17,9 @@
 <a href="https://ibb.co/ZgBpzfR"><img src="https://i.ibb.co/T04xMwD/image.png" alt="image" border="0"></a>
 <a href="https://ibb.co/xHNNFgf"><img src="https://i.ibb.co/fvssDNn/image.png" alt="image" border="0"></a>
 
+[精尽数据结构与算法学习指南](http://svip.iocoder.cn/Data-Structures-and-Algorithms/tutorials/)|
+---|
+
 [Java数据结构与算法教程](https://www.jb51.net/Special/632.htm)
 
 | **第一章 数据结构和算法概述** | [无代码] | 
