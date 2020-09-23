@@ -104,11 +104,14 @@
 |[HashMap底层原理](https://www.bilibili.com/video/BV1uW411N7CG)||
 |源码分析||
 |---HashTable源码分析||
-|---HashMap源码分析||
+|---[HashMap源码分析](https://www.tianxiaobo.com/2018/01/18/HashMap-%E6%BA%90%E7%A0%81%E8%AF%A6%E7%BB%86%E5%88%86%E6%9E%90-JDK1-8/)||
 |---HashSet源码分析||
 |---HashCode源码分析||
-|---LinkedHashMap源码分析||
+|---[LinkedHashMap源码分析](https://www.tianxiaobo.com/2018/01/24/LinkedHashMap-%E6%BA%90%E7%A0%81%E8%AF%A6%E7%BB%86%E5%88%86%E6%9E%90%EF%BC%88JDK1-8%EF%BC%89/)||
 |---Equals源码分析||
+|---[LinkList源码分析](https://www.tianxiaobo.com/2018/01/31/LinkedList-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-JDK-1-8/)||
+|---[ArrayList 源码分析](https://www.tianxiaobo.com/2018/01/28/ArrayList%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)||
+|---[TreeMap源码分析](https://www.tianxiaobo.com/2018/01/11/TreeMap%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)||
 |---|---|
 | **非线性结构篇**| [无代码] |
 | **第十章 二维数组 多维数组逻辑结构篇**| [无代码] |
@@ -122,7 +125,7 @@
 |  后序遍历||
 |二叉查找树||
 |AVL树||
-|红黑树||
+|[红黑树](https://www.tianxiaobo.com/2018/01/11/%E7%BA%A2%E9%BB%91%E6%A0%91%E8%AF%A6%E7%BB%86%E5%88%86%E6%9E%90/)||
 |[B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)||
 |特殊树||
 |---区间树||
