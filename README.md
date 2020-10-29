@@ -516,6 +516,7 @@ https://space.bilibili.com/354892788?...
 绵羊教授youtube传送门: https://www.youtube.com/channel/UCB7X04ICYJ_LMyFN3045wPw
 
 # 算法视频
+* [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM&t=566s)
 * [Data Structures for Beginners Full Course Tutorial](https://www.youtube.com/watch?v=YOfXMQnUlZY)
 * [揭秘 Google 工程师的4个学习算法的小窍门](https://www.bilibili.com/video/BV1V7411g76u/?spm_id_from=333.788.videocard.14)
 * [Google面试官讲算法：如何吃透算法，获得Hire？](https://www.youtube.com/watch?v=JU2ZpooE9PM&t=6s)
