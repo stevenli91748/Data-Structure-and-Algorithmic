@@ -553,3 +553,7 @@ https://space.bilibili.com/354892788?...
    *  [Java排序算法详解及示例汇总——超详细](https://blog.csdn.net/sd09044901guic/article/details/80613053)
    *  [程序员必须掌握的核心算法有哪些](https://blog.csdn.net/m0_37907797/article/details/102661778?depth_1-utm_source=distribute.pc_relevant.none-task&utm_source=distribute.pc_relevant.none-task)
    *  [那些年，我们又爱又恨的HashMap，你掌握了吗？](https://www.jianshu.com/p/42c8ebbf83d5)
+   * [怎么学好数据结构？](https://www.zhihu.com/question/19830721/answer/1515924094?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)
+   * [数据结构当中的图怎么都弄不懂怎么办？](https://www.zhihu.com/question/53064373/answer/133956550?utm_source=wechat_session&utm_medium=social&s_r=0)
+   * [学 [数据结构、算法] 的资源推荐](https://zhuanlan.zhihu.com/p/23191006?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
+   * [有哪些学习算法的网站推荐？](https://www.zhihu.com/question/20368410/answer/19628560?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=group3_Answer&utm_campaign=shareopn)
