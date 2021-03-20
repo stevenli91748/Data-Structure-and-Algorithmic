@@ -561,7 +561,7 @@ https://space.bilibili.com/354892788?...
    * [十大经典排序算法大梳理 (动图+代码)](https://mp.weixin.qq.com/s/ekGdneZrMa23ALxt5mvKpQ)
    * [数据结构里各种难啃的“树”，一文搞懂它](https://mp.weixin.qq.com/s/k4-RaW4ROlo6chSXsO_4AA)
    * [一篇文章彻底学会递归思路解题！](https://mp.weixin.qq.com/s/-V0jBkPoZHYC2jLfSnQ6-g)
-   * []()
+   * [推荐两位谷歌大佬的算法刷题笔记！](https://bbs.cvmart.net/topics/4079)
    * []()
    * []()
    * []()
