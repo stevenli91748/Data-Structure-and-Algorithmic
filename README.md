@@ -466,7 +466,7 @@ java常用算法手册 第三版本.pdf
 * [LeetCode按照怎样的顺序来刷题比较好？](https://www.zhihu.com/question/36738189/answer/797854274?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)
 * [你会这100道算法题就够了](https://www.youtube.com/watch?v=yRpp-D7NlOQ&t=236s)
 * [如何最快速的刷题](https://www.youtube.com/watch?v=HlIu_kf_KH0&t=1917s)
-* [花花酱 LeetCode 全系例](https://www.bilibili.com/video/BV1Et411J7Dh?from=search&seid=5429381296856667717)
+* [花花酱 LeetCode 全系例](https://www.youtube.com/c/HuaHuaLeetCode/videos)
 * [LeetCode使用介绍](https://blog.csdn.net/seabiscuityj/article/details/80730733)
    * [免费刷LeetCode的网站](https://leetcode.jp/problems.php?page_index=1&sort=0000&keyword=&company=)
    * [LeetCode到底应该怎么刷？面试应该注意哪些问题？大公司到底怎么进？来看看LC大神们的刷题攻略](https://zhuanlan.zhihu.com/p/98580817)
@@ -504,9 +504,9 @@ B站：
 
 1. 花花酱
 
-https://space.bilibili.com/9880352?fr...
+https://www.youtube.com/c/HuaHuaLeetCode/videos
 
-花花酱youtube传送门: https://www.youtube.com/user/xxfflower
+花花酱youtube传送门: https://www.youtube.com/c/HuaHuaLeetCode/videos
 
 2. 小Q刷题
 
