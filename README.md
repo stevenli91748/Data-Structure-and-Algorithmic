@@ -25,7 +25,8 @@
 [精尽数据结构与算法学习指南](http://svip.iocoder.cn/Data-Structures-and-Algorithms/tutorials/)|[九章算法官方频道](https://www.youtube.com/channel/UCdBXs_F9YlBodIH7eK0BYfQ/videos)|
 ---|---|
 
-[Java数据结构与算法教程](https://www.jb51.net/Special/632.htm)
+[Java数据结构与算法教程](https://www.jb51.net/Special/632.htm)|
+---|
 
 ---
 
