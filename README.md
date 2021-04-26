@@ -544,6 +544,14 @@ https://space.bilibili.com/354892788?...
 
 
 #  参考书籍
+
+
+
+   * [编程马拉松算法目录](https://blog.csdn.net/derrantcm/article/details/51512284) 
+   * [【LeetCode-面试算法经典-Java实现】【所有题目目录索引】](https://wangjunchao.blog.csdn.net/article/details/46905087) 
+   * [【剑指Offer学习】【所有面试题汇总】](https://wangjunchao.blog.csdn.net/article/details/46887821)
+   * []()
+   * []()
    * [300分钟搞定数据结构与算法](https://www.kancloud.cn/alex_wsc/dataalg)
    * [整理得吐血了，二叉树、红黑树、B&B+树超齐全，快速搞定数据结构](https://cloud.tencent.com/developer/article/1669288?from=article.detail.1758476)
    *  [关于如何学习算法，这些文章可以帮助你！](https://zhuanlan.zhihu.com/p/115770442)
