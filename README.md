@@ -583,7 +583,7 @@ https://space.bilibili.com/354892788?...
    * [数据结构里各种难啃的“树”，一文搞懂它](https://mp.weixin.qq.com/s/k4-RaW4ROlo6chSXsO_4AA)
    * [一篇文章彻底学会递归思路解题！](https://mp.weixin.qq.com/s/-V0jBkPoZHYC2jLfSnQ6-g)
    * [推荐两位谷歌大佬的算法刷题笔记！](https://bbs.cvmart.net/topics/4079)
-   * []()
+   * [花了一个月的时间在一个oj网站只刷了这些题，从此入门了绝大多数算法](https://zhuanlan.zhihu.com/p/163681526)
    * []()
    * []()
    
