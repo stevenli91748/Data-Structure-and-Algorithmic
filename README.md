@@ -22,8 +22,8 @@
 
 ---
 
-[精尽数据结构与算法学习指南](http://svip.iocoder.cn/Data-Structures-and-Algorithms/tutorials/)|[九章算法官方频道](https://www.youtube.com/channel/UCdBXs_F9YlBodIH7eK0BYfQ/videos)|[X Code---系统设计 和 算法](https://www.youtube.com/channel/UCicSh3qMeTmYybY7wdiTjmg)|
----|---|---|
+[精尽数据结构与算法学习指南](http://svip.iocoder.cn/Data-Structures-and-Algorithms/tutorials/)|[九章算法官方频道](https://www.youtube.com/channel/UCdBXs_F9YlBodIH7eK0BYfQ/videos)|[X Code---系统设计 和 算法](https://www.youtube.com/channel/UCicSh3qMeTmYybY7wdiTjmg)|[经验分享  这 5 个自学算法的工具和网站你知道几个？](https://zhuanlan.zhihu.com/p/365816763)|
+---|---|---|---|
 
 [来Offer---LaiOffer](https://www.youtube.com/channel/UC12XyYzyyZwFiIgafl_Ga6w/videos)|[Java数据结构与算法教程](https://www.jb51.net/Special/632.htm)|
 ---|---|
