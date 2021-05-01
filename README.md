@@ -28,6 +28,10 @@
 [来Offer---LaiOffer](https://www.youtube.com/channel/UC12XyYzyyZwFiIgafl_Ga6w/videos)|[Java数据结构与算法教程](https://www.jb51.net/Special/632.htm)|
 ---|---|
 
+[LeetCode CookBook---霜神是前阿里巴巴资深后端工程师](https://books.halfrost.com/leetcode/)|
+---|
+
+
 ---
 
 | **第一章 数据结构和算法概述** | [无代码] | 
