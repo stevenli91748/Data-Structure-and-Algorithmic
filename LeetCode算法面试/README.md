@@ -7,9 +7,9 @@
    * 队列 Queue
    * 链表 Linked List 
    * 数组 Array
+     * 矩阵 
    * 字符串处理
    * 随机
-   * 矩阵 
    * 哈希表 Hash Table
    * 二叉树 Binary Tree  
    * 堆 Heap
