@@ -45,9 +45,9 @@
 ## 经典数组题目
    
    1. 二分法思想： [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484289&idx=1&sn=929fee0ac9f308a863a4fc4e2e44506e&scene=21#wechat_redirect)
-   2. 双指针法思想
-   3. 滑动窗口思想
-   4. 模拟行为思想
+   2. 双指针法思想: [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484304&idx=1&sn=ad2e11d171f74ad772fd23b10142e3f3&scene=21#wechat_redirect)
+   3. 滑动窗口思想: [数组：滑动窗口拯救了你](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484315&idx=1&sn=414b885abba34abfd8d9f35c9f61b857&scene=21#wechat_redirect)
+   4. 模拟行为思想: [数组：这个循环可以转懵很多人！](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484331&idx=1&sn=dc41b2ba53227743f6a1b0433f9db6ef&scene=21#wechat_redirect)
 
 
 
