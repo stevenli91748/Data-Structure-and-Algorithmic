@@ -42,7 +42,7 @@
    一维数组是存放在连续内存空间上的相同类型数据的集合，二维数组其实就是一个矩阵，二位数组中其实是一个线性数组存放着 其他数组的首地址，所以二维数据在内存中array[3][4]不是 3*4 的连续地址空间，
    而是四条连续的地址空间组成
   
-## 经典数组题目
+## [经典数组题目](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)
    
    1. 二分法思想： [数组：每次遇到二分法，都是一看就会，一写就废](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484289&idx=1&sn=929fee0ac9f308a863a4fc4e2e44506e&scene=21#wechat_redirect)
    2. 双指针法思想: [数组：就移除个元素很难么？](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484304&idx=1&sn=ad2e11d171f74ad772fd23b10142e3f3&scene=21#wechat_redirect)
