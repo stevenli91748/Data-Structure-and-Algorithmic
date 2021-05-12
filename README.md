@@ -11,6 +11,7 @@
 
 # [LeetCode 刷题攻略---一个超级详细的刷题顺序](https://github.com/stevenli91748/leetcode-master)
 # [刷完 LeetCode 是什么水平？按照怎样的顺序来刷题比较好？](https://zhuanlan.zhihu.com/p/258542340)
+# [LeetCode CookBook---霜神是前阿里巴巴资深后端工程师](https://books.halfrost.com/leetcode/)
 # [刷leetcode不知道从哪里刷起？？ 来看看，BAT工程师已经把刷题题目顺序都排好了，每道题还带详细题解](https://zhuanlan.zhihu.com/p/339849416)
 # [如何系统地学习算法](https://www.zhihu.com/question/20588261/answer/756044375?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 # [如何正确高效地使用LeetCode](https://www.zhihu.com/question/26580300)
