@@ -36,6 +36,10 @@
 
 ---
 
+[LeetCode 算法面试题解](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/README.md)|
+---|
+
+
 | **第一章 数据结构和算法概述** | [无代码] | 
 | :--- | :---: | 
 | 1-1 数据结构和算法的关系 | [无代码] |
@@ -241,10 +245,11 @@ java常用算法手册 第三版本.pdf
 * [图解 Java 中的数据结构及原理，傻瓜也能看懂](https://mp.weixin.qq.com/s/2t_XO3G1v1jx7q0-9YU0YA)
 
 ##  数据结构
+   * 数学数据结构
    * 4种逻辑结构
-     * [集合结构](#集合结构)
+     * [1. 集合结构](#集合结构)
        *  [集合](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%9B%86%E5%90%88.md)
-     * [线性结构](#线性结构)
+     * [2. 线性结构](#线性结构)
        *  [数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84.md)     
        *  [线性表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
           *  线性表的基本操作
@@ -279,7 +284,7 @@ java常用算法手册 第三版本.pdf
        *  [散列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%A3%E5%88%97.md)
             *  散列的概念
 
-     * [树型结构](#树型结构)
+     * [3. 树型结构](#树型结构)
        *  [树](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91.md)
           *  树的概述
              *  树的存储结构 
@@ -304,7 +309,7 @@ java常用算法手册 第三版本.pdf
           *  森林 树和二叉树的转换
        *  哈夫曼树
           *  哈夫曼树的概念
-     * [图型结构](#图型结构)
+     * [4. 图型结构](#图型结构)
        *  [图](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE.md)
           *  图的存储结构
           *  图的遍历
