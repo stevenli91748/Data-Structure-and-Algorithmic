@@ -73,7 +73,7 @@
 | **第四章 字符串**| [无代码] | 
 |[字符串：总结篇](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg) ||
 |---|---|
-| **第五章 位运算**| [无代码] | 
+| **[第五章 位运算](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%BD%8D/README.md)**| [无代码] | 
 | 5-1 利用位运算实现集合|---|
 | **第五章 堆栈 队列**| [无代码] |
 | 5-1  [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/%E5%A0%86/README.md) | [无代码] |
