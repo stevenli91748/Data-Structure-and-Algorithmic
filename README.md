@@ -60,15 +60,18 @@
 |    [3-1-2  矩阵](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md) | [无代码] |
 | 3-2  动态数组(dynamic array)||
 | 3-3  ArrayList源码分析||
+| 3-4  [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)||
 |---|---|
 | **第三章 [链表(Linked list)](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| [无代码] |
 | 3-1  单向链表(singly linked list)| [无代码] |
-| 3-1  双向链表(doubly linked list)| [无代码] |
-| 3-1  环型链表| [无代码] |
-| 3-1  静态链表| [无代码] |
-| 3-1  LinkedList源码分析||
+| 3-2  双向链表(doubly linked list)| [无代码] |
+| 3-3  环型链表| [无代码] |
+| 3-4  静态链表| [无代码] |
+| 3-5  LinkedList源码分析||
+| 3-6  [链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)||
 |---|---|
 | **第四章 字符串**| [无代码] | 
+|[字符串：总结篇](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg) ||
 |---|---|
 | **第五章 位运算**| [无代码] | 
 | 5-1 利用位运算实现集合|---|
@@ -116,14 +119,14 @@
 |  --图结构中的查找算法| [无代码] |
 |---|---|
 | **第九章 散列表**| [无代码] |
-|直接寻址||
-|散列函数||
-|开放地址法||
-|链接法||
-|再hash法||
-|Bloom Filter||
-|[HashMap底层原理](https://www.bilibili.com/video/BV1uW411N7CG)||
-|源码分析||
+|1. 直接寻址||
+|2. 散列函数||
+|3. 开放地址法||
+|4. 链接法||
+|5. 再hash法||
+|6. Bloom Filter||
+|7. [HashMap底层原理](https://www.bilibili.com/video/BV1uW411N7CG)||
+|8. 源码分析||
 |---HashTable源码分析||
 |---[HashMap源码分析](https://www.tianxiaobo.com/2018/01/18/HashMap-%E6%BA%90%E7%A0%81%E8%AF%A6%E7%BB%86%E5%88%86%E6%9E%90-JDK1-8/)||
 |---HashSet源码分析||
@@ -133,6 +136,7 @@
 |---[LinkList源码分析](https://www.tianxiaobo.com/2018/01/31/LinkedList-%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90-JDK-1-8/)||
 |---[ArrayList 源码分析](https://www.tianxiaobo.com/2018/01/28/ArrayList%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)||
 |---[TreeMap源码分析](https://www.tianxiaobo.com/2018/01/11/TreeMap%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)||
+|[9. 哈希表：总结篇](https://mp.weixin.qq.com/s/1s91yXtarL-PkX07BfnwLg)||
 |---|---|
 | **非线性结构篇**| [无代码] |
 | **第十章 二维数组 多维数组逻辑结构篇**| [无代码] |
