@@ -1,5 +1,40 @@
 
 # LeetCode 
+
+## 分类
+* 2 Pattern: Sliding Window
+* 3 Pattern: Two Pointers
+* 4 Pattern: Fast & Slow pointers
+* 5 Pattern: Merge Intervals
+* 6 Pattern: Cyclic Sort
+* 7 Pattern: In-place Reversal of a LinkedList
+* 8 Pattern: Tree Breadth First Search
+
+9. Pattern: Tree Depth First Search
+
+10. Pattern: Two Heaps
+
+11. Pattern: Subsets
+
+12. Pattern: Modified Binary Search
+
+13. Pattern: Bitwise XOR
+
+14. Pattern: Top 'K' Elements
+
+15. Pattern: K-way merge
+
+16. Pattern : 0/1 Knapsack (Dynamic Programming)
+
+17. Pattern: Topological Sort (Graph)
+
+18. Miscellaneous
+
+19. Conclusions
+
+
+
+
 ## 数据结构部分
    * 比特位操作
    * 数学
