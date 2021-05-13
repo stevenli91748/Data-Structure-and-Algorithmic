@@ -53,4 +53,4 @@
   * 股票系列
     *  [动态规划：股票系列总结篇](https://mp.weixin.qq.com/s/sC5XyEtDQWkonKnbCvZhDw)
   * 子序列系列
-  * 动态规划总结篇
+  * [动态规划总结篇](https://mp.weixin.qq.com/s/ES1SXf54047496YnNdeirA)
