@@ -1,3 +1,0 @@
-# EASY
-# MEDI
-# HARD
