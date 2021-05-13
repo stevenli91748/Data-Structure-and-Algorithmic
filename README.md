@@ -70,7 +70,7 @@
 | 3-5  LinkedList源码分析||
 | 3-6  [链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)||
 |---|---|
-| **第四章 字符串**| [无代码] | 
+| **[第四章 字符串](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md)**| [无代码] | 
 |[字符串：总结篇](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg) ||
 |---|---|
 | **[第五章 位运算](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%BD%8D/README.md)**| [无代码] | 
