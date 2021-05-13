@@ -152,7 +152,7 @@
 |二叉查找树||
 |  [二叉树：总结篇](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)||
 |AVL树||
-|[红黑树](https://www.tianxiaobo.com/2018/01/11/%E7%BA%A2%E9%BB%91%E6%A0%91%E8%AF%A6%E7%BB%86%E5%88%86%E6%9E%90/)||
+|[红黑树]()||
 |[B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)||
 |特殊树||
 |---区间树||
@@ -162,7 +162,7 @@
 |TreeMap源码分析||
 |TreeSet源码分析||
 |---|---|
-| **第十三章 图逻辑结构篇**| [无代码] |
+| **[第十三章 图逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE/README.md)**| [无代码] |
 |图的三种表示方法||
 | 10-3 广度优先搜索| [无代码]|
 | 10-3 深度优先搜索| [无代码]|
@@ -193,7 +193,7 @@
 | 概率算法思想  | [无代码] |
 |---|---|
 | **第十四章 程序员常用算法**| [无代码] |
-| [14-0 递归算法](https://zhuanlan.zhihu.com/p/81952290)| [无代码] |
+| [14-0 递归算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95/README.md)| [无代码] |
 |  [一篇总结带你彻底搞透回溯算法](https://mp.weixin.qq.com/s/r73thpBnK1tXndFDtlsdCQ)  || 
 | **14-1   二分查找算法(非递归)**| [无代码] |
 | 14-1-1 二分查找算法(非递归)的应用场景 | [无代码] |
