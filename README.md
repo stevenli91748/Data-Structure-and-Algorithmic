@@ -204,7 +204,7 @@
 | **11-2 分治算法**| [无代码] |
 | **[11-3 动态规划算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/README.md)**| [无代码] |
 | **11-4 KMP算法**| [无代码] |
-| **11-5 贪心算法**| [无代码] |
+| **[11-5 贪心算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/README.md)**| [无代码] |
 | **11-6 普里姆算法**| [无代码] |
 | **11-7 克鲁斯卡尔算法**| [无代码] |
 | **11-8 迪杰斯特拉算法**| [无代码] |
