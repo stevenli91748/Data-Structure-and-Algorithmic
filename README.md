@@ -81,12 +81,12 @@
 | 5-3  [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97/README.md) | [无代码] |
 |[5-4  栈与队列：总结篇](https://mp.weixin.qq.com/s/xBcHyvHlWq4P13fzxEtkPg)||
 |---|---|
-| **第六章 递归**| [无代码] |
+| **[第六章 递归](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%80%92%E5%BD%92/README.md)**| [无代码] |
 |排列||
 |子集||
 |组合||
 |---|---|
-| **第七章 排序算法**| [无代码] |
+| **[第七章 排序算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/README.md)**| [无代码] |
 |7-1 初等排序算法||
 |7-1-1 冒泡排序| [无代码] |
 |7-1-2 插入排序| [无代码] |
@@ -101,7 +101,7 @@
 |7-2-5 逆序数排序||
 |7-2-6 最小成本排序||
 |---|---|
-| **第八章 查找算法**| [无代码] |
+| **[第八章 查找算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/README.md)**| [无代码] |
 |  顺序查找算法| [无代码] |
 |  二分查找算法(非递归)| [无代码] |
 |  ---二分查找算法(非递归)的应用场景 | [无代码] |
@@ -119,7 +119,7 @@
 |  --树结构中的查找算法| [无代码] |
 |  --图结构中的查找算法| [无代码] |
 |---|---|
-| **第九章 散列表**| [无代码] |
+| **[第九章 散列表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%93%88%E5%B8%8C%E8%A1%A8/README.md)**| [无代码] |
 |1. 直接寻址||
 |2. 散列函数||
 |3. 开放地址法||
