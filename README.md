@@ -119,7 +119,7 @@
 |  --树结构中的查找算法| [无代码] |
 |  --图结构中的查找算法| [无代码] |
 |---|---|
-| **[第九章 散列表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%93%88%E5%B8%8C%E8%A1%A8/README.md)**| [无代码] |
+| **[第九章 哈希表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%93%88%E5%B8%8C%E8%A1%A8/README.md)**| [无代码] |
 |1. 直接寻址||
 |2. 散列函数||
 |3. 开放地址法||
