@@ -55,9 +55,9 @@
 |---|---|
 | **线性逻辑结构篇**| |
 | **第三章 稀蔬数组和矩阵(Array)** | [无代码] |
-| 3-1 静态数组||
+| 3-1  静态数组||
 |    [3-1-1  稀蔬SPARESARRAY数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md)| [无代码] |
-|    [3-1-2  矩阵](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md) | [无代码] |
+|    [3-1-2  矩阵---二维数组 多维数组逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md) | [无代码] |
 | 3-2  动态数组(dynamic array)||
 | 3-3  ArrayList源码分析||
 | 3-4  [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)||
@@ -79,6 +79,7 @@
 | 5-1  [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/%E5%A0%86/README.md) | [无代码] |
 | 5-2  [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88/README.md) | [无代码] |
 | 5-3  [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97/README.md) | [无代码] |
+|[5-4  栈与队列：总结篇](https://mp.weixin.qq.com/s/xBcHyvHlWq4P13fzxEtkPg)||
 |---|---|
 | **第六章 递归**| [无代码] |
 |排列||
