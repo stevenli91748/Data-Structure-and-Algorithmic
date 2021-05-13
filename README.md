@@ -144,12 +144,13 @@
 |---|---|
 | **第十一章 广义表逻辑结构篇**| [无代码] |
 |---|---|
-| **第十二章 树逻辑结构篇**| [无代码] |
+| **[第十二章 树逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91/README.md)**| [无代码] |
 |树的遍历||
 |  前序遍历||
 |  中序遍历||
 |  后序遍历||
 |二叉查找树||
+|  [二叉树：总结篇](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)||
 |AVL树||
 |[红黑树](https://www.tianxiaobo.com/2018/01/11/%E7%BA%A2%E9%BB%91%E6%A0%91%E8%AF%A6%E7%BB%86%E5%88%86%E6%9E%90/)||
 |[B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)||
