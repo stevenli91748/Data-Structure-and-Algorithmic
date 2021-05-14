@@ -7,3 +7,16 @@
 
 * 这些问题一般设计到排序好的数组，而且数值一般满足于一定的区间
 * 如果问题让你需要在排好序/翻转过的数组中，寻找丢失的/重复的/最小的元素
+
+
+**经典题目：**
+
+Cyclic Sort (easy)
+
+Find the Missing Number (easy)
+
+Find all Missing Numbers (easy)
+
+Find the Duplicate Number (easy)
+
+Find all Duplicate Numbers (easy)
