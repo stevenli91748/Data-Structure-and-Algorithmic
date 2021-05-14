@@ -8,5 +8,16 @@
 
 怎么识别啥时候用合并区间模式呀？
 
-当你需要产生一堆相互之间没有交集的区间的时候
-当你听到重叠区间的时候
+* 当你需要产生一堆相互之间没有交集的区间的时候
+* 当你听到重叠区间的时候
+
+
+**经典题目：**
+
+Merge Intervals (medium)
+
+Insert Interval (medium)
+
+Intervals Intersection (medium)
+
+Conflicting Appointments (medium)
