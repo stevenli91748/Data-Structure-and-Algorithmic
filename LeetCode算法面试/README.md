@@ -9,7 +9,7 @@
 * [4 Pattern: Merge Intervals---区间合并类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/4.%20Pattern:%20Merge%20Intervals%EF%BC%8C%E5%8C%BA%E9%97%B4%E5%90%88%E5%B9%B6%E7%B1%BB%E5%9E%8B/README.md)
 * [5 Pattern: Cyclic Sort---循环排序](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/5.%20Pattern:%20Cyclic%20Sort%EF%BC%8C%E5%BE%AA%E7%8E%AF%E6%8E%92%E5%BA%8F/README.md)
 * [6 Pattern: In-place Reversal of a LinkedList---链表翻转](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/6.%20Pattern:%20In-place%20Reversal%20of%20a%20LinkedList%EF%BC%8C%E9%93%BE%E8%A1%A8%E7%BF%BB%E8%BD%AC/README.md)
-* [7 Pattern: Tree Breadth First Search---树上的BFS]()
+* [7 Pattern: Tree Breadth First Search---树上的BFS](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/7.%20Pattern:%20Tree%20Breadth%20First%20Search%EF%BC%8C%E6%A0%91%E4%B8%8A%E7%9A%84BFS/README.md)
 * [8 Pattern: Tree Depth First Search---树上的DFS]()
 * [9 Pattern: Two Heaps---双堆类型]()
 * [10 Pattern: Subsets---子集类型，一般都是使用多重DFS]()
