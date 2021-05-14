@@ -14,13 +14,11 @@
 * [9 Pattern: Two Heaps---双堆类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/9.%20Pattern:%20Two%20Heaps%EF%BC%8C%E5%8F%8C%E5%A0%86%E7%B1%BB%E5%9E%8B/README.md)
 * [10 Pattern: Subsets---子集类型，一般都是使用多重DFS](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/10.%20Pattern:%20Subsets%EF%BC%8C%E5%AD%90%E9%9B%86%E7%B1%BB%E5%9E%8B%EF%BC%8C%E4%B8%80%E8%88%AC%E9%83%BD%E6%98%AF%E4%BD%BF%E7%94%A8%E5%A4%9A%E9%87%8DDFS/README.md)
 * [11 Pattern: Modified Binary Search---改造过的二分](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/11.%20Pattern:%20Modified%20Binary%20Search%EF%BC%8C%E6%94%B9%E9%80%A0%E8%BF%87%E7%9A%84%E4%BA%8C%E5%88%86/README.md)
-* 12 Pattern: Bitwise XOR
-* [13 Pattern: Top 'K' Elements---前K个系列]()
-* [14 Pattern: K-way merge---多路归并]()
-* [15 Pattern : 0/1 Knapsack (Dynamic Programming)---0/1背包类型]()
-* [16 Pattern: Topological Sort (Graph)---拓扑排序类型]()
-* 17 Miscellaneous
-* 18 Conclusions
+* [12 Pattern: Top 'K' Elements---前K个系列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/12.%20Pattern:%20Top%20%E2%80%98K%E2%80%99%20Elements%EF%BC%8C%E5%89%8DK%E4%B8%AA%E7%B3%BB%E5%88%97/README.md)
+* [13 Pattern: K-way merge---多路归并](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/13.%20Pattern:%20K-way%20merge%EF%BC%8C%E5%A4%9A%E8%B7%AF%E5%BD%92%E5%B9%B6/README.md)
+* [14 Pattern : 0/1 Knapsack (Dynamic Programming)---0/1背包类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/14.%20Pattern:%200%20mod%201%20Knapsack%20(Dynamic%20Programming)/README.md)
+* [15 Pattern: Topological Sort (Graph)---拓扑排序类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/15.%20Pattern:%20Topological%20Sort%20(Graph)%EF%BC%8C%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F%E7%B1%BB%E5%9E%8B/README.md)
+* 16 Pattern: Bitwise XOR
 
 
 ## 数据结构部分
