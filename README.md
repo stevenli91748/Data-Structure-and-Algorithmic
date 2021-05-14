@@ -27,6 +27,7 @@
 [Grokking the Coding Interview: Patterns for Coding Questions----Leetcode刷题顺序,看这一篇就够了](https://www.educative.io/courses/grokking-the-coding-interview?aff=K7qB)|
 ---|
 
+
 [精尽数据结构与算法学习指南](http://svip.iocoder.cn/Data-Structures-and-Algorithms/tutorials/)|[九章算法官方频道](https://www.youtube.com/channel/UCdBXs_F9YlBodIH7eK0BYfQ/videos)|[X Code---系统设计 和 算法](https://www.youtube.com/channel/UCicSh3qMeTmYybY7wdiTjmg)|[经验分享  这 5 个自学算法的工具和网站你知道几个？](https://zhuanlan.zhihu.com/p/365816763)|
 ---|---|---|---|
 
@@ -34,6 +35,9 @@
 ---|---|
 
 [LeetCode CookBook---霜神是前阿里巴巴资深后端工程师](https://books.halfrost.com/leetcode/)|
+---|
+
+[可以查询各个公司算法面试高频题的网站](https://codetop.cc/#/home)|
 ---|
 
 
