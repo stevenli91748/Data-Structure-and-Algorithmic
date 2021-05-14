@@ -74,7 +74,13 @@
 | 1-1 数据结构和算法的关系 | [无代码] |
 | 1-2 线性结构和非线性结构 | [无代码] |
 | [1-3 算法的时间复杂度](https://zhuanlan.zhihu.com/p/50479555)| [无代码] |
+| 1-3-1 [关于时间复杂度，你不知道的都在这里](https://mp.weixin.qq.com/s/LWBfehW1gMuEnXtQjJo-sw)||
+| 1-3-2 [O(n)的算法居然超时了，此时的n究竟是多大？](https://mp.weixin.qq.com/s/73ryNsuPFvBQkt6BbhNzLA)||
+| 1-3-3 [通过一道面试题目，讲一讲递归算法的时间复杂度！](https://mp.weixin.qq.com/s/I6ZXFbw09NR31F5CJR_geQ)||
 | [1-4 算法的空间复杂度](https://www.cxyxiaowu.com/1959.html)| [无代码] |
+| 1-4-1 [关于空间复杂度，可能有几个疑问？](https://mp.weixin.qq.com/s/IPv4pTD6UxKkFBkgeDCZyg)||
+| 1-4-2 [可能对递归理解的还不够！还差得远！](https://mp.weixin.qq.com/s/zLeRB-GPc3q4DG-a5cQLVw)||
+| 1-4-3 [刷了这么多题，你了解自己代码的内存消耗么](https://mp.weixin.qq.com/s/IFZQCxJlI7-_dOC25xIOYQ)||
 |---|---|
 | **6种逻辑结构**| [无代码] |
 | **[第二章 集合逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%9B%86%E5%90%88/README.md)**|[无代码]|
