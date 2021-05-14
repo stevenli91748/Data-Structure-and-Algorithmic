@@ -59,7 +59,7 @@
 
 # Online Judge System(OJ)---在线判题系统
 
-[各家的在线判题系统](https://blog.nowcoder.net/n/3753f38e875b457fa052e149693005ad?from=nowcoder_improve)|
+[各家的在线判题系统---POJ是ACM选手首选OJ，输入模式也是ACM模式](https://blog.nowcoder.net/n/3753f38e875b457fa052e149693005ad?from=nowcoder_improve)|
 ---|
 
 
