@@ -509,7 +509,7 @@ java常用算法手册 第三版本.pdf
 * [1500道LeetCode解题汇总目录](https://blog.csdn.net/qq_21201267/article/details/100577842)
 * [900 多道LeetCode All in One 题目讲解汇总](https://www.cnblogs.com/grandyang/p/4606334.html)
 * [推荐4个基于 Java 语言的 Leetcode 题解项目！算法面试不愁了！](https://juejin.im/post/5edb5989f265da771066dea9)
-
+* [用动画的形式演示 LeetCode 上的题目的项目](https://github.com/MisterBooo/LeetCodeAnimation)
 
 算法公众号
 
