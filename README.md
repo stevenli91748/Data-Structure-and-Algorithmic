@@ -52,8 +52,10 @@
 [LeetCode CookBook---霜神是前阿里巴巴资深后端工程师](https://books.halfrost.com/leetcode/)|
 ---|
 
-[可以查询各个公司算法面试高频题的网站](https://codetop.cc/#/home)|
----|
+# 算法的免费学习资源
+
+[可以查询各个公司算法面试高频题的网站](https://codetop.cc/#/home)|[lintcode](https://www.lintcode.com/)|[leetcode](www.leetcode.com)|[leetcode 中文](www.leetcode-cn.com)|
+---|---|---|---|
 
 
 ---
