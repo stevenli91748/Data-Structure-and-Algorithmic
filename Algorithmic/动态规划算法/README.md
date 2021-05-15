@@ -3,6 +3,12 @@
 [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews?aff=K7qB)|
 ---|
 
+# 视频
+
+[【动态规划专题班】动态规划入门 Introduction to Dynamic Programming](https://www.youtube.com/watch?v=j4eab7N3Hfs)|
+---|
+
+
 
 * 动态规划
   * 动态规划的问题
