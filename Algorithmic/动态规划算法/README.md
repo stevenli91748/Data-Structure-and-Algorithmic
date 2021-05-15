@@ -5,8 +5,8 @@
 
 # 视频
 
-[【动态规划专题班】动态规划入门 Introduction to Dynamic Programming](https://www.youtube.com/watch?v=j4eab7N3Hfs)|[动态规划的套路 by wisdompeak](https://www.youtube.com/watch?v=FLbqgyJ-70I)|
----|---|
+[【动态规划专题班】动态规划入门 Introduction to Dynamic Programming](https://www.youtube.com/watch?v=j4eab7N3Hfs)|[动态规划的套路 by wisdompeak](https://www.youtube.com/watch?v=FLbqgyJ-70I)|[青云算法动态规划专题讲座](https://www.youtube.com/watch?v=eLQzAKMWY8U)|
+---|---|---|
 
 
 
