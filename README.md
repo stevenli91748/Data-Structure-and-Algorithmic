@@ -58,6 +58,9 @@
 [来Offer---LaiOffer](https://www.youtube.com/channel/UC12XyYzyyZwFiIgafl_Ga6w/videos)|[Java数据结构与算法教程](https://www.jb51.net/Special/632.htm)|
 ---|---|
 
+[OI Wiki---致力于成为一个免费开放且持续更新的 编程竞赛 (competitive programming) 知识整合站点,准备了竞赛中的基础知识、常见题型、解题思路以及常用工具等](https://oi-wiki.org/)|
+---|
+
 [LeetCode CookBook---霜神是前阿里巴巴资深后端工程师](https://books.halfrost.com/leetcode/)|
 ---|
 
