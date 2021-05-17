@@ -116,11 +116,10 @@
 |---|---|
 | **[第五章 位运算](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%BD%8D/README.md)**| [无代码] | 
 | 5-1 利用位运算实现集合|---|
-| **第五章 堆栈 队列**| [无代码] |
-| 5-1  [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86/README.md) | [无代码] |
-| 5-2  [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88/README.md) | [无代码] |
-| 5-3  [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97/README.md) | [无代码] |
-|[5-4  栈与队列：总结篇](https://mp.weixin.qq.com/s/xBcHyvHlWq4P13fzxEtkPg)||
+| **第五章 栈 队列**| [无代码] |
+| 5-1  [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88/README.md) | [无代码] |
+| 5-2  [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97/README.md) | [无代码] |
+|[5-3  栈与队列：总结篇](https://mp.weixin.qq.com/s/xBcHyvHlWq4P13fzxEtkPg)||
 |---|---|
 | **[第六章 递归](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%80%92%E5%BD%92/README.md)**| [无代码] |
 |排列||
@@ -183,7 +182,7 @@
 |---|---|
 | **第十章 二维数组 多维数组逻辑结构篇**| [无代码] |
 |---|---|
-| **第十一章 广义表逻辑结构篇**| [无代码] |
+| **第十一章 [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86/README.md) **| [无代码] |
 |---|---|
 | **[第十二章 树逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91/README.md)**| [无代码] |
 |树的遍历||
