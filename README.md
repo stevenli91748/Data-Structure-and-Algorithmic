@@ -19,9 +19,13 @@
 第三遍：提升刷题速度，拿出一个题，就能够知道其考察重点，解题方法，在短时间内写出解答。定期总结：按照题目类型进行总结：针对一类问题，总结有哪些解题方法，哪种方法是最优的，为什么。总结重点：有些题你刷了好多遍都还是不会，那就要重点关注，多思考解决方法，不断练习强结合图解刷题：有些人认为刷题比较枯燥，比较抽象。那你可以结合动画图解刷题。**
 
 
+**从逻辑上分，数据结构分为线性和非线性两大类。**
+
+**线性数据结构包括数组、链表、栈、队列。**
+
+**非线性结构包括树、哈希表、堆、图。**
 
 # [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)
-
 #  [数据结构和算法的学习方法路径](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
 # [LeetCode按照怎样的顺序来刷题比较好？](https://www.zhihu.com/question/36738189/answer/908664455)
 # [LeetCode 刷题攻略---一个超级详细的刷题顺序](https://github.com/stevenli91748/leetcode-master)
@@ -156,6 +160,7 @@
 |  --树结构中的查找算法| [无代码] |
 |  --图结构中的查找算法| [无代码] |
 |---|---|
+| **非线性结构篇**| [无代码] |
 | **[第九章 哈希表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%93%88%E5%B8%8C%E8%A1%A8/README.md)**| [无代码] |
 |1. 直接寻址||
 |2. 散列函数||
@@ -176,7 +181,6 @@
 |---[TreeMap源码分析](https://www.tianxiaobo.com/2018/01/11/TreeMap%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)||
 |[9. 哈希表：总结篇](https://mp.weixin.qq.com/s/1s91yXtarL-PkX07BfnwLg)||
 |---|---|
-| **非线性结构篇**| [无代码] |
 | **第十章 二维数组 多维数组逻辑结构篇**| [无代码] |
 |---|---|
 | **第十一章 广义表逻辑结构篇**| [无代码] |
