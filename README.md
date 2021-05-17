@@ -32,6 +32,7 @@
 # [如何系统地学习算法](https://www.zhihu.com/question/20588261/answer/756044375?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656&utm_content=first)
 # [如何正确高效地使用LeetCode](https://www.zhihu.com/question/26580300)
 # [可以查答案的网址：LeetCode / LintCode 答案查询](https://www.jiuzhang.com/solution/)
+# [西法的刷题秘籍](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/)
 # [来和大家聊聊我是如何刷题的（第一弹）](https://lucifer.ren/blog/2020/11/29/shuati-silu/)
 # [来和大家聊聊我是如何刷题的（第二弹）](https://lucifer.ren/blog/2020/12/12/shuati-silu2/)
 # [来和大家聊聊我是如何刷题的（第三弹）](https://lucifer.ren/blog/2020/12/21/shuati-silu3/)
