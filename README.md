@@ -80,7 +80,7 @@
 [LeetCode 算法面试题解](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/README.md)|
 ---|
 
-
+| **第一篇 数据结构**||
 | **第一章 数据结构和算法概述** | [无代码] | 
 | :--- | :---: | 
 | [1-1 数据结构和算法的关系](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%E6%A6%82%E8%BF%B0/README.md) | [无代码] |
@@ -154,7 +154,6 @@
 |  ---二分查找算法(非递归)的空间复杂度| [无代码]|
 |  插值查找算法| [无代码] |
 |  平衡查找算法||
-|     || 
 |  奜波那契(黄金分割法)查找算法| [无代码] |
 |  数据结构中的查找算法| [无代码] |
 |  --顺序表结构中的查找算法| [无代码] |
@@ -188,24 +187,6 @@
 | **第十一章 [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86/README.md) **| [无代码] |
 |---|---|
 | **[第十二章 树逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91/README.md)**| [无代码] |
-|树的遍历||
-|  前序遍历||
-|  中序遍历||
-|  后序遍历||
-|二叉树||
-|  [二叉树：总结篇](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)||
-|AVL树||
-|[红黑树]()||
-|[B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)||
-|哈夫曼树||
-|特殊树||
-|---区间树||
-|---字典树||
-|---最小生成树||
-|---树状数组||
-|TreeMap源码分析||
-|TreeSet源码分析||
-|---|---|
 | **[第十三章 图逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE/README.md)**| [无代码] |
 |图的三种表示方法||
 | 10-3 广度优先搜索| [无代码]|
@@ -228,7 +209,7 @@
 | 10-1 二分图匹配| [无代码]|
 | 10-2 | [无代码]|
 |---|---|
-| **算法**||
+| **第二篇 算法**||
 | **第十四章 基本算法思想**||
 | 穷举算法思想  | [无代码] |
 | 递推算法思想  | [无代码] |
@@ -277,8 +258,25 @@
 |---|---|
 | **第二十章 数据挖掘10大算法**| [无代码] |
 | **第二十一章 网络流算法**| [无代码] |
-
-
+| **第三篇 专题篇**||
+| 经典题型分类||
+|* [1 Pattern: Sliding Window---滑动窗口类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/1.%20Pattern:%20Sliding%20window%EF%BC%8C%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%B1%BB%E5%9E%8B/README.md)||
+* [2 Pattern: Two Pointers---双指针类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/2%20Pattern:%20Two%20Pointers/README.md)
+* [3 Pattern: Fast & Slow pointers---快慢指针类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/3.%20Pattern:%20Fast%20%26%20Slow%20pointers%2C%20%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88%E7%B1%BB%E5%9E%8B/README.md)
+* [4 Pattern: Merge Intervals---区间合并类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/4.%20Pattern:%20Merge%20Intervals%EF%BC%8C%E5%8C%BA%E9%97%B4%E5%90%88%E5%B9%B6%E7%B1%BB%E5%9E%8B/README.md)
+* [5 Pattern: Cyclic Sort---循环排序](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/5.%20Pattern:%20Cyclic%20Sort%EF%BC%8C%E5%BE%AA%E7%8E%AF%E6%8E%92%E5%BA%8F/README.md)
+* [6 Pattern: In-place Reversal of a LinkedList---链表翻转](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/6.%20Pattern:%20In-place%20Reversal%20of%20a%20LinkedList%EF%BC%8C%E9%93%BE%E8%A1%A8%E7%BF%BB%E8%BD%AC/README.md)
+* [7 Pattern: Tree Breadth First Search---树上的BFS](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/7.%20Pattern:%20Tree%20Breadth%20First%20Search%EF%BC%8C%E6%A0%91%E4%B8%8A%E7%9A%84BFS/README.md)
+* [8 Pattern: Tree Depth First Search---树上的DFS](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/8.%20Pattern:%20Tree%20Depth%20First%20Search%EF%BC%8C%E6%A0%91%E4%B8%8A%E7%9A%84DFS/README.md)
+* [9 Pattern: Two Heaps---双堆类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/9.%20Pattern:%20Two%20Heaps%EF%BC%8C%E5%8F%8C%E5%A0%86%E7%B1%BB%E5%9E%8B/README.md)
+* [10 Pattern: Subsets---子集类型，一般都是使用多重DFS](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/10.%20Pattern:%20Subsets%EF%BC%8C%E5%AD%90%E9%9B%86%E7%B1%BB%E5%9E%8B%EF%BC%8C%E4%B8%80%E8%88%AC%E9%83%BD%E6%98%AF%E4%BD%BF%E7%94%A8%E5%A4%9A%E9%87%8DDFS/README.md)
+* [11 Pattern: Modified Binary Search---改造过的二分](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/11.%20Pattern:%20Modified%20Binary%20Search%EF%BC%8C%E6%94%B9%E9%80%A0%E8%BF%87%E7%9A%84%E4%BA%8C%E5%88%86/README.md)
+* [12 Pattern: Top 'K' Elements---前K个系列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/12.%20Pattern:%20Top%20%E2%80%98K%E2%80%99%20Elements%EF%BC%8C%E5%89%8DK%E4%B8%AA%E7%B3%BB%E5%88%97/README.md)
+* [13 Pattern: K-way merge---多路归并](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/13.%20Pattern:%20K-way%20merge%EF%BC%8C%E5%A4%9A%E8%B7%AF%E5%BD%92%E5%B9%B6/README.md)
+* [14 Pattern : 0/1 Knapsack (Dynamic Programming)---0/1背包类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/14.%20Pattern:%200%20mod%201%20Knapsack%20(Dynamic%20Programming)/README.md)
+* [15 Pattern: Topological Sort (Graph)---拓扑排序类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/15.%20Pattern:%20Topological%20Sort%20(Graph)%EF%BC%8C%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F%E7%B1%BB%E5%9E%8B/README.md)
+* 16 二分法
+* 17 Pattern: Bitwise XOR
 
 ----------------------------------------------------
 参考资料
