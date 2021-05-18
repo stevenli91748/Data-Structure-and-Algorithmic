@@ -22,38 +22,55 @@
      * 哈希表 Hash Table
      * 矩阵（二维或多维数组） 
      * 堆 Heap
-     * 并查集 Union Find
+       * 二叉堆
      * 树
-       * 二叉搜索树 
+       * 二叉树
+       * 四叉树
+       * 八叉树
+       * k-d树(k维的树结构)
+       * 二叉搜索树
+       * 二叉平衡树
+       * AVL(高度平衡树)
+       * 红黑树
+       * 
        * 特殊树
          * 树状数组
-         * 字典树 Trie
+         * 字典树 Trie（前缀树）
          * 线段树
      * 图
+       * 最短路径
+       * 最小生成树 
+       * 并查集 Union Find
      * 图形
        * 点
        * 线
        * 面
 
 ## 1B 算法部分
+   * 基础算法
+     * 分治算法 Divide Conquer 
+     * 二分搜索算法 Binary Search 
+     * 贪心算法 
    * 排序算法
      * 快速排序
      * 归并排序
      * 计数排序 
+     * 快排 Quick Sort
    * 查找算法
-   * 贪心
-   * 二分搜索 Binary Search 
-   * 分治 Divide Conquer 
-   * 宽度优先搜索 Breadth First Search 
-   * 深度优先搜索 Depth First Search
-   * 回溯法 Backtracking
-     * 排列
-     * 子集
-     * 组合 
+     * 回溯法 Backtracking
+       * 排列
+       * 子集
+       * 组合 
+     * 递归算法 
+     * 宽度优先搜索算法 Breadth First Search 
+     * 深度优先搜索算法 Depth First Search
+     * 二叉搜索树算法
    * 双指针 Two Pointers 
-   * 动态规划 Dynamic Programming 
+   * 动态规划 Dynamic Programming
+     * 背包问题
+     * 最长子序列  
    * 扫描线 Scan-line algorithm
-   * 快排 Quick Sort
+   
 
 # 2 进阶篇
   * 并查集
