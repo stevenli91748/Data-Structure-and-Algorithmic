@@ -10,50 +10,59 @@
 
 # 1 基础篇
 ## 1A 数据结构部分
-      * 比特位操作
-      * 数学
-      * 栈 Stack
-      * 队列 Queue
-      * 链表 Linked List 
-      * 数组 Array
-        * 矩阵 
-      * 字符串处理
-      * 随机
-      * 哈希表 Hash Table
-      * 二叉树 Binary Tree  
-      * 堆 Heap
-      * 并查集 Union Find
-      * 树
-        * 二叉搜索树 
-      * 特殊树
-        * 树状数组
-        * 字典树 Trie
-        * 线段树
-      * 图
-      * 图形
-        * 点
-        * 线
-        * 面
-      * 排序
-      * 查找
+   * 位操作
+   * 数学
+   * 线性结构
+     * 栈 Stack
+     * 队列 Queue
+     * 链表 Linked List 
+     * 数组 Array
+       
+     * 字符串处理
+   * 非线性结构 
+     * 哈希表 Hash Table
+     * 矩阵（二维或多维数组） 
+     * 堆 Heap
+     * 并查集 Union Find
+     * 树
+       * 二叉搜索树 
+       * 特殊树
+         * 树状数组
+         * 字典树 Trie
+         * 线段树
+     * 图
+     * 图形
+       * 点
+       * 线
+       * 面
 
 ## 1B 算法部分
-      * 贪心
-      * 二分搜索 Binary Search 
-      * 分治 Divide Conquer 
-      * 宽度优先搜索 Breadth First Search 
-      * 深度优先搜索 Depth First Search
-      * 回溯法 Backtracking
-        * 排列
-        * 子集
-        * 组合 
-      * 双指针 Two Pointers 
-      * 动态规划 Dynamic Programming 
-        * 
-      * 扫描线 Scan-line algorithm
-      * 快排 Quick Sort
+   * 排序算法
+     * 快速排序
+     * 归并排序
+     * 计数排序 
+   * 查找算法
+   * 贪心
+   * 二分搜索 Binary Search 
+   * 分治 Divide Conquer 
+   * 宽度优先搜索 Breadth First Search 
+   * 深度优先搜索 Depth First Search
+   * 回溯法 Backtracking
+     * 排列
+     * 子集
+     * 组合 
+   * 双指针 Two Pointers 
+   * 动态规划 Dynamic Programming 
+   * 扫描线 Scan-line algorithm
+   * 快排 Quick Sort
 
 # 2 进阶篇
+  * 并查集
+  *  Trie
+  *  KMP & RK
+  *  跳表
+  *  剪枝
+  *  高频面试题
 
 # 3 专题篇
 ## 3A 经典题型分类
@@ -73,4 +82,6 @@
 * [13 Pattern: K-way merge---多路归并](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/13.%20Pattern:%20K-way%20merge%EF%BC%8C%E5%A4%9A%E8%B7%AF%E5%BD%92%E5%B9%B6/README.md)
 * [14 Pattern : 0/1 Knapsack (Dynamic Programming)---0/1背包类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/14.%20Pattern:%200%20mod%201%20Knapsack%20(Dynamic%20Programming)/README.md)
 * [15 Pattern: Topological Sort (Graph)---拓扑排序类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/15.%20Pattern:%20Topological%20Sort%20(Graph)%EF%BC%8C%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F%E7%B1%BB%E5%9E%8B/README.md)
+* 16 二分法
+* 17 
 * 16 Pattern: Bitwise XOR
