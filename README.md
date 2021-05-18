@@ -192,11 +192,12 @@
 |  前序遍历||
 |  中序遍历||
 |  后序遍历||
-|二叉查找树||
+|二叉树||
 |  [二叉树：总结篇](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)||
 |AVL树||
 |[红黑树]()||
 |[B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)||
+|哈夫曼树||
 |特殊树||
 |---区间树||
 |---字典树||
