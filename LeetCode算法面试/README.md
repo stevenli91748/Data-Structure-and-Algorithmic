@@ -1,61 +1,63 @@
 
 # LeetCode 
 
-# 1. 基础篇
-  * [1.1 数据结构部分 ](#1-.-1-数据结构部分)
-  * [算法部分](#算法部分)
-# 2. 专题篇
-  * [经典题型分类](#经典题型分类)
-# 3. 进阶篇
+* [1. 基础篇](#1-基础篇)
+  * [1.1 数据结构部分 ](#1A-数据结构部分)
+  * [1.2 算法部分](#1B-算法部分)
+* [2. 进阶篇](#2-进阶篇)
+* [3. 专题篇](#3-专题篇)
+  * [3.1 经典题型分类](#3A-经典题型分类)
+
   * 
+# 1 基础篇
+## 1A 数据结构部分
+      * 比特位操作
+      * 数学
+      * 栈 Stack
+      * 队列 Queue
+      * 链表 Linked List 
+      * 数组 Array
+        * 矩阵 
+      * 字符串处理
+      * 随机
+      * 哈希表 Hash Table
+      * 二叉树 Binary Tree  
+      * 堆 Heap
+      * 并查集 Union Find
+      * 树
+        * 二叉搜索树 
+      * 特殊树
+        * 树状数组
+        * 字典树 Trie
+        * 线段树
+      * 图
+      * 图形
+        * 点
+        * 线
+        * 面
+      * 排序
+      * 查找
 
-## 1.1 数据结构部分
-   * 比特位操作
-   * 数学
-   * 栈 Stack
-   * 队列 Queue
-   * 链表 Linked List 
-   * 数组 Array
-     * 矩阵 
-   * 字符串处理
-   * 随机
-   * 哈希表 Hash Table
-   * 二叉树 Binary Tree  
-   * 堆 Heap
-   * 并查集 Union Find
-   * 树
-     * 二叉搜索树 
-   * 特殊树
-     * 树状数组
-     * 字典树 Trie
-     * 线段树
-   * 图
-   * 图形
-     * 点
-     * 线
-     * 面
-   * 排序
-   * 查找
+## 1B 算法部分
+      * 贪心
+      * 二分搜索 Binary Search 
+      * 分治 Divide Conquer 
+      * 宽度优先搜索 Breadth First Search 
+      * 深度优先搜索 Depth First Search
+      * 回溯法 Backtracking
+        * 排列
+        * 子集
+        * 组合 
+      * 双指针 Two Pointers 
+      * 动态规划 Dynamic Programming 
+        * 
+      * 扫描线 Scan-line algorithm
+      * 快排 Quick Sort
 
-##  算法部分
-   * 贪心
-   * 二分搜索 Binary Search 
-   * 分治 Divide Conquer 
-   * 宽度优先搜索 Breadth First Search 
-   * 深度优先搜索 Depth First Search
-   * 回溯法 Backtracking
-     * 排列
-     * 子集
-     * 组合 
-   * 双指针 Two Pointers 
-   * 动态规划 Dynamic Programming 
-     * 
-   * 扫描线 Scan-line algorithm
-   * 快排 Quick Sort
+# 2 进阶篇
 
-# 专题篇
-
-## 经典题型分类
+# 3 专题篇
+## 3A 经典题型分类
 
 * [1 Pattern: Sliding Window---滑动窗口类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/1.%20Pattern:%20Sliding%20window%EF%BC%8C%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%B1%BB%E5%9E%8B/README.md)
 * [2 Pattern: Two Pointers---双指针类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/2%20Pattern:%20Two%20Pointers/README.md)
