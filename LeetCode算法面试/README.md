@@ -134,5 +134,4 @@
 * [14 Pattern : 0/1 Knapsack (Dynamic Programming)---0/1背包类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/14.%20Pattern:%200%20mod%201%20Knapsack%20(Dynamic%20Programming)/README.md)
 * [15 Pattern: Topological Sort (Graph)---拓扑排序类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/15.%20Pattern:%20Topological%20Sort%20(Graph)%EF%BC%8C%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F%E7%B1%BB%E5%9E%8B/README.md)
 * 16 二分法
-* 17 
-* 16 Pattern: Bitwise XOR
+* 17 Pattern: Bitwise XOR
