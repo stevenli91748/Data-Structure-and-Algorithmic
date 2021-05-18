@@ -81,7 +81,8 @@
 ---|
 
 | **第一篇 数据结构篇**||
-| :--- | :---: | 
+|---|---|
+|---|---|
 | **第一章 数据结构和算法概述** | [无代码] | 
 | :--- | :---: | 
 | [1-1 数据结构和算法的关系](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%E6%A6%82%E8%BF%B0/README.md) | [无代码] |
@@ -202,6 +203,7 @@
 | 10-1 二分图匹配| [无代码]|
 | 10-2 | [无代码]|
 |---|---|
+|---|---|
 | **第二篇 算法篇**||
 | **第十四章 基本算法思想**||
 | 穷举算法思想  | [无代码] |
@@ -211,46 +213,42 @@
 | 概率算法思想  | [无代码] |
 |---|---|
 | **第十四章 程序员常用算法**| [无代码] |
-| [14-0 递归算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95/README.md)| [无代码] |
+| [递归算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95/README.md)| [无代码] |
 |  [一篇总结带你彻底搞透回溯算法](https://mp.weixin.qq.com/s/r73thpBnK1tXndFDtlsdCQ)  || 
-| **14-1   二分查找算法(非递归)**| [无代码] |
-| 14-1-1 二分查找算法(非递归)的应用场景 | [无代码] |
-| 14-1-2 二分查找算法(非递归)的解决方案的基本步骤| [无代码] |
-| 14-1-3 二分查找算法(非递归)的代码实现| [无代码] |
-| 14-1-4 二分查找算法(非递归)的时间复杂度| [无代码] |
-| 11-1-5 二分查找算法(非递归)的空间复杂度| [无代码]|
-| **11-2 分治算法**| [无代码] |
-| **[11-3 动态规划算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/README.md)**| [无代码] |
-| **11-4 KMP算法**| [无代码] |
-| **[11-5 贪心算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/README.md)**| [无代码] |
-| **11-6 普里姆算法**| [无代码] |
-| **11-7 克鲁斯卡尔算法**| [无代码] |
-| **11-8 迪杰斯特拉算法**| [无代码] |
-| **11-9 弗洛伊德算法**| [无代码] |
-| **11-10 马踏棋盘算法**| [无代码] |
-| **11-11 贝尔曼-福特算法**| [无代码] |
-| **11-12 k-Means算法**| [无代码] |
-| **11-13 欧几里得算法**| [无代码] |
-| **11-14 近拟算法**| [无代码] |
-| **11-15 数论算法**| [无代码] |
-| **11-16 图算法**| [无代码] |
-| **11-17 B62 序列号生成算法**| [文章](https://youyou-tech.com/2019/11/23/%E5%BA%8F%E5%88%97%E5%8F%B7%E7%94%9F%E6%88%90%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%8E%A9%E6%B3%95-62%E8%BF%9B%E5%88%B6%E5%A6%82%E4%BD%95%E7%8E%A9%EF%BC%9F/) |
-| **11-16 修剪与搜索算法**| [无代码] |
-| **11-16 计算几何算法**| [无代码] |
-| **11-16 问题转换算法**| [无代码] |
+|  二分查找算法(非递归)| |
+| 14-1-1 二分查找算法(非递归)的应用场景 | |
+| 14-1-2 二分查找算法(非递归)的解决方案的基本步骤| |
+| 14-1-3 二分查找算法(非递归)的代码实现| |
+| 14-1-4 二分查找算法(非递归)的时间复杂度| |
+| 11-1-5 二分查找算法(非递归)的空间复杂度| |
+| 分治算法 | |
+| [动态规划算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/README.md)| |
+|  KMP算法||
+| [贪心算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/README.md)|  |
+| 普里姆算法||
+| 克鲁斯卡尔算法|  |
+| 迪杰斯特拉算法| |
+| 弗洛伊德算法|  |
+| 马踏棋盘算法|  |
+| 贝尔曼-福特算法| |
+| k-Means算法| |
+| 欧几里得算法| |
+| 近拟算法| |
+| 数论算法||
+| 图算法||
+| B62 序列号生成算法| [文章](https://youyou-tech.com/2019/11/23/%E5%BA%8F%E5%88%97%E5%8F%B7%E7%94%9F%E6%88%90%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%8E%A9%E6%B3%95-62%E8%BF%9B%E5%88%B6%E5%A6%82%E4%BD%95%E7%8E%A9%EF%BC%9F/) |
+| 修剪与搜索算法| |
+| 计算几何算法| |
+| 问题转换算法| |
+| 并行算法| |
+| 安全算法| |
+| 推荐算法|  |
+| 遗传算法|  |
+| 分布式算法| |
+| 数据挖掘10大算法|  |
+| 网络流算法|  |
 |---|---|
-| **第十五章 并行算法**| [无代码] |
 |---|---|
-| **第十六章 安全算法**| [无代码] |
-|---|---|
-| **第十七章 推荐算法**| [无代码] |
-|---|---|
-| **第十八章 遗传算法**| [无代码] |
-|---|---|
-| **第十九章 分布式算法**| [无代码] |
-|---|---|
-| **第二十章 数据挖掘10大算法**| [无代码] |
-| **第二十一章 网络流算法**| [无代码] |
 | **第三篇 专题篇**||
 | [1 Pattern: Sliding Window---滑动窗口类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/1.%20Pattern:%20Sliding%20window%EF%BC%8C%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%B1%BB%E5%9E%8B/README.md)||
 | [2 Pattern: Two Pointers---双指针类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/2%20Pattern:%20Two%20Pointers/README.md)||
