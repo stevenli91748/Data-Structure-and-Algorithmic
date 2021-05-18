@@ -206,13 +206,12 @@
 |---|---|
 | **第二篇 算法篇**||
 |---|---|
-|---|---|
 | **第十四章 基本算法思想**||
-| 穷举算法思想  | [无代码] |
-| 递推算法思想  | [无代码] |
-| 递归算法思想  | [无代码] |
-| 分治算法思想  | [无代码] |
-| 概率算法思想  | [无代码] |
+| 穷举算法思想  | |
+| 递推算法思想  |  |
+| 递归算法思想  |  |
+| 分治算法思想  |  |
+| 概率算法思想  |  |
 |---|---|
 | **第十四章 程序员常用算法**| [无代码] |
 | [递归算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95/README.md)| [无代码] |
@@ -252,6 +251,7 @@
 |---|---|
 |---|---|
 | **第三篇 专题篇**||
+|---|---|
 | [1 Pattern: Sliding Window---滑动窗口类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/1.%20Pattern:%20Sliding%20window%EF%BC%8C%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%B1%BB%E5%9E%8B/README.md)||
 | [2 Pattern: Two Pointers---双指针类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/2%20Pattern:%20Two%20Pointers/README.md)||
 | [3 Pattern: Fast & Slow pointers---快慢指针类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/3.%20Pattern:%20Fast%20%26%20Slow%20pointers%2C%20%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88%E7%B1%BB%E5%9E%8B/README.md)||
