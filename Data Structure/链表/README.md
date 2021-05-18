@@ -1,3 +1,7 @@
+
+[几乎刷完了力扣所有的链表题，我发现了这些东西](https://lucifer.ren/blog/2020/11/08/linked-list/)|
+---|
+
 # 目录
 
   *  [线性表---LinkList](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
