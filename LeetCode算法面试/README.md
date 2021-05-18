@@ -23,7 +23,7 @@
      * 矩阵（二维或多维数组） 
      * 堆 Heap
        * 二叉堆
-     * 树
+     * [树](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E9%83%A8%E5%88%86/LeetCode---%E6%A0%91%20tree.md)
        * 二叉树
        * 四叉树
        * 八叉树
@@ -32,7 +32,6 @@
        * 二叉平衡树
        * AVL(高度平衡树)
        * 红黑树
-       * 
        * 特殊树
          * 树状数组
          * 字典树 Trie（前缀树）
