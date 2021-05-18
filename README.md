@@ -80,7 +80,7 @@
 [LeetCode 算法面试题解](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/README.md)|
 ---|
 
-| **第一篇 数据结构**||
+| **第一篇 数据结构篇**||
 | :--- | :---: | 
 | **第一章 数据结构和算法概述** | [无代码] | 
 | :--- | :---: | 
@@ -94,10 +94,8 @@
 | 1-4-1 [关于空间复杂度，可能有几个疑问？](https://mp.weixin.qq.com/s/IPv4pTD6UxKkFBkgeDCZyg)||
 | 1-4-2 [可能对递归理解的还不够！还差得远！](https://mp.weixin.qq.com/s/zLeRB-GPc3q4DG-a5cQLVw)||
 | 1-4-3 [刷了这么多题，你了解自己代码的内存消耗么](https://mp.weixin.qq.com/s/IFZQCxJlI7-_dOC25xIOYQ)||
-|---|---|
 | **6种逻辑结构**| [无代码] |
 | **[第二章 集合逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%9B%86%E5%90%88/README.md)**|[无代码]|
-|---|---|
 | **线性逻辑结构篇**| |
 | **第三章 稀蔬数组和矩阵(Array)** | [无代码] |
 | 3-1  静态数组||
@@ -106,7 +104,6 @@
 | 3-2  动态数组(dynamic array)||
 | 3-3  ArrayList源码分析||
 | 3-4  [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)||
-|---|---|
 | **第三章 [链表(Linked list)](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| [无代码] |
 | 3-1  单向链表(singly linked list)| [无代码] |
 | 3-2  双向链表(doubly linked list)| [无代码] |
@@ -114,22 +111,18 @@
 | 3-4  静态链表| [无代码] |
 | 3-5  LinkedList源码分析||
 | 3-6  [链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)||
-|---|---|
 | **[第四章 字符串](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md)**| [无代码] | 
 |[字符串：总结篇](https://mp.weixin.qq.com/s/gtycjyDtblmytvBRFlCZJg) ||
-|---|---|
 | **[第五章 位运算](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%BD%8D/README.md)**| [无代码] | 
 | 5-1 利用位运算实现集合|---|
 | **第五章 栈 队列**| [无代码] |
 | 5-1  [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88/README.md) | [无代码] |
 | 5-2  [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97/README.md) | [无代码] |
 |[5-3  栈与队列：总结篇](https://mp.weixin.qq.com/s/xBcHyvHlWq4P13fzxEtkPg)||
-|---|---|
 | **[第六章 递归](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%80%92%E5%BD%92/README.md)**| [无代码] |
 |排列||
 |子集||
 |组合||
-|---|---|
 | **[第七章 排序算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/README.md)**| [无代码] |
 |7-1 初等排序算法||
 |7-1-1 冒泡排序| [无代码] |
@@ -182,7 +175,6 @@
 |---[ArrayList 源码分析](https://www.tianxiaobo.com/2018/01/28/ArrayList%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)||
 |---[TreeMap源码分析](https://www.tianxiaobo.com/2018/01/11/TreeMap%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)||
 |[9. 哈希表：总结篇](https://mp.weixin.qq.com/s/1s91yXtarL-PkX07BfnwLg)||
-|---|---|
 | **第十章 二维数组 多维数组逻辑结构篇**| [无代码] |
 |---|---|
 | **第十一章 [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86/README.md) **| [无代码] |
@@ -210,7 +202,7 @@
 | 10-1 二分图匹配| [无代码]|
 | 10-2 | [无代码]|
 |---|---|
-| **第二篇 算法**||
+| **第二篇 算法篇**||
 | **第十四章 基本算法思想**||
 | 穷举算法思想  | [无代码] |
 | 递推算法思想  | [无代码] |
