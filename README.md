@@ -110,26 +110,28 @@
 | 3-2  动态数组(dynamic array)||
 | 3-3  ArrayList源码分析||
 | 3-4  [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)||
-| **第三章 [链表(Linked list)](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| |
+| **第四章 [链表(Linked list)](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| |
 | 3-1  单向链表(singly linked list)| |
 | 3-2  双向链表(doubly linked list)| |
 | 3-3  环型链表|  |
 | 3-4  静态链表| |
 | 3-5  LinkedList源码分析||
 | 3-6  [链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)||
-| **[第四章 字符串](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md)**| | 
+| **[第五章 字符串](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md)**| | 
 | ||
-| **[第五章 位运算](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%BD%8D/README.md)**| | 
+| **[第六章 位运算](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%BD%8D/README.md)**| | 
 | 5-1 利用位运算实现集合|---|
-| **第五章 栈 队列**| [无代码] |
+| **第七章 栈 队列**|  |
 | 5-1  [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88/README.md) |  |
 | 5-2  [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97/README.md) |  |
 |[5-3  栈与队列：总结篇](https://mp.weixin.qq.com/s/xBcHyvHlWq4P13fzxEtkPg)||
-| **[第六章 递归](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%80%92%E5%BD%92/README.md)**|  |
+|---|---|
+| **[第八章 递归](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%80%92%E5%BD%92/README.md)**|  |
 |排列||
 |子集||
 |组合||
-| **[第七章 排序算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/README.md)**|  |
+|---|---|
+| **[第九章 排序算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/README.md)**|  |
 |7-1 初等排序算法||
 |7-1-1 冒泡排序|  |
 |7-1-2 插入排序|  |
@@ -144,7 +146,7 @@
 |7-2-5 逆序数排序||
 |7-2-6 最小成本排序||
 |---|---|
-| **[第八章 查找算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/README.md)**|  |
+| **[第十章 查找算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/README.md)**|  |
 |  顺序查找算法| |
 |  二分查找算法(非递归)|  |
 |  ---二分查找算法(非递归)的应用场景 |  |
@@ -162,7 +164,7 @@
 |  --图结构中的查找算法|  |
 |---|---|
 | **非线性结构篇**|  |
-| **[第九章 哈希表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%93%88%E5%B8%8C%E8%A1%A8/README.md)**|  |
+| **[第十一章 哈希表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%93%88%E5%B8%8C%E8%A1%A8/README.md)**|  |
 |1. 直接寻址||
 |2. 散列函数||
 |3. 开放地址法||
@@ -181,12 +183,12 @@
 |---[ArrayList 源码分析](https://www.tianxiaobo.com/2018/01/28/ArrayList%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)||
 |---[TreeMap源码分析](https://www.tianxiaobo.com/2018/01/11/TreeMap%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90/)||
 |[9. 哈希表：总结篇](https://mp.weixin.qq.com/s/1s91yXtarL-PkX07BfnwLg)||
-| **第十章 二维数组 多维数组逻辑结构篇**|  |
+| **第十二章 二维数组 多维数组逻辑结构篇**|  |
 |---|---|
-| **第十一章 [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86/README.md) **|  |
+| **第十三章 [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86/README.md) **|  |
 |---|---|
-| **[第十二章 树逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91/README.md)**|  |
-| **[第十三章 图逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE/README.md)**|  |
+| **[第十四章 树逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91/README.md)**|  |
+| **[第十五章 图逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE/README.md)**|  |
 |图的三种表示方法||
 | 10-3 广度优先搜索| |
 | 10-3 深度优先搜索| |
@@ -211,7 +213,7 @@
 |---|---|
 
 # 第二篇 算法篇
-| **第十四章 基本算法思想**||
+| **第十六章 基本算法思想**||
 |---|---|
 | 穷举算法思想  | |
 | 递推算法思想  |  |
@@ -219,7 +221,7 @@
 | 分治算法思想  |  |
 | 概率算法思想  |  |
 |---|---|
-| **第十五章 程序员常用算法**|  |
+| **第十七章 程序员常用算法**|  |
 | [递归算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95/README.md)|  |
 |  [一篇总结带你彻底搞透回溯算法](https://mp.weixin.qq.com/s/r73thpBnK1tXndFDtlsdCQ)  || 
 |  二分查找算法(非递归)| |
