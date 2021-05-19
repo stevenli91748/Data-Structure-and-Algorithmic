@@ -1,6 +1,6 @@
 
-[几乎刷完了力扣所有的链表题，我发现了这些东西](https://lucifer.ren/blog/2020/11/08/linked-list/)|
----|
+[几乎刷完了力扣所有的链表题，我发现了这些东西](https://lucifer.ren/blog/2020/11/08/linked-list/)|[链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)|
+---|---|
 
 # 目录
 
