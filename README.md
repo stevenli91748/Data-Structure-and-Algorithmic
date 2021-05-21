@@ -191,9 +191,14 @@
 |---|---|
 | **[第十四章 树逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91/README.md)**|  |
 | **[第十五章 图逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE/README.md)**|  |
-|图的三种表示方法||
-| 10-3 广度优先搜索| |
-| 10-3 深度优先搜索| |
+|**图的搜索**||
+|  广度优先搜索算法| |
+|  深度优先搜索| |
+|  最短路径搜索||
+|  ---Dijkstra算法（狄克西特拉算法）||
+|  ---A* 算法||
+|  ---Bellman-Ford算法（贝尔曼-福特算法）||
+|  ---Floyd-Warshall算法||
 |拓扑排序||
 |---DFS实现||
 |---BFS实现||
@@ -205,10 +210,6 @@
 |最小生成树||
 |---Prim算法||
 |---Kruskal算法||
-|最短路径||
-|---Dijkstra算法||
-|---Bellman-Ford算法||
-|---Floyd-Warshall算法||
 | 10-1 二分图匹配| [无代码]|
 | 10-2 | [无代码]|
 |---|---|
