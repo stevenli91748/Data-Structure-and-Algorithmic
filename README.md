@@ -103,7 +103,7 @@
 | 1-4-2 [可能对递归理解的还不够！还差得远！](https://mp.weixin.qq.com/s/zLeRB-GPc3q4DG-a5cQLVw)||
 | 1-4-3 [刷了这么多题，你了解自己代码的内存消耗么](https://mp.weixin.qq.com/s/IFZQCxJlI7-_dOC25xIOYQ)||
 | **6种逻辑结构**| |
-| **[第二章 集合逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%9B%86%E5%90%88/README.md)**||
+| **[第二章 集合逻辑结构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E9%9B%86%E5%90%88.md)**||
 | **线性逻辑结构篇**| |
 | **第三章 稀蔬数组和矩阵(Array)** | |
 | 3-1  静态数组||
