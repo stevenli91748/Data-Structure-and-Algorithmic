@@ -105,7 +105,7 @@
 | **6种逻辑结构**| |
 | **[第二章 集合逻辑结构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E9%9B%86%E5%90%88.md)**||
 | **线性逻辑结构篇**| |
-| **第三章 数组和矩阵(Array)** | |
+| **第三章 静(动)态数组和矩阵(Array)** | |
 | 3-1  静态数组||
 |    [3-1-1  稀蔬SPARESARRAY数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md)|  |
 |    [3-1-2  矩阵---二维数组 多维数组逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md) | |
