@@ -25,6 +25,7 @@
 
     非线性结构包括树、哈希表、堆、图。**
 
+# [数据结构与算法教程---付费教程](http://data.biancheng.net/)
 # [数据结构与算法面试](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/tree/master/Interview)
 #  [数据结构和算法的学习方法路径](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
 # [LeetCode按照怎样的顺序来刷题比较好？](https://www.zhihu.com/question/36738189/answer/908664455)
@@ -114,9 +115,12 @@
 | 3-2-0 [如何在Java中使用静态数组构建动态数组](https://blog.csdn.net/weixin_26705651/article/details/108497745?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control)||
 | 3-4  [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)||
 | **第四章 [链表(Linked list)](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| |
-| 3-1  单向链表(singly linked list)| |
-| 3-2  双向链表(doubly linked list)| |
-| 3-3  环型链表|  |
+| 3-1  静态链表||
+| 3-1-1  单向链表(singly linked list)| |
+| 3-1-2  双向链表(doubly linked list)| |
+| 3-1-3  环型链表|  |
+| 3-1-4  双向环链表||
+| 3-2 动态链表 ||
 | 3-6  [链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)||
 | **[第五章 字符串](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md)**| | 
 | ||
