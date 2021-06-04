@@ -27,7 +27,7 @@
             - [链表是否相交](https://www.nowcoder.com/questionTerminal/db55f7f21127403cb268ffad9d23af37)
             - [链表的交点](#链表的交点)
             - [多项式的列表表示法](#多项式的列表表示法)
-         *  [静态链表---StaticLinkList](#静态链表)
+         *  [静态链表---StaticLinkList](http://data.biancheng.net/view/163.html)
             - 
          *  [双向链表---LinkListDouble](#双向链表)
             -  双向链表的建立
