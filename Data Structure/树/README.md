@@ -49,6 +49,7 @@
          * [7.2 字典树](https://oi-wiki.org/string/trie/)
          * 7.3 最小生成树
          * 7.4 树状数组
+      *  [后缀平衡树](https://oi-wiki.org/string/suffix-bst/)
       *  哈夫曼树
          *  哈夫曼树的概念
       *  TreeMap源码分析
