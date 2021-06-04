@@ -28,7 +28,7 @@
             - [链表的交点](#链表的交点)
             - [多项式的列表表示法](#多项式的列表表示法)
             
-         *  [静态链表---StaticLinkList](http://data.biancheng.net/view/163.html)
+         *  [静态链表---StaticLinkList  兼顾了顺序表和链表的优点于一身，可以看做是顺序表和链表的升级版](http://data.biancheng.net/view/163.html)
              
          *  [双向链表---LinkListDouble](#双向链表)
             -  双向链表的建立
