@@ -206,7 +206,6 @@
 |---[ArrayList 源码分析]()||
 |---[TreeMap源码分析]()||
 |[9. 哈希表：总结篇](https://mp.weixin.qq.com/s/1s91yXtarL-PkX07BfnwLg)||
-| **第十二章 二维数组 多维数组逻辑结构篇**|  |
 |---|---|
 | **第十三章 [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86/README.md)**|  |
 |---|---|
