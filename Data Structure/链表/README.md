@@ -22,9 +22,9 @@
             * [单链表的反转](http://c.biancheng.net/view/8105.html)
             - [链表的倒序输出](#链表的倒序输出)
             - [链表的中间节点](#链表的中间节点)
-            - [链表是否有环](#链表是否有环)
+            - [ 如何判断链表中有环](https://blog.csdn.net/sinat_35261315/article/details/79205157)
             - [链表节点的删除(不知道头结点的情况下](#链表节点的删除不知道头结点的情况下)
-            - [链表是否相交](https://www.nowcoder.com/questionTerminal/db55f7f21127403cb268ffad9d23af37)
+            - [ 如何判断两个单链表相交](https://www.nowcoder.com/questionTerminal/db55f7f21127403cb268ffad9d23af37)
             - [链表的交点](#链表的交点)
             - [多项式的列表表示法](#多项式的列表表示法)
             
