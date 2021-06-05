@@ -108,6 +108,7 @@
 | **[第二章 集合逻辑结构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E9%9B%86%E5%90%88.md)**||
 | **线性逻辑结构篇**| |
 | **第三章 静(动)态数组和矩阵(Array)** | |
+| 3-0  [静态链表和动态链表的区别](https://blog.csdn.net/zhengqijun_/article/details/78192888#:~:text=%E9%9D%99%E6%80%81%E9%93%BE%E8%A1%A8%E5%92%8C%E5%8A%A8%E6%80%81%E9%93%BE%E8%A1%A8%E6%98%AF%E7%BA%BF%E6%80%A7%E8%A1%A8%E9%93%BE%E5%BC%8F,%E9%A2%84%E5%85%88%E5%88%86%E9%85%8D%E5%9C%B0%E5%9D%80%E7%A9%BA%E9%97%B4%E5%A4%A7%E5%B0%8F%E3%80%82&text=2%E3%80%81%E5%8A%A8%E6%80%81%E9%93%BE%E8%A1%A8%E6%98%AF%E7%94%A8,%E7%9A%84%E9%95%BF%E5%BA%A6%E4%B8%8A%E6%B2%A1%E6%9C%89%E9%99%90%E5%88%B6%E3%80%82)||
 | 3-1  静态数组||
 |    [3-1-1  稀蔬SPARESARRAY数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md)|  |
 |    [3-1-2  矩阵---二维数组 多维数组逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md) | |
