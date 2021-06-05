@@ -635,7 +635,7 @@ https://space.bilibili.com/354892788?...
 * [剑指offer-数据结构与算法（全套无水印）](https://www.bilibili.com/video/av64288683/?spm_id_from=333.788.videocard.4)
 * [算法第四版 english](https://www.bilibili.com/video/BV1jx411U768/?spm_id_from=333.788.videocard.1)
 * [算法导论-麻省理工](https://www.bilibili.com/video/av48922404/?spm_id_from=333.788.videocard.0)
-
+* [Standfort 算法](https://www.youtube.com/watch?v=D6Q_wHrzxDs)
 
 
 
