@@ -3,6 +3,8 @@
   * [定长顺序存储](http://data.biancheng.net/view/176.html)
   * [堆分配存储](http://data.biancheng.net/view/177.html)
   * [块链存储](http://data.biancheng.net/view/178.html)
+* BF算法（串模式匹配算法）
+* KMP算法（快速模式匹配算法）
 
 * 前缀树（字典树） 
 * 后缀树
