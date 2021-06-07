@@ -9,16 +9,27 @@
       *  1. 树的存储结构
          *  树的链表存储
          *  树的基本操作
-         *  父节点表示法
-         *  子节点表示法
+            * [树的双亲表示法](http://data.biancheng.net/view/196.html)
+            * [树的孩子表示法](http://data.biancheng.net/view/197.html)
+            * [树的孩子兄弟表示法详解](http://data.biancheng.net/view/198.html)
       *  2. 树的遍历
          *   前序遍历
          *   中序遍历
          *   后序遍历
       *  3. [二叉树](http://data.biancheng.net/view/192.html)
-            *  [满二叉树](http://data.biancheng.net/view/192.html)
-            *  [完全二叉树](http://data.biancheng.net/view/192.html)
+            *  二叉树类型
+               *  [满二叉树](http://data.biancheng.net/view/192.html)
+               *  [完全二叉树](http://data.biancheng.net/view/192.html)
+            *  [二叉树的顺序存储](http://data.biancheng.net/view/193.html)
+            *  [二叉树二叉链表存储](http://data.biancheng.net/view/194.html)
+            *  二叉树的三叉链表存储
             *  二叉树的基本操作
+               * 二叉搜索树的构建 基于数组的构建 插入构建
+               * 二叉搜索树的插入 插入到合适位置，插入后仍然是一颗二叉搜索树 递归算法
+               * 二叉搜索树的删除(分为删除节点为叶子节点、左子树为空、右子树为空、左右子树均不为空等四个方面，递归算法，删除后仍然是一颗二叉搜索树)
+               * 二叉搜索树的搜索 Olgn 递归算法](#二叉搜索树的搜索-Olgn-递归算法
+               * 二叉搜索树的遍历，特别是中序遍历 遍历结果为升序序列 递归算法
+               * 二叉搜索树的打印 树的前序遍历的应用 递归算法
                * 以广义表形式的字符串构建二叉树
                * 根据二叉树的前序 中序或中序 后序遍历结果构建二叉树
                * 根据二叉树的根结点复制一颗二叉树
@@ -27,21 +38,15 @@
                * 二叉树的根结点、孩子节点的获取
                * 以广义表的形式打印二叉树
                * 判断两颗二叉树是否相等
-            *  二叉树的顺序存储
-            *  二叉树二叉链表存储
-            *  二叉树的三叉链表存储
             *  [遍历二叉树](https://www.kancloud.cn/fe_lucifer/leetcode/1996365)
-               *  先序遍历
-               *  中序遍历
-               *  后序遍历
-               *  广度优先按层遍历
-            *  排序二叉树]
-               * 二叉搜索树的构建 基于数组的构建 插入构建
-               * 二叉搜索树的插入 插入到合适位置，插入后仍然是一颗二叉搜索树 递归算法
-               * 二叉搜索树的删除(分为删除节点为叶子节点、左子树为空、右子树为空、左右子树均不为空等四个方面，递归算法，删除后仍然是一颗二叉搜索树)
-               * 二叉搜索树的搜索 Olgn 递归算法](#二叉搜索树的搜索-Olgn-递归算法
-               * 二叉搜索树的遍历，特别是中序遍历 遍历结果为升序序列 递归算法
-               * 二叉搜索树的打印 树的前序遍历的应用 递归算法
+               *  普通二叉树的遍历---如果算法中多次涉及到对二叉树的遍历，普通的二叉树就**需要使用栈结构**做重复性的操作
+                  *  [先序遍历](http://data.biancheng.net/view/143.html)
+                  *  [中序遍历](http://data.biancheng.net/view/144.html)
+                  *  [后序遍历](http://data.biancheng.net/view/145.html)
+                  *  [广度优先按层遍历](http://data.biancheng.net/view/27.html)
+               *  [线索二叉树的遍历---线索二叉树**不需要使用栈结构**，在遍历的同时，使用二叉树中空闲的内存空间记录某些结点的前趋和后继元素的位置（不是全部）](http://data.biancheng.net/view/28.html)
+               *  [双向线索二叉树的遍历](http://data.biancheng.net/view/29.html)
+            *  排序二叉树
             *  [二叉树：总结篇](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)   
       *  4. AVL树
       *  [5. B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)
@@ -53,13 +58,10 @@
          * 7.4 树状数组
       *  [后缀平衡树](https://oi-wiki.org/string/suffix-bst/)
       *  [回文树](https://oi-wiki.org/string/pam/)
-      *  哈夫曼树
-         *  哈夫曼树的概念
-      *  TreeMap源码分析
-      *  TreeSet源码分析
+      *  [哈夫曼树](http://data.biancheng.net/view/33.html)
       *  [森林---由 m（m >= 0）个互不相交的树组成的集合被称为森林]()
-      *  转换方法
-         *  森林 树和二叉树的转换
+         *  转换方法
+            *  [森林 树和二叉树的转换](http://data.biancheng.net/view/199.html)
       
 
 # 内容
