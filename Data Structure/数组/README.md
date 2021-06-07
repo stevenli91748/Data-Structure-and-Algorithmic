@@ -7,6 +7,7 @@
 | 1-1-0 稀疏数组| |
 | 1-1-0 [环形数组(CircularArray)](https://blog.csdn.net/sinat_36246371/article/details/78836336)||
 | 1-1-0 [后缀数组](https://oi-wiki.org/string/sa/)||
+| 1-1-0 [广义表](http://data.biancheng.net/view/190.html)||
 | 1-1-1 数组模拟队列||
 | 1-1-2 数组模拟环型队列||
 | 1-1-5 用数组实现链表结构代码|[无代码]|
