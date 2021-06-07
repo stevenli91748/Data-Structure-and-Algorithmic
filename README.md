@@ -107,7 +107,7 @@
 | **6种逻辑结构**| |
 | **[第二章 集合逻辑结构篇](https://github.com/stevenli91748/JAVA-Architecture/blob/master/Java%20fundamental/%E9%9B%86%E5%90%88.md)**||
 | **线性逻辑结构篇**| |
-| **第三章 静(动)态数组和矩阵(Array)** | |
+| **第三章 静(动)态数组和矩阵(Array)---“一对一”逻辑关系的数据，最佳的存储方式是使用线性表** | |
 | 3-1  静态数组||
 |    [3-1-1  稀蔬SPARESARRAY数组](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md)|  |
 |    [3-1-2  矩阵---二维数组 多维数组逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E7%BB%84/README.md) | |
@@ -115,7 +115,7 @@
 | 3-2-0 [在Java中如何使用动态数组](https://blog.csdn.net/weixin_30552635/article/details/95143774?utm_medium=distribute.pc_relevant.none-task-blog-baidujs_title-0&spm=1001.2101.3001.4242) ||
 | 3-2-0 [如何在Java中使用静态数组构建动态数组](https://blog.csdn.net/weixin_26705651/article/details/108497745?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-3.control)||
 | 3-4  [数组：总结篇](https://mp.weixin.qq.com/s/LIfQFRJBH5ENTZpvixHEmg)||
-| **第四章 [链表(Linked list)](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| |
+| **第四章 [链表(Linked list)---“一对一”逻辑关系的数据，最佳的存储方式是使用线性表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%93%BE%E8%A1%A8/README.md)**| |
 | 3-0  [静态链表和动态链表的区别](https://blog.csdn.net/zhengqijun_/article/details/78192888#:~:text=%E9%9D%99%E6%80%81%E9%93%BE%E8%A1%A8%E5%92%8C%E5%8A%A8%E6%80%81%E9%93%BE%E8%A1%A8%E6%98%AF%E7%BA%BF%E6%80%A7%E8%A1%A8%E9%93%BE%E5%BC%8F,%E9%A2%84%E5%85%88%E5%88%86%E9%85%8D%E5%9C%B0%E5%9D%80%E7%A9%BA%E9%97%B4%E5%A4%A7%E5%B0%8F%E3%80%82&text=2%E3%80%81%E5%8A%A8%E6%80%81%E9%93%BE%E8%A1%A8%E6%98%AF%E7%94%A8,%E7%9A%84%E9%95%BF%E5%BA%A6%E4%B8%8A%E6%B2%A1%E6%9C%89%E9%99%90%E5%88%B6%E3%80%82)||
 | 3-1  静态链表||
 | 3-1-1  单向链表(singly linked list)| |
@@ -124,11 +124,11 @@
 | 3-1-4  双向环链表||
 | 3-2 动态链表 ||
 | 3-6  [链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)||
-| **[第五章 字符串](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md)**| | 
+| **[第五章 字符串---“一对一”逻辑关系的数据，最佳的存储方式是使用线性表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md)**| | 
 | ||
 | **[第六章 位运算](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E4%BD%8D/README.md)**| | 
 | 5-1 利用位运算实现集合|---|
-| **第七章 栈 队列**|  |
+| **第七章 栈 队列---“一对一”逻辑关系的数据，最佳的存储方式是使用线性表**|  |
 | 5-1  [栈](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%88/README.md) |  |
 | 5-2  [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97/README.md) |  |
 |[5-3  栈与队列：总结篇](https://mp.weixin.qq.com/s/xBcHyvHlWq4P13fzxEtkPg)||
@@ -211,7 +211,7 @@
 |---|---|
 | **第十三章 [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86/README.md)**|  |
 |---|---|
-| **[第十四章 树逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91/README.md)**|  |
+| **[第十四章 树逻辑结构篇---是一种非线性存储结构，存储的是具有“一对多”关系的数据元素的集合](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91/README.md)**|  |
 | **[第十五章 图逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE/README.md)**|  |
 |**图的搜索**||
 |  广度优先搜索算法| |
