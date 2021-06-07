@@ -6,17 +6,13 @@
 # 目录
 
    *  树的概述
-      *  1. 树的存储结构
+      *  1  树的存储结构
          *  树的链表存储
          *  树的基本操作
             * [树的双亲表示法](http://data.biancheng.net/view/196.html)
             * [树的孩子表示法](http://data.biancheng.net/view/197.html)
             * [树的孩子兄弟表示法详解](http://data.biancheng.net/view/198.html)
-      *  2. 树的遍历
-         *   前序遍历
-         *   中序遍历
-         *   后序遍历
-      *  3. [二叉树](http://data.biancheng.net/view/192.html)
+      *  2  [二叉树](http://data.biancheng.net/view/192.html)
             *  二叉树类型
                *  [满二叉树](http://data.biancheng.net/view/192.html)
                *  [完全二叉树](http://data.biancheng.net/view/192.html)
@@ -38,6 +34,7 @@
                * 二叉树的根结点、孩子节点的获取
                * 以广义表的形式打印二叉树
                * 判断两颗二叉树是否相等
+               * [n个结点构造多少种树](http://data.biancheng.net/view/35.html)
             *  [遍历二叉树](https://www.kancloud.cn/fe_lucifer/leetcode/1996365)
                *  普通二叉树的遍历---如果算法中多次涉及到对二叉树的遍历，普通的二叉树就**需要使用栈结构**做重复性的操作
                   *  [先序遍历](http://data.biancheng.net/view/143.html)
@@ -48,18 +45,18 @@
                *  [双向线索二叉树的遍历](http://data.biancheng.net/view/29.html)
             *  排序二叉树
             *  [二叉树：总结篇](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)   
-      *  4. AVL树
-      *  [5. B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)
-      *  6. 红黑树
-      *  7. 特殊树
-         * 7.1 区间树
-         * [7.2 字典树](https://oi-wiki.org/string/trie/)
-         * 7.3 最小生成树
-         * 7.4 树状数组
-      *  [后缀平衡树](https://oi-wiki.org/string/suffix-bst/)
-      *  [回文树](https://oi-wiki.org/string/pam/)
-      *  [哈夫曼树](http://data.biancheng.net/view/33.html)
-      *  [森林---由 m（m >= 0）个互不相交的树组成的集合被称为森林]()
+      *  3  AVL树
+      *  [4  B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)
+      *  5  红黑树
+      *  6  特殊树
+         * 6.1 区间树
+         * [6.2 字典树](https://oi-wiki.org/string/trie/)
+         * 6.3 最小生成树
+         * 6.4 树状数组
+      *  [7 后缀平衡树](https://oi-wiki.org/string/suffix-bst/)
+      *  [8 回文树](https://oi-wiki.org/string/pam/)
+      *  [9 哈夫曼树](http://data.biancheng.net/view/33.html)
+      *  [10 森林---由 m（m >= 0）个互不相交的树组成的集合被称为森林]()
          *  转换方法
             *  [森林 树和二叉树的转换](http://data.biancheng.net/view/199.html)
       
