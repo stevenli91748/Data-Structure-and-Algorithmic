@@ -16,9 +16,10 @@
             *  二叉树类型
                *  [满二叉树](http://data.biancheng.net/view/192.html)
                *  [完全二叉树](http://data.biancheng.net/view/192.html)
-            *  [二叉树的顺序存储](http://data.biancheng.net/view/193.html)
-            *  [二叉树二叉链表存储](http://data.biancheng.net/view/194.html)
-            *  二叉树的三叉链表存储
+            *  二叉树存储结构
+               *  [二叉树的顺序存储](http://data.biancheng.net/view/193.html)
+               *  [二叉树二叉链表存储](http://data.biancheng.net/view/194.html)
+               *  二叉树的三叉链表存储
             *  二叉树的基本操作
                * 二叉搜索树的构建 基于数组的构建 插入构建
                * 二叉搜索树的插入 插入到合适位置，插入后仍然是一颗二叉搜索树 递归算法
@@ -42,7 +43,7 @@
                   *  [后序遍历](http://data.biancheng.net/view/145.html)
                   *  [广度优先按层遍历](http://data.biancheng.net/view/27.html)
                *  [线索二叉树的遍历---线索二叉树**不需要使用栈结构**，在遍历的同时，使用二叉树中空闲的内存空间记录某些结点的前趋和后继元素的位置（不是全部）](http://data.biancheng.net/view/28.html)
-               *  [双向线索二叉树的遍历](http://data.biancheng.net/view/29.html)
+                  *  [双向线索二叉树的遍历](http://data.biancheng.net/view/29.html)
             *  排序二叉树
             *  [二叉树：总结篇](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)   
       *  3  AVL树
