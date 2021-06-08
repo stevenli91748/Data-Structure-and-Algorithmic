@@ -9,18 +9,22 @@
       *  2 线性表的顺序存储结构
       *  3 线性表的链式存储结构
       *  [4 顺序表和链表优缺点](http://data.biancheng.net/view/162.html)
+      *  [静态链表和动态链表的区别](https://blog.csdn.net/zhengqijun_/article/details/78192888#:~:text=%E9%9D%99%E6%80%81%E9%93%BE%E8%A1%A8%E5%92%8C%E5%8A%A8%E6%80%81%E9%93%BE%E8%A1%A8%E6%98%AF%E7%BA%BF%E6%80%A7%E8%A1%A8%E9%93%BE%E5%BC%8F,%E9%A2%84%E5%85%88%E5%88%86%E9%85%8D%E5%9C%B0%E5%9D%80%E7%A9%BA%E9%97%B4%E5%A4%A7%E5%B0%8F%E3%80%82&text=2%E3%80%81%E5%8A%A8%E6%80%81%E9%93%BE%E8%A1%A8%E6%98%AF%E7%94%A8,%E7%9A%84%E9%95%BF%E5%BA%A6%E4%B8%8A%E6%B2%A1%E6%9C%89%E9%99%90%E5%88%B6%E3%80%82)
       *  5 线性表的基本操作
          *  5.1 单链表
-            * [链表的建立](#链表的建立)
-            * [链表的增加](#链表的增加)
-            * [链表的删除](#链表的删除)
-            * [链表的更改](#链表的更改)
+            * [链表：听说用虚拟头节点会方便很多？](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484132&idx=1&sn=032d3d00bdfb7179941306a2aa50c9f1&scene=21#wechat_redirect) 
+            * [链表的建立](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484144&idx=1&sn=d2783ac63a1e93f7fc7d174308f6b400&scene=21#wechat_redirect)
+            * [链表的增加](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484144&idx=1&sn=d2783ac63a1e93f7fc7d174308f6b400&scene=21#wechat_redirect)
+            * [链表的删除](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484144&idx=1&sn=d2783ac63a1e93f7fc7d174308f6b400&scene=21#wechat_redirect)
+            * [链表的更改](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484144&idx=1&sn=d2783ac63a1e93f7fc7d174308f6b400&scene=21#wechat_redirect)
             * [链表是否为空](#链表是否为空)
             * [链表的大小](#链表的大小)
             * [链表的打印输出](#链表的打印输出)
             * [删除链表重复节点](#删除链表重复节点)
             * [链表倒数第K个元素](#链表倒数第K个元素)
-            * [单链表的反转](http://c.biancheng.net/view/8105.html)
+            * 单链表的反转
+              * [单链表的反转方法一](http://c.biancheng.net/view/8105.html)  
+              * [单链表的反转方法二](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484158&idx=1&sn=60a756f681e2edeab28962c70b603ef9&scene=21#wechat_redirect)
             - [链表的倒序输出](#链表的倒序输出)
             - [链表的中间节点](#链表的中间节点)
             - [ 如何判断链表中有环](https://blog.csdn.net/sinat_35261315/article/details/79205157)
@@ -44,6 +48,7 @@
             - 环型链表的节点删除
             - 环型链表的串联
             - 环型链表表示稀疏矩阵
+            - [在链表如何找环，以及如何找环的入口位置](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484171&idx=1&sn=72ba729f2f4b696dfc4987e232f1ad2d&scene=21#wechat_redirect)
          *  [5.5 双向环链表]()   
       *  6 链栈---LinkStack
       *  7 两栈共享空间---DoubleStack
