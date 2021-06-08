@@ -168,7 +168,6 @@
 | 7-2-1 多路平衡归并排序算法（多路归并排序、胜者树、败者树）||
 | 7-2-2 置换选择排序算法||
 | 7-2-3 最佳归并树||
-
 |---|---|
 | **[第十章 查找算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/README.md)**|  |
 |  顺序查找算法| |
