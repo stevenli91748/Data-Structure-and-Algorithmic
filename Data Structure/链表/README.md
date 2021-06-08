@@ -24,6 +24,8 @@
             * [删除链表重复节点](#删除链表重复节点)
             * [链表倒数第K个元素](#链表倒数第K个元素)
             * 单链表的反转
+              * 双指针法链表的反转
+              * 递归法链表的反转
               * [单链表的反转方法一](http://c.biancheng.net/view/8105.html)  
               * [单链表的反转方法二](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484158&idx=1&sn=60a756f681e2edeab28962c70b603ef9&scene=21#wechat_redirect)
             - [链表的倒序输出](#链表的倒序输出)
