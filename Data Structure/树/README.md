@@ -14,6 +14,7 @@
             * [树的孩子表示法](http://data.biancheng.net/view/197.html)
             * [树的孩子兄弟表示法详解](http://data.biancheng.net/view/198.html)
       *  2  [二叉树](http://data.biancheng.net/view/192.html)
+            *  [二叉树的理论基础](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
             *  二叉树类型
                *  [满二叉树](http://data.biancheng.net/view/192.html)
                *  [完全二叉树](http://data.biancheng.net/view/192.html)
