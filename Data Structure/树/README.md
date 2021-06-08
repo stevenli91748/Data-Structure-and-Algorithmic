@@ -54,6 +54,35 @@
                  * 递归方法：顺序无所谓，递归函数返回值为bool类型是为了搜索一条边，没有返回值是搜索整棵树。
                  * 迭代方法：栈里元素不仅要记录节点指针，还要记录从头结点到该节点的路径数值总和 
             *  二叉树的基本操作
+               * [构造二叉树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484950&idx=1&sn=3900f9433d36dd5406fc1ccb1df07703&scene=21#wechat_redirect)
+                 * 递归：前序，重点在于找分割点，分左右区间构造
+                 * 迭代：比较复杂，意义不大 
+               * [构造最大的二叉树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484963&idx=1&sn=f0e1e21dc5cda3e6223ba6e4b46593c7&scene=21#wechat_redirect)
+                 * 递归：前序，分割点为数组最大值，分左右区间构造
+                 * 迭代：比较复杂，意义不大     
+               * [翻转二叉树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484731&idx=1&sn=aa7da461e9c03eb00b3fdbfbfe17e7dc&scene=21#wechat_redirect)
+                 * 递归：前序，交换左右孩子
+                 * 迭代：直接模拟前序遍历
+               * [合并两个二叉树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484988&idx=1&sn=03bc66ed9af4f5ddf7891d06b0a850f3&scene=21#wechat_redirect)
+                 * 递归：前序，同时操作两个树的节点，注意合并的规则
+                 * 迭代：使用队列，类似层序遍历 
+            *  二叉搜索树的属性
+               * [二叉搜索树中的搜索](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485012&idx=1&sn=971ad48e3be136ed9e8d10c1e8a25111&scene=21#wechat_redirect)
+                 * 递归：二叉搜索树的递归是有方向的
+                 * 迭代：因为有方向，所以迭代法很简单 
+               * [是不是二叉搜索树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485028&idx=1&sn=87e2fe177dd794c0c27d57cb1169f3ce&scene=21#wechat_redirect)
+                 * 递归：中序，相当于变成了判断一个序列是不是递增的
+                 * 迭代：模拟中序，逻辑相同 
+               * [求二叉搜索树的最小绝对差](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485040&idx=1&sn=5076aed483d61d710eaf3db626df9c4e&scene=21#wechat_redirect)
+                 * 递归：中序，双指针操作
+                 * 迭代：模拟中序，逻辑相同
+               * [求二叉搜索树的众数](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485055&idx=1&sn=0f3064622d80255348bfec1d8f222dd3&scene=21#wechat_redirect)
+                 * 递归：中序，清空结果集的技巧，遍历一遍便可求众数集合
+                 * 迭代：模拟中序，逻辑相同 
+               * [二叉搜索树转成累加树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485212&idx=1&sn=8f88ae1db8680f906489cbef942f23f8&scene=21#wechat_redirect)
+                 * 递归：中序，双指针操作累加
+                 * 迭代：模拟中序，逻辑相同
+            *  二叉搜索树的基本操作
                * 二叉搜索树的构建 基于数组的构建 插入构建
                * 二叉搜索树的插入 插入到合适位置，插入后仍然是一颗二叉搜索树 递归算法
                * 二叉搜索树的删除(分为删除节点为叶子节点、左子树为空、右子树为空、左右子树均不为空等四个方面，递归算法，删除后仍然是一颗二叉搜索树)
