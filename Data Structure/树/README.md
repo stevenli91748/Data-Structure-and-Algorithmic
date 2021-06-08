@@ -16,9 +16,11 @@
             *  二叉树类型
                *  [满二叉树](http://data.biancheng.net/view/192.html)
                *  [完全二叉树](http://data.biancheng.net/view/192.html)
+               *  [二叉搜索树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
+               *  [平衡二叉搜索树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
             *  二叉树存储结构
                *  [二叉树的顺序存储](http://data.biancheng.net/view/193.html)
-               *  [二叉树二叉链表存储](http://data.biancheng.net/view/194.html)
+               *  [二叉树二叉链表存储](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
                *  二叉树的三叉链表存储
             *  二叉树的基本操作
                * 二叉搜索树的构建 基于数组的构建 插入构建
@@ -38,10 +40,19 @@
                * [n个结点构造多少种树](http://data.biancheng.net/view/35.html)
             *  [遍历二叉树](https://www.kancloud.cn/fe_lucifer/leetcode/1996365)
                *  普通二叉树的遍历---如果算法中多次涉及到对二叉树的遍历，普通的二叉树就**需要使用栈结构**做重复性的操作
-                  *  [先序遍历](http://data.biancheng.net/view/143.html)
-                  *  [中序遍历](http://data.biancheng.net/view/144.html)
-                  *  [后序遍历](http://data.biancheng.net/view/145.html)
-                  *  [广度优先按层遍历](http://data.biancheng.net/view/27.html)
+                  * [深度优先遍历---先往深走，遇到叶子节点再往回走，这里的前中后序，其实指的就是中间节点的遍历顺序，中间节点的顺序就是所谓的遍历方式](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)  
+                    *  [前序遍历---中左右，中间节点在前](http://data.biancheng.net/view/143.html)
+                       * 实现前序遍历的方法一：递归法
+                       * 实现前序遍历的方法二：借助栈使用非递归的方式来实现  
+                    *  [中序遍历---左中右，中间节点在中](http://data.biancheng.net/view/144.html)
+                       * 实现中序遍历的方法一：递归法
+                       * 实现中序遍历的方法二：借助栈使用非递归的方式来实现  
+                    *  [后序遍历---左右中，中间节点在后](http://data.biancheng.net/view/145.html)
+                       * 实现后序遍历的方法一：递归法
+                       * 实现后序遍历的方法二：借助栈使用非递归的方式来实现  
+                  * 广度优先遍历---一层一层的去遍历
+                    *  [广度优先按层遍历](http://data.biancheng.net/view/27.html)
+                       * 实现广度优先遍历的方法：使用队列来实现，需要先进先出的结构，才能一层一层的来遍历二叉树 
                *  [线索二叉树的遍历---线索二叉树**不需要使用栈结构**，在遍历的同时，使用二叉树中空闲的内存空间记录某些结点的前趋和后继元素的位置（不是全部）](http://data.biancheng.net/view/28.html)
                   *  [双向线索二叉树的遍历](http://data.biancheng.net/view/29.html)
             *  排序二叉树
