@@ -44,14 +44,14 @@
                *  普通二叉树的遍历---如果算法中多次涉及到对二叉树的遍历，普通的二叉树就**需要使用栈结构**做重复性的操作
                   * [深度优先遍历---先往深走，遇到叶子节点再往回走，这里的前中后序，其实指的就是中间节点的遍历顺序，中间节点的顺序就是所谓的遍历方式](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)  
                     *  [前序遍历---中左右，中间节点在前](http://data.biancheng.net/view/143.html)
-                       * 实现前序遍历的方法一：递归法
-                       * 实现前序遍历的方法二：借助栈使用非递归的方式来实现  
+                       * [实现前序遍历的方法一：递归法](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484654&idx=1&sn=0c22c8b8771acc2387bf37ac255749f0&scene=21#wechat_redirect)
+                       * [实现前序遍历的方法二：借助栈使用非递归的方式来实现  ](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484677&idx=1&sn=e04b4a5baa7a3f6b090947bfa8aea97a&scene=21#wechat_redirect)
                     *  [中序遍历---左中右，中间节点在中](http://data.biancheng.net/view/144.html)
-                       * 实现中序遍历的方法一：递归法
-                       * 实现中序遍历的方法二：借助栈使用非递归的方式来实现  
+                       * [实现中序遍历的方法一：递归法](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484654&idx=1&sn=0c22c8b8771acc2387bf37ac255749f0&scene=21#wechat_redirect)
+                       * [实现中序遍历的方法二：借助栈使用非递归的方式来实现  ](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484677&idx=1&sn=e04b4a5baa7a3f6b090947bfa8aea97a&scene=21#wechat_redirect)
                     *  [后序遍历---左右中，中间节点在后](http://data.biancheng.net/view/145.html)
-                       * 实现后序遍历的方法一：递归法
-                       * 实现后序遍历的方法二：借助栈使用非递归的方式来实现  
+                       * [实现后序遍历的方法一：递归法](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484654&idx=1&sn=0c22c8b8771acc2387bf37ac255749f0&scene=21#wechat_redirect)
+                       * [实现后序遍历的方法二：借助栈使用非递归的方式来实现  ](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484677&idx=1&sn=e04b4a5baa7a3f6b090947bfa8aea97a&scene=21#wechat_redirect)
                   * 广度优先遍历---一层一层的去遍历
                     *  [广度优先按层遍历](http://data.biancheng.net/view/27.html)
                        * 实现广度优先遍历的方法：使用队列来实现，需要先进先出的结构，才能一层一层的来遍历二叉树 
