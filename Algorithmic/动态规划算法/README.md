@@ -62,4 +62,5 @@
   * 股票系列
     *  [动态规划：股票系列总结篇](https://mp.weixin.qq.com/s/sC5XyEtDQWkonKnbCvZhDw)
   * 子序列系列
-  * [动态规划总结篇](https://mp.weixin.qq.com/s/ES1SXf54047496YnNdeirA)
+  * [动态规划总结篇之一](https://mp.weixin.qq.com/s/ES1SXf54047496YnNdeirA)
+  * [动态规划总结篇之二](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247489282&idx=1&sn=770ff33965357e822addc2b88cf31697&chksm=f9a22453ced5ad4519176cb274d005ebfe3a2e7dd2b2698787100c77950aa3b97c8ff47d15e7&scene=178&cur_album_id=1485825793120387074#rd)
