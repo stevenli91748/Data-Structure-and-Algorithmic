@@ -150,7 +150,7 @@
             *  [二叉树：总结篇](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)   
       *  3  AVL树
       *  [4  B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)
-      *  5  红黑树
+      *  5  [红黑树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247487806&idx=1&sn=0bfb1e78b0297883857958bfe73cd375&chksm=f9a2226fced5ab792d28daf4c7d1ba9a447670de97891d218f257bff8133c86e8c7e3edd43d9&scene=178&cur_album_id=1485825793120387074#rd)
       *  6  特殊树
          * 6.1 区间树
          * [6.2 字典树](https://oi-wiki.org/string/trie/)
