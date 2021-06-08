@@ -14,17 +14,17 @@
             * [树的孩子表示法](http://data.biancheng.net/view/197.html)
             * [树的孩子兄弟表示法详解](http://data.biancheng.net/view/198.html)
       *  2  [二叉树](http://data.biancheng.net/view/192.html)
-            *  [二叉树的理论基础](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
-            *  二叉树类型
+            *  [2.1 二叉树的理论基础](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
+            *  2.2 二叉树类型
                *  [满二叉树](http://data.biancheng.net/view/192.html)
                *  [完全二叉树](http://data.biancheng.net/view/192.html)
                *  [二叉搜索树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
                *  [平衡二叉搜索树（AVL树）](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
-            *  二叉树存储结构
+            *  2.3 二叉树存储结构
                *  [二叉树的顺序存储](http://data.biancheng.net/view/193.html)
                *  [二叉树二叉链表存储](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
                *  二叉树的三叉链表存储
-            *  二叉树的属性
+            *  2.4 二叉树的属性
                * [二叉树：是否对称](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484775&idx=1&sn=8acc987b8e87f2f322c26bba47bb4867&scene=21#wechat_redirect)
                  * 递归方法：后序，比较的是根节点的左子树与右子树是不是相互翻转
                  * 迭代方法：使用队列/栈将两个节点顺序放入容器中进行比较 
@@ -53,7 +53,10 @@
                * [二叉树：求路径总和](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484927&idx=1&sn=476c0cfc2b04d14fe5c32605a2676b9f&scene=21#wechat_redirect)
                  * 递归方法：顺序无所谓，递归函数返回值为bool类型是为了搜索一条边，没有返回值是搜索整棵树。
                  * 迭代方法：栈里元素不仅要记录节点指针，还要记录从头结点到该节点的路径数值总和 
-            *  二叉树的基本操作
+               * [二叉树：公共祖先问题](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485072&idx=1&sn=1e6c6d28a70ad0f6986ca5f850b74abe&scene=21#wechat_redirect)
+                 * 递归：后序，回溯，找到左子树出现目标值，右子树节点目标值的节点。
+                 * 迭代：不适合模拟回溯
+            *  2.5 二叉树的基本操作
                * [构造二叉树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484950&idx=1&sn=3900f9433d36dd5406fc1ccb1df07703&scene=21#wechat_redirect)
                  * 递归：前序，重点在于找分割点，分左右区间构造
                  * 迭代：比较复杂，意义不大 
@@ -66,7 +69,7 @@
                * [合并两个二叉树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484988&idx=1&sn=03bc66ed9af4f5ddf7891d06b0a850f3&scene=21#wechat_redirect)
                  * 递归：前序，同时操作两个树的节点，注意合并的规则
                  * 迭代：使用队列，类似层序遍历 
-            *  二叉搜索树的属性
+            *  2.6 二叉搜索树的属性
                * [二叉搜索树中的搜索](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485012&idx=1&sn=971ad48e3be136ed9e8d10c1e8a25111&scene=21#wechat_redirect)
                  * 递归：二叉搜索树的递归是有方向的
                  * 迭代：因为有方向，所以迭代法很简单 
@@ -82,7 +85,23 @@
                * [二叉搜索树转成累加树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485212&idx=1&sn=8f88ae1db8680f906489cbef942f23f8&scene=21#wechat_redirect)
                  * 递归：中序，双指针操作累加
                  * 迭代：模拟中序，逻辑相同
-            *  二叉搜索树的基本操作
+               * [二叉搜索树的公共祖先问题](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485103&idx=1&sn=9cd0d08e1c52497b80c1dea395c63d1d&scene=21#wechat_redirect)
+                 * 递归：顺序无所谓，如果节点的数值在目标区间就是最近公共祖先
+                 * 迭代：按序遍历 
+            *  2.7 二叉搜索树的基本操作
+               * [构造二叉搜索树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485194&idx=1&sn=5d28e786feca7c956763269e9ed00f50&scene=21#wechat_redirect)
+                 * 递归：前序，数组中间节点分割
+                 * 迭代：较复杂，通过三个队列来模拟
+               * [二叉搜索树中的插入操作](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485117&idx=1&sn=8f34c86fb6e8adea26189c7beb1ffafc&scene=21#wechat_redirect)
+                 * 递归：顺序无所谓，通过递归函数返回值添加节点
+                 * 迭代：按序遍历，需要记录插入父节点，这样才能做插入操作 
+               * [二叉搜索树中的删除操作](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485135&idx=1&sn=57d1de0ec50e5ccbd4cfd7703de59a8d&scene=21#wechat_redirect)
+                 * 递归：前序，想清楚删除非叶子节点的情况
+                 * 迭代：有序遍历，较复杂
+               * [修剪二叉搜索树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485155&idx=1&sn=0ceeecc5ca1385049b39a81bedcaecfa&scene=21#wechat_redirect)
+                 * 递归：前序，数组中间节点分割
+                 * 迭代：较复杂，通过三个队列来模拟   
+               * 
                * 二叉搜索树的构建 基于数组的构建 插入构建
                * 二叉搜索树的插入 插入到合适位置，插入后仍然是一颗二叉搜索树 递归算法
                * 二叉搜索树的删除(分为删除节点为叶子节点、左子树为空、右子树为空、左右子树均不为空等四个方面，递归算法，删除后仍然是一颗二叉搜索树)
