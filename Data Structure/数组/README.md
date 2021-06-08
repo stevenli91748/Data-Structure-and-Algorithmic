@@ -47,6 +47,7 @@
 | 3-1 [将多维数组存储在一维内存空间的存储方式](http://data.biancheng.net/view/182.html)| [无代码] |
 | 3-1 二维数组(矩阵)的存储方式|[无代码] |
 | 3-1-1  规则矩阵压缩代码| [无代码] |
+|[二维数组的地址分布究竟是什么样的](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247487411&idx=2&sn=f36c6a5364a976b36f3d6eb22d1d9195&chksm=f9a23ce2ced5b5f4db53d9a5d577364a1ce6eebfd3e3489f2573ee9f8133fdf199f398bc8daa&scene=178&cur_album_id=1485825793120387074#rd)||
 | 3-1-2  稀疏矩阵压缩存储（3种方式）| [无代码] |
 | 3-1-2  1. [三元组顺序表](http://data.biancheng.net/view/184.html) ||
 | 3-1-2  2. [行逻辑链接的顺序表](http://data.biancheng.net/view/185.html)||
