@@ -24,6 +24,35 @@
                *  [二叉树的顺序存储](http://data.biancheng.net/view/193.html)
                *  [二叉树二叉链表存储](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
                *  二叉树的三叉链表存储
+            *  二叉树的属性
+               * [二叉树：是否对称](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484775&idx=1&sn=8acc987b8e87f2f322c26bba47bb4867&scene=21#wechat_redirect)
+                 * 递归方法：后序，比较的是根节点的左子树与右子树是不是相互翻转
+                 * 迭代方法：使用队列/栈将两个节点顺序放入容器中进行比较 
+               * [二叉树：求最大深度](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484791&idx=1&sn=2e9f1308520a74441c66fe60691ce241&scene=21#wechat_redirect)
+                 * 递归方法：后序，求根节点最大高度就是最大深度，通过递归函数的返回值做计算树的高度
+                 * 迭代方法：层序遍历  
+               * [二叉树：求最小深度](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484806&idx=1&sn=a643f2a63896706e0cc12a2db6d4fe85&scene=21#wechat_redirect)
+                 * 递归方法：后序，求根节点最小高度就是最小深度，注意最小深度的定义
+                 * 迭代方法：层序遍历
+               * [二叉树：求有多少个节点](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484827&idx=1&sn=5b784b8814bc971451c86492e74e5fbb&scene=21#wechat_redirect)
+                 * 递归方法：后序，通过递归函数的返回值计算节点数量
+                 * 迭代方法：层序遍历 
+               * [二叉树：是否平衡](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484841&idx=1&sn=fd1380e74ed46c7267b069f3578e2d3a&scene=21#wechat_redirect)
+                 * 递归方法：后序，注意后序求高度和前序求深度，递归过程判断高度差
+                 * 迭代方法：效率很低，不推荐  
+               * [二叉树：找所有路径](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484854&idx=1&sn=bbe5222821da342cae923b1e36bb160c&scene=21#wechat_redirect)
+                 * 递归方法：前序，方便让父节点指向子节点，涉及回溯处理根节点到叶子的所有路径
+                 * 迭代方法：一个栈模拟递归，一个栈来存放对应的遍历路径 
+               * [二叉树：递归中如何隐藏着回溯](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484885&idx=1&sn=590b824ec73eb65de22a7dcc98134d26&scene=21#wechat_redirect)
+               * [二叉树：求左叶子之和](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484897&idx=1&sn=fbf25da0459ebaec7cc550109fd106b4&scene=21#wechat_redirect)
+                 * 递归方法：后序，必须三层约束条件，才能判断是否是左叶子。
+                 * 迭代方法：直接模拟后序遍历 
+               * [二叉树：求左下角的值](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484911&idx=1&sn=d493e4c5465aa59192ab58d336e588f9&scene=21#wechat_redirect)
+                 * 递归方法：顺序无所谓，优先左孩子搜索，同时找深度最大的叶子节点。
+                 * 迭代方法：层序遍历找最后一行最左边 
+               * [二叉树：求路径总和](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484927&idx=1&sn=476c0cfc2b04d14fe5c32605a2676b9f&scene=21#wechat_redirect)
+                 * 递归方法：顺序无所谓，递归函数返回值为bool类型是为了搜索一条边，没有返回值是搜索整棵树。
+                 * 迭代方法：栈里元素不仅要记录节点指针，还要记录从头结点到该节点的路径数值总和 
             *  二叉树的基本操作
                * 二叉搜索树的构建 基于数组的构建 插入构建
                * 二叉搜索树的插入 插入到合适位置，插入后仍然是一颗二叉搜索树 递归算法
@@ -34,7 +63,7 @@
                * 以广义表形式的字符串构建二叉树
                * 根据二叉树的前序 中序或中序 后序遍历结果构建二叉树
                * 根据二叉树的根结点复制一颗二叉树
-               * 二叉树的高度
+
                * 二叉树的结点总数
                * 二叉树的根结点、孩子节点的获取
                * 以广义表的形式打印二叉树
