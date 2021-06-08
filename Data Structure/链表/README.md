@@ -4,7 +4,8 @@
 
 # 目录
 
-  *  [线性表---LinkList](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E7%BA%BF%E6%80%A7%E8%A1%A8.md)
+  *  [线性表---LinkList]()
+      *  [链表的理论基础](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247488536&idx=2&sn=74702c7d7fb54b18199bc50d8e660d6a&scene=21#wechat_redirect)
       *  [线性表的基本操作](#线性表的基本操作)
       *  [线性表的顺序存储结构](#线性表的顺序存储结构)
       *  [线性表的链式存储结构](#线性表的链式存储结构)
