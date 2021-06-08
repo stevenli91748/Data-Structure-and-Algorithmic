@@ -29,28 +29,28 @@
             - [链表的交点](#链表的交点)
             - [多项式的列表表示法](#多项式的列表表示法)
             
-         *  [静态链表---StaticLinkList  兼顾了顺序表和链表的优点于一身，可以看做是顺序表和链表的升级版](http://data.biancheng.net/view/163.html)
+         *  [5.2 静态链表---StaticLinkList  兼顾了顺序表和链表的优点于一身，可以看做是顺序表和链表的升级版](http://data.biancheng.net/view/163.html)
              
-         *  [双向链表---LinkListDouble](#双向链表)
+         *  [5.3 双向链表---LinkListDouble](#双向链表)
             -  双向链表的建立
             -  双向链表的节点插入
                - 添加至表头  
                - 添加至表的中间位置
                - 添加至表尾
             -  双向链表的节点删除
-         *  [环链表---LinkListConnect](#环链表)
+         *  [5.4 环链表---LinkListConnect](#环链表)
             - 环型链表的建立
             - 环型链表的节点插入
             - 环型链表的节点删除
             - 环型链表的串联
             - 环型链表表示稀疏矩阵
-         *  [双向环链表]()   
-      *  链栈---LinkStack
-      *  两栈共享空间---DoubleStack
-      *  [线性表的分析](#线性表的分析)
+         *  [5.5 双向环链表]()   
+      *  6 链栈---LinkStack
+      *  7 两栈共享空间---DoubleStack
+      *  [8 线性表的分析](#线性表的分析)
          *  [线性表的实现分析](#线性表的实现分析)
          *  [线性表的功能](#线性表的功能)
-      * [链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)  
+      * [9 链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)  
 
 # 内容
 ---
