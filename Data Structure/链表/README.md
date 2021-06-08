@@ -5,12 +5,12 @@
 # 目录
 
   *  [线性表---LinkList]()
-      *  [链表的理论基础](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247488536&idx=2&sn=74702c7d7fb54b18199bc50d8e660d6a&scene=21#wechat_redirect)
-      *  线性表的顺序存储结构
-      *  线性表的链式存储结构
-      *  [顺序表和链表优缺点》](http://data.biancheng.net/view/162.html)
-      *  线性表的基本操作
-         *  单链表
+      *  [1 链表的理论基础](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247488536&idx=2&sn=74702c7d7fb54b18199bc50d8e660d6a&scene=21#wechat_redirect)
+      *  2 线性表的顺序存储结构
+      *  3 线性表的链式存储结构
+      *  [4 顺序表和链表优缺点](http://data.biancheng.net/view/162.html)
+      *  5 线性表的基本操作
+         *  5.1 单链表
             * [链表的建立](#链表的建立)
             * [链表的增加](#链表的增加)
             * [链表的删除](#链表的删除)
@@ -50,6 +50,7 @@
       *  [线性表的分析](#线性表的分析)
          *  [线性表的实现分析](#线性表的实现分析)
          *  [线性表的功能](#线性表的功能)
+      * [链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)  
 
 # 内容
 ---
