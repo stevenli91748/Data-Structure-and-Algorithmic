@@ -159,7 +159,8 @@
       *  [7 后缀平衡树](https://oi-wiki.org/string/suffix-bst/)
       *  [8 回文树](https://oi-wiki.org/string/pam/)
       *  [9 哈夫曼树](http://data.biancheng.net/view/33.html)
-      *  [10 森林---由 m（m >= 0）个互不相交的树组成的集合被称为森林]()
+      *  [10 并查集](https://oi-wiki.org/ds/dsu/)
+      *  [11 森林---由 m（m >= 0）个互不相交的树组成的集合被称为森林]()
          *  转换方法
             *  [森林 树和二叉树的转换](http://data.biancheng.net/view/199.html)
       
