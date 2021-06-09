@@ -59,6 +59,7 @@
       *  [8 线性表的分析](#线性表的分析)
          *  [线性表的实现分析](#线性表的实现分析)
          *  [线性表的功能](#线性表的功能)
+      * [跳表](https://oi-wiki.org/ds/skiplist/)
       * [9 链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)  
 
 # 内容
