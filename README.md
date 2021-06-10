@@ -84,13 +84,14 @@
 
 
 # 目录
-  * [第一篇 数据结构篇](#第一篇-数据结构篇)
-  * [第二篇 算法篇](#第二篇-算法篇)
-  * [第三篇 专题篇](#第三篇-专题篇)
+  * [第一篇 数学篇](#第一篇-数学篇)
+  * [第二篇 数据结构篇](#第二篇-数据结构篇)
+  * [第三篇 算法篇](#第三篇-算法篇)
+  * [第四篇 专题篇](#第四篇-专题篇)
 
-# 第0篇 [数学](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/%E6%95%B0%E5%AD%A6/README.md)
+# [第一篇 数学篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/%E6%95%B0%E5%AD%A6/README.md)
 
-# 第一篇 数据结构篇
+# 第二篇 数据结构篇
 | **第一章 数据结构和算法概述** || 
 | :--- | :---: | 
 | [1-1 数据结构和算法的关系](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%E6%A6%82%E8%BF%B0/README.md) | |
@@ -236,7 +237,7 @@
 |---|---|
 |---|---|
 
-# 第二篇 算法篇
+# 第三篇 算法篇
 | **第十六章 基本算法思想**||
 |---|---|
 | 枚举算法思想||
@@ -292,7 +293,7 @@
 |---|---|
 
 
-# 第三篇 专题篇
+# 第四篇 专题篇
 | **专题类型**||
 |---|---|
 | [1 Pattern: Sliding Window---滑动窗口类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/1.%20Pattern:%20Sliding%20window%EF%BC%8C%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%B1%BB%E5%9E%8B/README.md)||
