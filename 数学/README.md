@@ -51,13 +51,13 @@
     * 线性代数 
     * 线性规划 
     * 组合数学 
-    * 概率初步
-    * 置换群
-    * 斐波那契数列
-    * 博弈论
-    * 牛顿迭代法
-    * 数值积分
-    * 分段打表
+    * [概率初步](https://oi-wiki.org/math/expectation/)
+    * [置换群](https://oi-wiki.org/math/permutation-group/)
+    * [斐波那契数列](https://oi-wiki.org/math/fibonacci/)
+    * [博弈论](https://oi-wiki.org/math/game-theory/)
+    * [牛顿迭代法](https://oi-wiki.org/math/newton/)
+    * [数值积分](https://oi-wiki.org/math/integral/)
+    * [分段打表](https://oi-wiki.org/math/dictionary/)
 * [计算几何部分](https://oi-wiki.org/geometry/)
     * 计算几何部分简介
     * [二维计算几何基础](https://oi-wiki.org/geometry/2d/)
