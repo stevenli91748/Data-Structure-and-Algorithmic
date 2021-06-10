@@ -8,6 +8,7 @@
   * [循环队列](https://www.jianshu.com/p/6b88855017d5)
   * 优先级队列----优先级队列其实是一个堆，堆就是一棵完全二叉树
   * 链队列---LinkQueue
+  * ArrayBlockingQueue
   * 双向队列
   * Queue源码分析
   * Deque源码分析
