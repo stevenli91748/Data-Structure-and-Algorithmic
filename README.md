@@ -257,8 +257,8 @@
 |---|---|
 | **第十七章 程序员常用算法**|  |
 | [递归算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95/README.md)|  |
-|  [一篇总结带你彻底搞透回溯算法](https://mp.weixin.qq.com/s/r73thpBnK1tXndFDtlsdCQ)  || 
-|  二分查找算法(非递归)| |
+| [一篇总结带你彻底搞透回溯算法](https://mp.weixin.qq.com/s/r73thpBnK1tXndFDtlsdCQ)  || 
+| 二分查找算法(非递归)| |
 | 14-1-1 二分查找算法(非递归)的应用场景 | |
 | 14-1-2 二分查找算法(非递归)的解决方案的基本步骤| |
 | 14-1-3 二分查找算法(非递归)的代码实现| |
@@ -266,8 +266,9 @@
 | 11-1-5 二分查找算法(非递归)的空间复杂度| |
 | 分治算法 | |
 | [动态规划算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/README.md)| |
-|  KMP算法||
+| 枚举算法||
 | [贪心算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/README.md)|  |
+|  KMP算法||
 | 普里姆算法||
 | 克鲁斯卡尔算法|  |
 | 迪杰斯特拉算法| |
