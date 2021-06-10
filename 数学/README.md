@@ -1,3 +1,77 @@
 
-[数学](https://oi-wiki.org/math/poly/intro/)|[计算几何部分](https://oi-wiki.org/geometry/)|
----|---|
+* [数学](https://oi-wiki.org/math/poly/intro/)
+    * [符号](https://oi-wiki.org/math/notation/)
+    * [复数](https://oi-wiki.org/math/complex/)
+    * [位运算](https://oi-wiki.org/math/bit/)
+    * [快速幂](https://oi-wiki.org/math/quick-pow/)
+    * [进位制](https://oi-wiki.org/math/base/)
+    * [高精度计算](https://oi-wiki.org/math/bignum/)
+    * [平衡三进制](https://oi-wiki.org/math/balanced-ternary/)
+    * 数论
+      * [素数](https://oi-wiki.org/math/prime/)
+      * [Meissel-Lehmer 算法](https://oi-wiki.org/math/meissel-lehmer/)
+      * [最大公约数](https://oi-wiki.org/math/gcd/)
+      * [欧拉函数](https://oi-wiki.org/math/euler/)
+      * [筛法](https://oi-wiki.org/math/sieve/)
+      * [欧拉定理 & 费马小定理](https://oi-wiki.org/math/fermat/)
+      * [类欧几里德算法](https://oi-wiki.org/math/euclidean/)
+      * [裴蜀定理](https://oi-wiki.org/math/bezouts/)
+      * [乘法逆元](https://oi-wiki.org/math/inverse/)
+      * [线性同余方程](https://oi-wiki.org/math/linear-equation/)
+      * [中国剩余定理](https://oi-wiki.org/math/crt/)
+      * [二次剩余](https://oi-wiki.org/math/quad-residue/)
+      * [BSGS](https://oi-wiki.org/math/bsgs/)
+      * [原根](https://oi-wiki.org/math/primitive-root/)
+      * [卢卡斯定理](https://oi-wiki.org/math/lucas/)
+      * [莫比乌斯反演](https://oi-wiki.org/math/mobius/)
+      * [杜教筛](https://oi-wiki.org/math/du/)
+      * [Powerful Number 筛](https://oi-wiki.org/math/powerful-number/)
+      * [Min_25 筛](https://oi-wiki.org/math/min-25/)
+      * [洲阁筛](https://oi-wiki.org/math/zhou/)
+      * [分解质因数](https://oi-wiki.org/math/pollard-rho/)
+      * [连分数](https://oi-wiki.org/math/continued-fraction/)
+      * [Stern-Brocot 树与 Farey 序列](https://oi-wiki.org/math/stern-brocot/)
+      * [Pell 方程 ](https://oi-wiki.org/math/pell-equation/)
+    * 多项式
+      * [多项式部分简介](https://oi-wiki.org/math/poly/intro/)
+      * [拉格朗日插值](https://oi-wiki.org/math/poly/lagrange/)
+      * [快速傅里叶变换](https://oi-wiki.org/math/poly/fft/)
+      * [快速数论变换](https://oi-wiki.org/math/poly/ntt/)
+      * [快速沃尔什变换](https://oi-wiki.org/math/poly/fwt/)
+      * [多项式求逆](https://oi-wiki.org/math/poly/inv/)
+      * [多项式开方](https://oi-wiki.org/math/poly/sqrt/)
+      * [多项式除法 取模](https://oi-wiki.org/math/poly/div-mod/)
+      * [多项式对数函数 指数函数](https://oi-wiki.org/math/poly/ln-exp/)
+      * [多项式牛顿迭代](https://oi-wiki.org/math/poly/newton/)
+      * [多项式多点求值 快速插值](https://oi-wiki.org/math/poly/multipoint-eval-interpolation/)
+      * [多项式三角函数](https://oi-wiki.org/math/poly/tri-func/)
+      * [多项式反三角函数](https://oi-wiki.org/math/poly/inv-tri-func/)
+      * [常系数齐次线性递推  ](https://oi-wiki.org/math/linear-recurrence/)
+    * 生成函数 
+    * 线性代数 
+    * 线性规划 
+    * 组合数学 
+    * 概率初步
+    * 置换群
+    * 斐波那契数列
+    * 博弈论
+    * 牛顿迭代法
+    * 数值积分
+    * 分段打表
+* [计算几何部分](https://oi-wiki.org/geometry/)
+    * 计算几何部分简介
+    * [二维计算几何基础](https://oi-wiki.org/geometry/2d/)
+    * 三维计算几何基础
+    * [极坐标系](https://oi-wiki.org/geometry/polar-coordinate/)
+    * [距离](https://oi-wiki.org/geometry/distance/)
+    * [Pick 定理](https://oi-wiki.org/geometry/pick/)
+    * [三角剖分](https://oi-wiki.org/geometry/triangulation/)
+    * [凸包](https://oi-wiki.org/geometry/convex-hull/)
+    * [扫描线](https://oi-wiki.org/geometry/scanning/)
+    * 旋转卡壳
+    * [半平面交](https://oi-wiki.org/geometry/half-plane/)
+    * [平面最近点对](https://oi-wiki.org/geometry/nearest-points/)
+    * [随机增量法](https://oi-wiki.org/geometry/random-incremental/)
+    * [反演变换](https://oi-wiki.org/geometry/inverse/)
+    * 计算几何杂项 
+
