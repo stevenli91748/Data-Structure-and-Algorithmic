@@ -84,12 +84,12 @@
 
 
 # 目录
-  * [第一篇 数学篇](#第一篇-数学篇)
+  * [第一篇 数学 计算几何篇](#第一篇-数学篇-计算几何篇)
   * [第二篇 数据结构篇](#第二篇-数据结构篇)
   * [第三篇 算法篇](#第三篇-算法篇)
   * [第四篇 专题篇](#第四篇-专题篇)
 
-# [第一篇 数学篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/%E6%95%B0%E5%AD%A6/README.md)
+# [第一篇 数学篇 计算几何篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/%E6%95%B0%E5%AD%A6/README.md)
 
 # 第二篇 数据结构篇
 | **第一章 数据结构和算法概述** || 
