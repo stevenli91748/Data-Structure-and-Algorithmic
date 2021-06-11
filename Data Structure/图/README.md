@@ -12,6 +12,7 @@
   * [图的分类](http://data.biancheng.net/view/200.html)
     * 完全图
     * [连通图]((http://data.biancheng.net/view/201.html)
+      * [重连通图 ](http://data.biancheng.net/view/42.html)
     * 稀疏图
     * 稠密图  
   * 图存储结构分类
@@ -19,27 +20,29 @@
     * [图的邻接表存储结构](http://data.biancheng.net/view/203.html)
     * [图的十字链表存储结构](http://data.biancheng.net/view/204.html)
     * [图的邻接多重表存储](http://data.biancheng.net/view/205.html)
-* 图的搜索
-  * [深度优先搜索（DFS、深搜）](http://data.biancheng.net/view/39.html)
-    * [深度优先生成树](http://data.biancheng.net/view/45.html) 
-  * [广度优先搜索（BFS、广搜）]((http://data.biancheng.net/view/39.html))
-    * [广度优先生成树](http://data.biancheng.net/view/45.html)
-  * 最短路径搜索
+* 图的算法
+  * 图的搜索算法
+    * [深度优先搜索（DFS、深搜）](http://data.biancheng.net/view/39.html)
+      * [深度优先生成树](http://data.biancheng.net/view/45.html) 
+    * [广度优先搜索（BFS、广搜）]((http://data.biancheng.net/view/39.html))
+      * [广度优先生成树](http://data.biancheng.net/view/45.html)
+  * 最短路径搜索算法
+    * [关键路径](http://data.biancheng.net/view/44.html)
     * Dijkstra算法---（狄克西特拉算法）
     * A* 算法
     * Bellman-Ford算法---（贝尔曼-福特算法）
     * Floyd-Warshall算法
-* 拓扑排序
-  * DFS实现
-  * BFS实现
-  * 时间复杂度
+  * 拓扑排序算法
+    * DFS实现
+    * BFS实现
+    * 时间复杂度
+  * 最小生成树算法
+    * Prim算法
+    * Kruskal算法
 * 并查集
   * Quick Find
   * Quick Union
   * Union Find
-* 最小生成树
-  * Prim算法
-  * Kruskal算法
 * 二分图匹配
-* 图的连通性问题
+
   
