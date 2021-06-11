@@ -22,8 +22,11 @@
       *  [静态查找](https://segmentfault.com/a/1190000022654107)
          *  顺序表查找
          *  有序表查找
+         *  [二分查找算法(非递归)](http://data.biancheng.net/view/55.html)
          *  静态树表的查找
-         * [分块查找算法（索引顺序查找）](http://data.biancheng.net/view/56.html)
+         *  [分块查找算法（索引顺序查找）](http://data.biancheng.net/view/56.html)
+         *  插值查找算法
+         *  奜波那契(黄金分割法)查找算法
       *  [动态查找](https://segmentfault.com/a/1190000022654107)
          *  键树
          *  B_树和B+树
