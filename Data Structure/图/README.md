@@ -20,8 +20,10 @@
     * [图的十字链表存储结构](http://data.biancheng.net/view/204.html)
     * [图的邻接多重表存储](http://data.biancheng.net/view/205.html)
 * 图的搜索
-  * 深度优先搜索
-  * 广度优先搜索
+  * [深度优先搜索（DFS、深搜）](http://data.biancheng.net/view/39.html)
+    * [深度优先生成树](http://data.biancheng.net/view/45.html) 
+  * [广度优先搜索（BFS、广搜）]((http://data.biancheng.net/view/39.html))
+    * [广度优先生成树](http://data.biancheng.net/view/45.html)
   * 最短路径搜索
     * Dijkstra算法---（狄克西特拉算法）
     * A* 算法
