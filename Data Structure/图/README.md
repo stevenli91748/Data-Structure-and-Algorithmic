@@ -9,10 +9,16 @@
   *  [什么是连通图，（强）连通图详解](http://data.biancheng.net/view/201.html)
   *  [什么是生成树，生成树（生成森林）详解](http://data.biancheng.net/view/202.html)
 * 图的存储结构
-  * 数组表示法
-  * 邻接表
-  * 十字链表
-  * 邻接多重表
+  * [图存储结构分类](http://data.biancheng.net/view/200.html)
+    * 完全图
+    * [连通图]((http://data.biancheng.net/view/201.html)
+    * 稀疏图
+    * 稠密图  
+  * 图存储结构分类
+    * [图的顺序存储结构(数组表示法)](http://data.biancheng.net/view/37.html)
+    * [图的邻接表存储结构](http://data.biancheng.net/view/203.html)
+    * [图的十字链表存储结构](http://data.biancheng.net/view/204.html)
+    * [图的邻接多重表存储](http://data.biancheng.net/view/205.html)
 * 图的搜索
   * 深度优先搜索
   * 广度优先搜索
