@@ -6,6 +6,8 @@
 # 目录
 
 * 图的概述
+  *  [什么是连通图，（强）连通图详解](http://data.biancheng.net/view/201.html)
+  *  [什么是生成树，生成树（生成森林）详解](http://data.biancheng.net/view/202.html)
 * 图的存储结构
   * 数组表示法
   * 邻接表
