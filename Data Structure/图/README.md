@@ -11,7 +11,7 @@
 * 图的存储结构
   * [图的分类](http://data.biancheng.net/view/200.html)
     * 完全图
-    * [连通图]((http://data.biancheng.net/view/201.html)
+    * [连通图](http://data.biancheng.net/view/201.html)
       * [重连通图 ](http://data.biancheng.net/view/42.html)
     * 稀疏图
     * 稠密图  
