@@ -84,6 +84,9 @@
 
 
 # 目录
+
+**数据之间的关系有 3 种，分别是 "一对一"、"一对多" 和 "多对多"，前两种关系的数据可分别用线性表和树结构存储，本节学习存储具有"多对多"逻辑关系数据的结构——图存储结构**
+
   * [第一篇 数学 计算几何篇](#第一篇-数学篇-计算几何篇)
   * [第二篇 数据结构篇](#第二篇-数据结构篇)
   * [第三篇 算法篇](#第三篇-算法篇)
@@ -218,8 +221,8 @@
 |---|---|
 | **第十三章 [堆](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%A0%86/README.md)**|  |
 |---|---|
-| **[第十四章 树逻辑结构篇---是一种非线性存储结构，存储的是具有“一对多”关系的数据元素的集合](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91/README.md)**|  |
-| **[第十五章 图逻辑结构篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE/README.md)**|  |
+| **[第十四章 树逻辑结构篇---“一对多”逻辑关系数据的结构,是一种非线性存储结构](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%A0%91/README.md)**|  |
+| **[第十五章 图逻辑结构篇---多对多"逻辑关系数据的结构](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%9B%BE/README.md)**|  |
 |**图的搜索**||
 |  广度优先搜索算法| |
 |  深度优先搜索| |
