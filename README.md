@@ -171,16 +171,23 @@
 | 7-2-3 最佳归并树||
 |---|---|
 | **[第十章 查找算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/README.md)**|  |
-|  顺序查找算法| |
-|  二分查找算法(非递归)|  |
+|  1  [顺序查找算法](http://data.biancheng.net/view/54.html)| |
+|  2  [二分查找算法(非递归)](http://data.biancheng.net/view/55.html)|  |
 |  ---二分查找算法(非递归)的应用场景 |  |
 |  ---二分查找算法(非递归)的解决方案的基本步骤|  |
 |  ---二分查找算法(非递归)的代码实现|  |
 |  ---二分查找算法(非递归)的时间复杂度|  |
 |  ---二分查找算法(非递归)的空间复杂度| |
-|  插值查找算法|  |
-|  平衡查找算法||
-|  奜波那契(黄金分割法)查找算法|  |
+|  3  [分块查找算法（索引顺序查找）](http://data.biancheng.net/view/56.html)||
+|  4  静态树表查找算法||
+|  5  二叉排序树查找算法（二叉查找树）||
+|  6  红黑树查找算法(更高级的二叉查找树)||
+|  7  平衡二叉树查找算法（AVL树）||
+|  8  B-树查找算法||
+|  9  B+树查找算法||
+|  10  键树查找算法（双链树和字典树）||
+|  11  插值查找算法|  |
+|  12  奜波那契(黄金分割法)查找算法|  |
 |  数据结构中的查找算法|  |
 |  --顺序表结构中的查找算法|  |
 |  --数组结构中的查找算法||
@@ -258,6 +265,7 @@
 | **第十七章 程序员常用算法**|  |
 | [递归算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95/README.md)|  |
 | [一篇总结带你彻底搞透回溯算法](https://mp.weixin.qq.com/s/r73thpBnK1tXndFDtlsdCQ)  || 
+| 顺序查找算法||
 | 二分查找算法(非递归)| |
 | 14-1-1 二分查找算法(非递归)的应用场景 | |
 | 14-1-2 二分查找算法(非递归)的解决方案的基本步骤| |
@@ -268,14 +276,14 @@
 | [动态规划算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/README.md)| |
 | 枚举算法||
 | [贪心算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/README.md)|  |
-|  KMP算法||
-| 普里姆算法||
-| 克鲁斯卡尔算法|  |
-| 迪杰斯特拉算法| |
-| 弗洛伊德算法|  |
+|  KMP算法---字符串||
+| 普里姆算法---图||
+| 克鲁斯卡尔算法---图|  |
+| 迪杰斯特拉算法---图| |
+| 弗洛伊德算法---图|  |
 | 马踏棋盘算法|  |
-| 贝尔曼-福特算法| |
-| k-Means算法| |
+| 贝尔曼-福特算法---图| |
+| k-Means算法---图| |
 | 欧几里得算法| |
 | 近拟算法| |
 | 数论算法||
