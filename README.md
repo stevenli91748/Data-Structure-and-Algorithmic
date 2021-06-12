@@ -41,7 +41,7 @@
 # [来和大家聊聊我是如何刷题的（第一弹）](https://lucifer.ren/blog/2020/11/29/shuati-silu/)
 # [来和大家聊聊我是如何刷题的（第二弹）](https://lucifer.ren/blog/2020/12/12/shuati-silu2/)
 # [来和大家聊聊我是如何刷题的（第三弹）](https://lucifer.ren/blog/2020/12/21/shuati-silu3/)
-
+# [面试算法题的快速思考方法 面对一个问题，改如何下手思考将其解决](http://www.nowamagic.net/librarys/veda/detail/1018)
 
 ---
 <a href="https://ibb.co/ZgBpzfR"><img src="https://i.ibb.co/T04xMwD/image.png" alt="image" border="0"></a>
