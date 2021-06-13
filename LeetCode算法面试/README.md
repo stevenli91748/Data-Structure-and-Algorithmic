@@ -41,6 +41,10 @@
        * 特殊树
          * 树状数组
          * 字典树 Trie（前缀树）
+           * 316. 去除重复字母(困难)---Remove Duplicate Letters
+           * 321. 拼接最大数(困难)---Create Maximum Number
+           * 402. 移掉 K 位数字(中等)---Remove K Digits
+           * 1081. 不同字符的最小子序列（中等）---Smallest Subsequence of Distinct Characters 
          * 线段树
      * 图
        * 最短路径
