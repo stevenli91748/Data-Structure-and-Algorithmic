@@ -17,6 +17,7 @@
             * [链表的增加](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484144&idx=1&sn=d2783ac63a1e93f7fc7d174308f6b400&scene=21#wechat_redirect)
             * [链表的删除](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484144&idx=1&sn=d2783ac63a1e93f7fc7d174308f6b400&scene=21#wechat_redirect)
               * [删除链表倒数第N个节点，怎么删](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247488822&idx=2&sn=f431fba72493f4527d379bd077364a54&scene=21#wechat_redirect) 
+              * [时间复杂度为O(1)的删除链表结点方法 从分析与思考中找到答案](http://www.nowamagic.net/librarys/veda/detail/261)
             * [链表的更改](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484144&idx=1&sn=d2783ac63a1e93f7fc7d174308f6b400&scene=21#wechat_redirect)
             * [链表是否为空](#链表是否为空)
             * [链表的大小](#链表的大小)
