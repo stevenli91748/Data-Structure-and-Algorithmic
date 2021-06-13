@@ -332,7 +332,7 @@
 | [小岛问题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/island)||
 | [最大公约数](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/gcd)||
 | [蓄水池抽样](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/reservoid-sampling)||
-|  二分法||
+| [二分法](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/91/binary-search)||
 |  Pattern: Bitwise XOR||
 |---|---|
 
