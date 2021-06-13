@@ -155,10 +155,11 @@
       *  6  特殊树
          * 6.1 区间树
          * [6.2 前缀树---字典树](https://oi-wiki.org/string/trie/)
-           * [前缀树](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/trie)
-           * [后缀平衡树](https://oi-wiki.org/string/suffix-bst/)
-         * 6.3 最小生成树
-         * 6.4 树状数组
+           * [前缀树应用](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/trie)
+           * [字典序列删除](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/selected/a-deleted)
+         * [6.3 后缀平衡树](https://oi-wiki.org/string/suffix-bst/)
+         * 6.4 最小生成树
+         * 6.5 树状数组
       *  [8 回文树](https://oi-wiki.org/string/pam/)
       *  [9 哈夫曼树](http://data.biancheng.net/view/33.html)
          * [哈夫曼编码和游程编码](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/run-length-encode-and-huffman-encode)  
