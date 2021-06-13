@@ -5,6 +5,7 @@
   * [块链存储](http://data.biancheng.net/view/178.html)
 * BF算法（串模式匹配算法）
 * KMP算法（快速模式匹配算法）
+  * [亲身体验一下KMP算法 KMP快速字符串查找算法](http://www.nowamagic.net/librarys/veda/detail/1137) 
 
 * 前缀树（字典树） 
 * 后缀树
