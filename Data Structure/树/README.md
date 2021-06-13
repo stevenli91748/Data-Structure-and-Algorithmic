@@ -29,6 +29,7 @@
                *  [完全二叉树](http://data.biancheng.net/view/192.html)
                *  [二叉搜索树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
                *  [平衡二叉搜索树（AVL树）](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
+                  *  [平衡二叉树专题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/balanced-tree)  
             *  2.3 二叉树存储结构
                *  [二叉树的顺序存储](http://data.biancheng.net/view/193.html)
                *  [二叉树二叉链表存储](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)
@@ -110,7 +111,6 @@
                * [修剪二叉搜索树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247485155&idx=1&sn=0ceeecc5ca1385049b39a81bedcaecfa&scene=21#wechat_redirect)
                  * 递归：前序，数组中间节点分割
                  * 迭代：较复杂，通过三个队列来模拟   
-               * 
                * 二叉搜索树的构建 基于数组的构建 插入构建
                * 二叉搜索树的插入 插入到合适位置，插入后仍然是一颗二叉搜索树 递归算法
                * 二叉搜索树的删除(分为删除节点为叶子节点、左子树为空、右子树为空、左右子树均不为空等四个方面，递归算法，删除后仍然是一颗二叉搜索树)
@@ -120,7 +120,6 @@
                * 以广义表形式的字符串构建二叉树
                * 根据二叉树的前序 中序或中序 后序遍历结果构建二叉树
                * 根据二叉树的根结点复制一颗二叉树
-
                * 二叉树的结点总数
                * 二叉树的根结点、孩子节点的获取
                * 以广义表的形式打印二叉树
@@ -149,7 +148,8 @@
                   *  [双向线索二叉树的遍历](http://data.biancheng.net/view/29.html)
             *  排序二叉树
             *  [二叉树：总结篇](https://mp.weixin.qq.com/s/-ZJn3jJVdF683ap90yIj4Q)   
-      *  3  AVL树
+      *  3  平衡二叉树（AVL树）
+         *  [平衡二叉树专题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/balanced-tree)  
       *  [4  B-Tree](https://www.cnblogs.com/dongguacai/p/7239599.html)
       *  5  [红黑树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247487806&idx=1&sn=0bfb1e78b0297883857958bfe73cd375&chksm=f9a2226fced5ab792d28daf4c7d1ba9a447670de97891d218f257bff8133c86e8c7e3edd43d9&scene=178&cur_album_id=1485825793120387074#rd)
       *  6  特殊树
@@ -163,6 +163,7 @@
       *  [9 哈夫曼树](http://data.biancheng.net/view/33.html)
          * [哈夫曼编码和游程编码](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/run-length-encode-and-huffman-encode)  
       *  [10 并查集](https://oi-wiki.org/ds/dsu/)
+         * [并查集应用](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/union-find)  
       *  [11 森林---由 m（m >= 0）个互不相交的树组成的集合被称为森林]()
          *  转换方法
             *  [森林 树和二叉树的转换](http://data.biancheng.net/view/199.html)
