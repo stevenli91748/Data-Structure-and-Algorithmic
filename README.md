@@ -176,6 +176,7 @@
 | **[第十章 查找算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/README.md)**|  |
 |  1  [顺序查找算法](http://data.biancheng.net/view/54.html)| |
 |  2  [二分查找算法(非递归)](http://data.biancheng.net/view/55.html)|  |
+|  ---[二分法专题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/91/binary-search)||
 |  ---二分查找算法(非递归)的应用场景 |  |
 |  ---二分查找算法(非递归)的解决方案的基本步骤|  |
 |  ---二分查找算法(非递归)的代码实现|  |
@@ -332,7 +333,7 @@
 | [小岛问题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/island)||
 | [最大公约数](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/gcd)||
 | [蓄水池抽样](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/reservoid-sampling)||
-| [二分法](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/91/binary-search)||
+| [二分法专题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/91/binary-search)||
 |  Pattern: Bitwise XOR||
 |---|---|
 
