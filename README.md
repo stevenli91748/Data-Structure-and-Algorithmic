@@ -334,11 +334,12 @@
 | [ Pattern: K-way merge---多路归并](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/13.%20Pattern:%20K-way%20merge%EF%BC%8C%E5%A4%9A%E8%B7%AF%E5%BD%92%E5%B9%B6/README.md)||
 | [ Pattern : 0/1 Knapsack (Dynamic Programming)---0/1背包类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/14.%20Pattern:%200%20mod%201%20Knapsack%20(Dynamic%20Programming)/README.md)||
 | [ Pattern: Topological Sort (Graph)---拓扑排序类型](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/%E7%BB%8F%E5%85%B8%E9%A2%98%E5%9E%8B%E5%88%86%E7%B1%BB/15.%20Pattern:%20Topological%20Sort%20(Graph)%EF%BC%8C%E6%8B%93%E6%89%91%E6%8E%92%E5%BA%8F%E7%B1%BB%E5%9E%8B/README.md)||
-| [布隆过滤器](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/bloom-filter)||
-| [小岛问题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/island)||
-| [最大公约数](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/gcd)||
-| [蓄水池抽样](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/reservoid-sampling)||
+| [布隆过滤器专题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/bloom-filter)||
+| [小岛问题专题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/island)||
+| [最大公约数专题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/gcd)||
+| [蓄水池抽样专题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/reservoid-sampling)||
 | [二分法专题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/91/binary-search)||
+| [日程安排表专题](https://github.com/azl397985856/leetcode/blob/1fce788bab7e7e2a10a6dfb0ee55a2bb09424b0b/selected/schedule-topic.md)||
 |  Pattern: Bitwise XOR||
 |---|---|
 
