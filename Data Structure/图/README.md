@@ -26,13 +26,18 @@
       * [深度优先生成树](http://data.biancheng.net/view/45.html) 
     * [广度优先搜索（BFS、广搜）]((http://data.biancheng.net/view/39.html))
       * [广度优先生成树](http://data.biancheng.net/view/45.html)
+  * [关键路径](http://data.biancheng.net/view/44.html)
+    * AOE网 
+    * 关键路径核心算法
   * 最短路径搜索算法
-    * [关键路径](http://data.biancheng.net/view/44.html)
     * Dijkstra算法---（狄克西特拉算法）
     * A* 算法
+    * 弗洛伊德算法
     * Bellman-Ford算法---（贝尔曼-福特算法）
     * Floyd-Warshall算法
   * 拓扑排序算法
+    * AOV网
+    * 拓扑排序核心算法 
     * DFS实现
     * BFS实现
     * 时间复杂度
