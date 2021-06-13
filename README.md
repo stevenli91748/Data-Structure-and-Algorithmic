@@ -42,7 +42,7 @@
 # [来和大家聊聊我是如何刷题的（第二弹）](https://lucifer.ren/blog/2020/12/12/shuati-silu2/)
 # [来和大家聊聊我是如何刷题的（第三弹）](https://lucifer.ren/blog/2020/12/21/shuati-silu3/)
 # [面试算法题的快速思考方法 面对一个问题，改如何下手思考将其解决](http://www.nowamagic.net/librarys/veda/detail/1018)
-
+# [为何我刷了很多，遇到新的题还是唯唯诺诺，无法重拳出击](https://lucifer.ren/blog/2021/04/06/out-of-science/)
 ---
 <a href="https://ibb.co/ZgBpzfR"><img src="https://i.ibb.co/T04xMwD/image.png" alt="image" border="0"></a>
 <a href="https://ibb.co/xHNNFgf"><img src="https://i.ibb.co/fvssDNn/image.png" alt="image" border="0"></a>
