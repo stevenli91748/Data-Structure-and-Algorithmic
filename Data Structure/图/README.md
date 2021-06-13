@@ -23,7 +23,8 @@
 * 图的算法
   * 图的搜索算法
     * [深度优先搜索（DFS、深搜）](http://data.biancheng.net/view/39.html)
-      * [深度优先生成树](http://data.biancheng.net/view/45.html) 
+      * [深度优先生成树](http://data.biancheng.net/view/45.html)
+      * [回溯是 DFS 中的一种技巧](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/backtrack) 
     * [广度优先搜索（BFS、广搜）]((http://data.biancheng.net/view/39.html))
       * [广度优先生成树](http://data.biancheng.net/view/45.html)
   * [关键路径](http://data.biancheng.net/view/44.html)
