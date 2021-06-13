@@ -1,6 +1,6 @@
 
 
-
+* [位运算的套路](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/bit)
 
 
 # 参考书
