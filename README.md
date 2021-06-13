@@ -276,6 +276,7 @@
 | 14-1-4 二分查找算法(非递归)的时间复杂度| |
 | 11-1-5 二分查找算法(非递归)的空间复杂度| |
 | 分治算法 | |
+| ---[用分治法求数组中的最值 分治算法的一个简单应用](http://www.nowamagic.net/librarys/veda/detail/257)||
 | [动态规划算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/README.md)| |
 | 枚举算法||
 | [贪心算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/README.md)|  |
