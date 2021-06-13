@@ -270,6 +270,8 @@
 | [一篇总结带你彻底搞透回溯算法](https://mp.weixin.qq.com/s/r73thpBnK1tXndFDtlsdCQ)  || 
 | 顺序查找算法||
 | 二分查找算法(非递归)| |
+| ---[二分专题（上）](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/binary-search-1)||
+| ---[二分专题（下）](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/binary-search-2)||
 | 14-1-1 二分查找算法(非递归)的应用场景 | |
 | 14-1-2 二分查找算法(非递归)的解决方案的基本步骤| |
 | 14-1-3 二分查找算法(非递归)的代码实现| |
