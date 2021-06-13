@@ -331,6 +331,7 @@
 | [布隆过滤器](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/bloom-filter)||
 | [小岛问题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/island)||
 | [最大公约数](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/gcd)||
+| [蓄水池抽样](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/reservoid-sampling)||
 |  二分法||
 |  Pattern: Bitwise XOR||
 |---|---|
