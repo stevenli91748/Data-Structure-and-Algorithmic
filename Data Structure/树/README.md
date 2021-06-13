@@ -127,6 +127,7 @@
                * 判断两颗二叉树是否相等
                * [n个结点构造多少种树](http://data.biancheng.net/view/35.html)
             *  [遍历二叉树](https://www.kancloud.cn/fe_lucifer/leetcode/1996365)
+               *  [二叉树的遍历](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/binary-tree-traversal) 
                *  普通二叉树的遍历---如果算法中多次涉及到对二叉树的遍历，普通的二叉树就**需要使用栈结构**做重复性的操作
                   * [深度优先遍历---先往深走，遇到叶子节点再往回走，这里的前中后序，其实指的就是中间节点的遍历顺序，中间节点的顺序就是所谓的遍历方式](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247484643&idx=1&sn=a8b3878fe8c72309145acaa50bf8fa4e&scene=21#wechat_redirect)  
                     *  [前序遍历---中左右，中间节点在前](http://data.biancheng.net/view/143.html)
