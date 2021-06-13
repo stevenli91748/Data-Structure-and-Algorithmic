@@ -41,10 +41,10 @@
        * 特殊树
          * 树状数组
          * 字典树 Trie（前缀树）
-           * 316 去除重复字母(困难)---Remove Duplicate Letters
-           * 321 拼接最大数(困难)---Create Maximum Number
-           * 402 移掉 K 位数字(中等)---Remove K Digits
-           * 1081 不同字符的最小子序列（中等）---Smallest Subsequence of Distinct Characters 
+           * [316 去除重复字母(困难)---Remove Duplicate Letters](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/316%20%E5%8E%BB%E9%99%A4%E9%87%8D%E5%A4%8D%E5%AD%97%E6%AF%8D(%E5%AD%97%E5%85%B8%E6%A0%91%20%E5%9B%B0%E9%9A%BE)---Remove%20Duplicate%20Letters.md)
+           * [321 拼接最大数(困难)---Create Maximum Number](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/321%20%E6%8B%BC%E6%8E%A5%E6%9C%80%E5%A4%A7%E6%95%B0(%E5%AD%97%E5%85%B8%E6%A0%91%20%E5%9B%B0%E9%9A%BE)---Create%20Maximum%20Number.md)
+           * [402 移掉 K 位数字(中等)---Remove K Digits](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/402%20%E7%A7%BB%E6%8E%89%20K%20%E4%BD%8D%E6%95%B0%E5%AD%97(%E5%AD%97%E5%85%B8%E6%A0%91%20%E4%B8%AD%E7%AD%89)---Remove%20K%20Digits.md)
+           * [1081 不同字符的最小子序列（中等）---Smallest Subsequence of Distinct Characters ](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/1081%20%E4%B8%8D%E5%90%8C%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E5%B0%8F%E5%AD%90%E5%BA%8F%E5%88%97%EF%BC%88%E5%AD%97%E5%85%B8%E6%A0%91%20%E4%B8%AD%E7%AD%89%EF%BC%89---Smallest%20Subsequence%20of%20Distinct%20Characters%20.md)
          * 线段树
      * 图
        * 最短路径
