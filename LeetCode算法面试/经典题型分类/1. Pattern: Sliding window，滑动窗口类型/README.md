@@ -15,7 +15,7 @@
 * 让你去求最长/最短子字符串或是某些特定的长度要求
 
 **经典题目：**
-
+* [一文带你 AC 十道题【滑动窗口】](https://lucifer.ren/blog/2020/03/16/slide-window/)
 Maximum Sum Subarray of Size K (easy)
 
 Smallest Subarray with a given sum (easy)
