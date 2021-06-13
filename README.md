@@ -283,6 +283,7 @@
 | 枚举算法||
 | [贪心算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E8%B4%AA%E5%BF%83%E7%AE%97%E6%B3%95/README.md)|  |
 |  KMP算法---字符串||
+|  ---[亲身体验一下KMP算法 KMP快速字符串查找算法](http://www.nowamagic.net/librarys/veda/detail/1137) ||
 | 普里姆算法---图||
 | 克鲁斯卡尔算法---图|  |
 | 迪杰斯特拉算法---图| |
