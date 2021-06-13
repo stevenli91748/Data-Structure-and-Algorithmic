@@ -154,10 +154,11 @@
       *  5  [红黑树](https://mp.weixin.qq.com/s?__biz=MzUxNjY5NTYxNA==&mid=2247487806&idx=1&sn=0bfb1e78b0297883857958bfe73cd375&chksm=f9a2226fced5ab792d28daf4c7d1ba9a447670de97891d218f257bff8133c86e8c7e3edd43d9&scene=178&cur_album_id=1485825793120387074#rd)
       *  6  特殊树
          * 6.1 区间树
-         * [6.2 字典树](https://oi-wiki.org/string/trie/)
+         * [6.2 前缀树---字典树](https://oi-wiki.org/string/trie/)
+           * [前缀树](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/trie)
+           * [后缀平衡树](https://oi-wiki.org/string/suffix-bst/)
          * 6.3 最小生成树
          * 6.4 树状数组
-      *  [7 后缀平衡树](https://oi-wiki.org/string/suffix-bst/)
       *  [8 回文树](https://oi-wiki.org/string/pam/)
       *  [9 哈夫曼树](http://data.biancheng.net/view/33.html)
          * [哈夫曼编码和游程编码](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/run-length-encode-and-huffman-encode)  
