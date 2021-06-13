@@ -67,6 +67,9 @@
 [LeetCode CookBook---霜神是前阿里巴巴资深后端工程师](https://books.halfrost.com/leetcode/)|[用java表示数据结构和算法](https://my.oschina.net/Clarences?tab=newest&catalogId=5691177)|
 ---|---|
 
+[图解 Java 中的数据结构及原理，傻瓜也能看懂](https://mp.weixin.qq.com/s/2t_XO3G1v1jx7q0-9YU0YA)|
+---|
+
 # 算法的免费学习资源
 
 [可以查询各个公司算法面试高频题的网站](https://codetop.cc/#/home)|[lintcode](https://www.lintcode.com/)|[leetcode](www.leetcode.com)|[leetcode 中文](www.leetcode-cn.com)|[牛客网](https://www.nowcoder.com/)|
