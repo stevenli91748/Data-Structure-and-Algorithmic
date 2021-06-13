@@ -5,6 +5,7 @@
   * [栈的顺序存储结构](#栈的顺序存储结构)
   * [栈的链式存储结构](#栈的链式存储结构)
     * 链栈--- 链栈实际上就是一个只能采用头插法插入或删除数据的链表
+  * [单调栈](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/monotone-stack)
   * [两栈共享空间](https://zhuanlan.zhihu.com/p/114688589)
   * [Java集合中的栈](https://my.oschina.net/Clarences/blog/1594597)
   * [栈的操作](#栈的操作)
