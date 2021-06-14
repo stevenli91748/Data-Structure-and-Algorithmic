@@ -36,7 +36,6 @@ Smallest Subarray with a given sum (easy)
 
 Longest Substring with K Distinct Characters (medium)
 
-Fruits into Baskets (medium)
 
 No-repeat Substring (hard)
 
