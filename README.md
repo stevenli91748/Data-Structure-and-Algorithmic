@@ -59,8 +59,8 @@
 [精尽数据结构与算法学习指南](http://svip.iocoder.cn/Data-Structures-and-Algorithms/tutorials/)|[九章算法官方频道](https://www.youtube.com/channel/UCdBXs_F9YlBodIH7eK0BYfQ/videos)|[X Code---系统设计 和 算法](https://www.youtube.com/channel/UCicSh3qMeTmYybY7wdiTjmg)|[经验分享  这 5 个自学算法的工具和网站你知道几个？](https://zhuanlan.zhihu.com/p/365816763)|
 ---|---|---|---|
 
-[来Offer---LaiOffer](https://www.youtube.com/channel/UC12XyYzyyZwFiIgafl_Ga6w/videos)|[Java数据结构与算法教程](https://www.jb51.net/Special/632.htm)|[花花酱算法---很好](https://www.youtube.com/channel/UC5xDNEcvb1vgw3lE21Ack2Q)|
----|---|---|
+[来Offer---LaiOffer](https://www.youtube.com/channel/UC12XyYzyyZwFiIgafl_Ga6w/videos)|[Java数据结构与算法教程](https://www.jb51.net/Special/632.htm)|[花花酱算法---很好](https://www.youtube.com/channel/UC5xDNEcvb1vgw3lE21Ack2Q)|[九章算法---令狐冲的算法小抄](https://github.com/ninechapter-algorithm/linghu-algorithm-templete?utm_source=wechat_session&utm_medium=social&utm_oi=991812777480134656)|
+---|---|---|---|
 
 [OI Wiki---致力于成为一个免费开放且持续更新的 编程竞赛 (competitive programming) 知识整合站点,准备了竞赛中的基础知识、常见题型、解题思路以及常用工具等](https://oi-wiki.org/)|
 ---|
