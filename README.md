@@ -80,8 +80,8 @@
 [可以查询各个公司算法面试高频题的网站](https://codetop.cc/#/home)|[lintcode](https://www.lintcode.com/)|[leetcode](www.leetcode.com)|[leetcode 中文](www.leetcode-cn.com)|[牛客网](https://www.nowcoder.com/)|
 ---|---|---|---|---|
 
-[Github top 12 ---All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)|
----|
+[Github top 12 ---All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)|[专门为刚开始刷题的同学准备的算法基地](https://github.com/chefyuan/algorithm-base)|
+---|---|
 
 
 # Online Judge System(OJ)---在线判题系统
