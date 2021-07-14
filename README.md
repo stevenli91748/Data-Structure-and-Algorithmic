@@ -54,8 +54,8 @@
 [Grokking the Coding Interview: Patterns for Coding Questions----Leetcode刷题顺序,看这一篇就够了](https://www.educative.io/courses/grokking-the-coding-interview?aff=K7qB)|
 ---|
 
-[Interviews---Your personal guide to Software Engineering technical interviews](https://github.com/kdn251/interviews)|
----|
+[Interviews---Your personal guide to Software Engineering technical interviews](https://github.com/kdn251/interviews)|[Cracking the Coding Interview 6th Ed. Solutions](https://github.com/careercup/CtCI-6th-Edition)|
+---|---|
 
 
 [数据结构与算法学习整理大纲](https://www.coollf.com/archives/article-15)
