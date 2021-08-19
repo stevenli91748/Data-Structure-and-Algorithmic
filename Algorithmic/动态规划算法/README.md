@@ -11,7 +11,8 @@
 [青云算法动态规划专题讲座](https://www.youtube.com/watch?v=eLQzAKMWY8U)|[动态规划(重置版)](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/dynamic-programming)|
 ---|---|
 
-
+[背包问题九讲](https://www.kancloud.cn/kancloud/pack/70124)|
+----|
 
 * 动态规划
   * 动态规划的问题
