@@ -304,6 +304,7 @@
 |  KMP算法---字符串||
 |  ---[亲身体验一下KMP算法 KMP快速字符串查找算法](http://www.nowamagic.net/librarys/veda/detail/1137) ||
 | 普里姆算法---图||
+| [RSA加密算法原理](https://www.kancloud.cn/kancloud/rsa_algorithm/48493)||
 | 克鲁斯卡尔算法---图|  |
 | 迪杰斯特拉算法---图| |
 | 弗洛伊德算法---图|  |
