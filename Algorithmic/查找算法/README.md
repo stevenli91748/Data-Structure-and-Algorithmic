@@ -3,6 +3,7 @@
 # 目录
 
    *  查找算法
+      *  [基本查找算法 ](https://rovo98.github.io/posts/d83777d2/) 
       *  [静态查找---只作查找操作的查找表](https://segmentfault.com/a/1190000022654107)
          *  [顺序查找算法](http://data.biancheng.net/view/54.html)
          *  有序表查找
