@@ -329,6 +329,8 @@
 | 分布式算法| |
 | 数据挖掘10大算法|  |
 | 网络流算法|  |
+|[分布式一致性算法：Raft](https://yasinshaw.com/articles/33)||
+|[分布式一致性算法：Paxos](https://yasinshaw.com/articles/32)||
 |---|---|
 
 
