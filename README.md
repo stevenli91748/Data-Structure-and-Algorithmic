@@ -21,6 +21,17 @@
 第三遍：提升刷题速度，拿出一个题，就能够知道其考察重点，解题方法，在短时间内写出解答。定期总结：按照题目类型进行总结：针对一类问题，总结有哪些解题方法，哪种方法是最优的，为什么。总结重点：有些题你刷了好多遍都还是不会，那就要重点关注，多思考解决方法，不断练习强结合图解刷题：有些人认为刷题比较枯燥，比较抽象。那你可以结合动画图解刷题。**
 
 
+# 在线书籍
+* [趣学数据结构](https://weread.qq.com/web/reader/5fd32df071a525855fd4932)
+* [零基础学算法（第4版）---2020](https://weread.qq.com/web/reader/a363257071eeef84a36a574)
+* [算法图解](https://weread.qq.com/web/reader/fbf32b80715c0184fbff41f)
+* [算法（第4版）](https://weread.qq.com/web/reader/7cc32910718ff66b7cc8d9d)
+* [数据结构与算法图解](https://weread.qq.com/web/reader/689329a0718ff663689395d)
+* [算法训练营： 海量图解 + 竟刷题（入门篇）2021](https://weread.qq.com/web/reader/5f2320c0725a69455f288dd)
+* [剑指Offer(专项突破版)： 数据结构与算法名企面试题精解](https://weread.qq.com/web/reader/4e132bc07263ff664e11075)
+* [程序员代码面试指南： IT名企算法与数据结构题目最优解（第2版）](https://weread.qq.com/web/reader/1be32b907184877a1be90a2)
+* [未来算法：下一个十年赢在算法 ---诸葛越 2021](https://weread.qq.com/web/reader/f4c32ff0725a7243f4cbaaf)
+
 # 从逻辑上分，数据结构分为线性和非线性两大类。
 
     线性数据结构包括数组、链表、栈、队列。
