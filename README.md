@@ -340,6 +340,8 @@
 | 分布式算法| |
 | 数据挖掘10大算法|  |
 | 网络流算法|  |
+| [漏桶算法](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)||
+| [令牌桶算法](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)||
 |[分布式一致性算法：Raft](https://yasinshaw.com/articles/33)||
 |[分布式一致性算法：Paxos](https://yasinshaw.com/articles/32)||
 |---|---|
