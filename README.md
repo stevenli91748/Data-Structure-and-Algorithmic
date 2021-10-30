@@ -344,7 +344,7 @@
 | [令牌桶算法](https://weread.qq.com/web/reader/c9932ea07163ff6ac993e0dkd9d320f022ed9d4f495e456)||
 |[分布式一致性算法：Raft](https://yasinshaw.com/articles/33) OR [raft 图解 (秒懂)---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14343154.html)||
 |[分布式一致性算法：Paxos](https://yasinshaw.com/articles/32) OR [Paxos 图解 (秒懂)---疯狂创客圈](https://www.cnblogs.com/crazymakercircle/p/14341015.html)||
-|||
+|空间定位算法||
 |---|---|
 
 
