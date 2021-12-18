@@ -70,8 +70,8 @@
 [Interviews---Your personal guide to Software Engineering technical interviews](https://github.com/kdn251/interviews)|[Cracking the Coding Interview 6th Ed. Solutions](https://github.com/careercup/CtCI-6th-Edition)|
 ---|---|
 
-[java 算法例子程序](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/java%20%E7%AE%97%E6%B3%95%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F/README.md)|
----|
+[java 算法例子程序](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/java%20%E7%AE%97%E6%B3%95%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F/README.md)|[数据结构精讲：从原理到实战](https://www.kancloud.cn/alex_wsc/datastructure)|
+---|---|
 
 [算法快速入门教程（多语言实现）](http://c.biancheng.net/algorithm/)|[Python机器学习算法入门教程](http://c.biancheng.net/ml_alg/)|[数据结构与算法/leetcode/lintcode题解](https://www.kancloud.cn/kancloud/data-structure-and-algorithm-notes)|
 ---|----|---|
