@@ -73,8 +73,8 @@
 [java 算法例子程序](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/java%20%E7%AE%97%E6%B3%95%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F/README.md)|
 ---|
 
-[算法快速入门教程（多语言实现）](http://c.biancheng.net/algorithm/)|[Python机器学习算法入门教程](http://c.biancheng.net/ml_alg/)|
----|----|
+[算法快速入门教程（多语言实现）](http://c.biancheng.net/algorithm/)|[Python机器学习算法入门教程](http://c.biancheng.net/ml_alg/)|[数据结构与算法/leetcode/lintcode题解](https://www.kancloud.cn/kancloud/data-structure-and-algorithm-notes)|
+---|----|---|
 
 [数据结构与算法学习整理大纲](https://www.coollf.com/archives/article-15)|[ labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)|
 ---|---|
