@@ -76,8 +76,8 @@
 [算法快速入门教程（多语言实现）](http://c.biancheng.net/algorithm/)|[Python机器学习算法入门教程](http://c.biancheng.net/ml_alg/)|[数据结构与算法/leetcode/lintcode题解](https://www.kancloud.cn/kancloud/data-structure-and-algorithm-notes)|
 ---|----|---|
 
-[数据结构与算法学习整理大纲](https://www.coollf.com/archives/article-15)|[ labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)|
----|---|
+[数据结构与算法学习整理大纲](https://www.coollf.com/archives/article-15)|[ labuladong 的算法小抄](https://github.com/labuladong/fucking-algorithm)|[leetcode笔记](https://www.kancloud.cn/digest/leetcodeojs)|
+---|---|---|
 
 [精尽数据结构与算法学习指南](http://svip.iocoder.cn/Data-Structures-and-Algorithms/tutorials/)|[九章算法官方频道](https://www.youtube.com/channel/UCdBXs_F9YlBodIH7eK0BYfQ/videos)|[X Code---系统设计 和 算法](https://www.youtube.com/channel/UCicSh3qMeTmYybY7wdiTjmg)|[经验分享  这 5 个自学算法的工具和网站你知道几个？](https://zhuanlan.zhihu.com/p/365816763)|
 ---|---|---|---|
