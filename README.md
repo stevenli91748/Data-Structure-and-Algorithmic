@@ -331,6 +331,7 @@
 | 近拟算法| |
 | 数论算法||
 | 图算法||
+|[图像处理算法](https://www.kancloud.cn/digest/imageproebow/122462)||
 | B62 序列号生成算法| [文章](https://youyou-tech.com/2019/11/23/%E5%BA%8F%E5%88%97%E5%8F%B7%E7%94%9F%E6%88%90%E7%9A%84%E5%8F%A6%E4%B8%80%E7%A7%8D%E7%8E%A9%E6%B3%95-62%E8%BF%9B%E5%88%B6%E5%A6%82%E4%BD%95%E7%8E%A9%EF%BC%9F/) |
 | 修剪与搜索算法| |
 | 计算几何算法| |
