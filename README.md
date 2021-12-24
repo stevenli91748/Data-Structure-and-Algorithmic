@@ -498,6 +498,7 @@ java常用算法手册 第三版本.pdf
 
 
 # leetCode视频
+* [Edward Shi的LeetCode 题解视频](https://www.youtube.com/channel/UCTWuRL33U8xBPqk3LehXjFw)
 * [一周刷爆LeetCode，算法大神左神（左程云）耗时100天打造算法与数据结构基础到高级全家桶教程](https://www.bilibili.com/video/BV13g41157hK?spm_id_from=333.851.b_7265636f6d6d656e64.4)
 * [LeetCode All in One 题目讲解汇总](https://www.cnblogs.com/grandyang/p/4606334.html)
 * [Leetcode刷题顺序，看这一篇就够了](https://zhuanlan.zhihu.com/p/161036474)
