@@ -97,7 +97,7 @@
 
 # 算法的免费学习资源
 
-[可以查询各个公司算法面试高频题的网站](https://codetop.cc/#/home)|[lintcode](https://www.lintcode.com/)|[leetcode](https://leetcode.com/explore/)|[leetcode 中文](www.leetcode-cn.com)|[牛客网](https://www.nowcoder.com/)|
+[可以查询各个公司算法面试高频题的网站](https://codetop.cc/#/home)|[lintcode](https://www.lintcode.com/)|[leetcode](https://leetcode.com/explore/)|[leetcode 中文](https://leetcode-cn.com/)|[牛客网](https://www.nowcoder.com/)|
 ---|---|---|---|---|
 
 [Github top 12 ---All Algorithms implemented in Java](https://github.com/TheAlgorithms/Java)|[专门为刚开始刷题的同学准备的算法基地](https://github.com/chefyuan/algorithm-base)|
