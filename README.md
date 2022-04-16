@@ -65,8 +65,8 @@
 
 ---
 
-[Grokking the Coding Interview: Patterns for Coding Questions----Leetcode刷题顺序,看这一篇就够了](https://www.educative.io/courses/grokking-the-coding-interview?aff=K7qB)|
----|
+[Grokking the Coding Interview: Patterns for Coding Questions----Leetcode刷题顺序,看这一篇就够了](https://www.educative.io/courses/grokking-the-coding-interview?aff=K7qB)|[Data Structures](https://www.geeksforgeeks.org/data-structures/?ref=shm)|[algorithms](https://www.geeksforgeeks.org/fundamentals-of-algorithms/?ref=shm)|
+---|---|---|
 
 [Interviews---Your personal guide to Software Engineering technical interviews 在线炼习](https://github.com/kdn251/interviews)|[Cracking the Coding Interview 6th Ed. Solutions](https://github.com/careercup/CtCI-6th-Edition)|
 ---|---|
