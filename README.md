@@ -46,6 +46,7 @@
 #  [数据结构和算法的学习方法路径](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%E6%96%B9%E6%B3%95.md)
 # [LeetCode按照怎样的顺序来刷题比较好？](https://www.zhihu.com/question/36738189/answer/908664455)
 # [LeetCode 刷题攻略---一个超级详细的刷题顺序](https://github.com/stevenli91748/leetcode-master)
+# [刷完 900 多道算法题的首次总结：LeetCode 应该怎么刷？](https://blog.csdn.net/fuxuemingzhu/article/details/105183554)
 # [刷完 LeetCode 是什么水平？按照怎样的顺序来刷题比较好？](https://zhuanlan.zhihu.com/p/258542340)
 # [LeetCode CookBook---霜神是前阿里巴巴资深后端工程师](https://books.halfrost.com/leetcode/)
 # [别再埋头刷LeetCode之：北美算法面试的题目分类，按类型和规律刷题，事半功倍---LeetCode经典题目](https://www.zhihu.com/question/36738189/answer/908664455)
