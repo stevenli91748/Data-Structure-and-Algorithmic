@@ -138,6 +138,7 @@
 # [第一篇 数学篇 计算几何篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/%E6%95%B0%E5%AD%A6/README.md)
 
 # 第二篇 数据结构篇
+|[Data Structures and Algorithms in Java ](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d&index=1)||
 | **第一章 数据结构和算法概述** || 
 | :--- | :---: | 
 | [1-1 数据结构和算法的关系](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%E6%A6%82%E8%BF%B0/README.md) | |
