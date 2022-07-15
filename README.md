@@ -52,6 +52,7 @@
   * [李威威---中文力扣的大 V，对力扣题目掌握很全面，写得题解非常详细，对题目举一反三](https://liweiwei1419.gitee.io/leetcode-algo/)
   * [花花酱---基本每个题都有博客和视频，强烈推荐看他的视频](https://zxi.mytechroad.com/blog/)
   * [Grandyang---在博客园更新了几乎所有力扣题目，收获了 1200万 阅读](https://grandyang.com/)
+  * [土妹: 1600多道题目，刷哪些？什么顺序？刷多少？难度怎么分配？](https://www.youtube.com/watch?v=d6XqH991bB8&list=PLeRPcJf8vjt1LPbXt7xfJ7Sv-6B57F3IV&index=2)
 # [刷完 LeetCode 是什么水平？按照怎样的顺序来刷题比较好？](https://zhuanlan.zhihu.com/p/258542340)
 # [LeetCode CookBook---霜神是前阿里巴巴资深后端工程师](https://books.halfrost.com/leetcode/)
 # [别再埋头刷LeetCode之：北美算法面试的题目分类，按类型和规律刷题，事半功倍---LeetCode经典题目](https://www.zhihu.com/question/36738189/answer/908664455)
