@@ -10,6 +10,8 @@
 * [4. 公司篇](#4-公司篇)
 
 ---
+# 怎样刷leetCode
+  * [土妹刷leetCode系列](https://www.youtube.com/watch?v=d6XqH991bB8&list=PLeRPcJf8vjt1LPbXt7xfJ7Sv-6B57F3IV&index=2)
 
 # 0-高频题
 
