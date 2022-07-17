@@ -22,6 +22,7 @@
 
 
 # 在线书籍
+* [算法之美](https://weread.qq.com/web/reader/d5c329b071543c05d5c796f)
 * [算法练营： 海量图解  2021](https://weread.qq.com/web/reader/5f2320c0725a69455f288dd)
 * [趣学数据结构](https://weread.qq.com/web/reader/5fd32df071a525855fd4932)
 * [零基础学算法（第4版）---2020](https://weread.qq.com/web/reader/a363257071eeef84a36a574)
