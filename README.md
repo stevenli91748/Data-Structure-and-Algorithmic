@@ -27,6 +27,7 @@
 * [算法图解---这本图解书很容易看懂，不枯燥](https://weread.qq.com/web/reader/fbf32b80715c0184fbff41f)
 * 趣学算法.PDF---非常好的一本书，图解多，思路清晰，不仅讲了问题分析算法设计的过程，还讲了如何优化算法
 * [大话数据结构](https://weread.qq.com/web/bookDetail/f7c324d0813ab6bb7g017833)
+* 学习算法思想 修炼编程内功视频---这样精致的课程很难找到第二个
 ## 2 基础系列---通过基本入门算法书的调教，你已经逐渐体会到了算法的魅力，现在正是时候去阅读基础系列踏入算法的领域
 * [算法之美](https://weread.qq.com/web/reader/d5c329b071543c05d5c796f)
 * [算法练营： 海量图解  2021](https://weread.qq.com/web/reader/5f2320c0725a69455f288dd)
