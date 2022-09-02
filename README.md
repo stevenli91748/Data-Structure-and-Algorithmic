@@ -153,8 +153,8 @@
 
 ---
 
-[LeetCode 算法面试题解](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/README.md)|
----|
+[FB面试官揭秘算法面试速成技巧 — 怎样做到 Bug Free 和刷100题等于别人刷300题](https://www.youtube.com/watch?v=gWg_gz8rrcM)|[LeetCode 算法面试题解](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/LeetCode%E7%AE%97%E6%B3%95%E9%9D%A2%E8%AF%95/README.md)|
+---|---|
 
 
 
