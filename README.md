@@ -130,8 +130,8 @@
 [OI Wiki---致力于成为一个免费开放且持续更新的 编程竞赛 (competitive programming) 知识整合站点,准备了竞赛中的基础知识、常见题型、解题思路以及常用工具等](https://oi-wiki.org/)|
 ---|
 
-[LeetCode CookBook---霜神是前阿里巴巴资深后端工程师](https://books.halfrost.com/leetcode/)|[用java表示数据结构和算法](https://my.oschina.net/Clarences?tab=newest&catalogId=5691177)|
----|---|
+[LeetCode CookBook---霜神是前阿里巴巴资深后端工程师](https://books.halfrost.com/leetcode/)|[用java表示数据结构和算法](https://my.oschina.net/Clarences?tab=newest&catalogId=5691177)|[算法总结](https://jasonkayzk.github.io/algorithm/)|
+---|---|---|
 
 [图解 Java 中的数据结构及原理，傻瓜也能看懂](https://mp.weixin.qq.com/s/2t_XO3G1v1jx7q0-9YU0YA)|[leetcode-master---本项目是一套完整的刷题计划，旨在帮助大家少走弯路，循序渐进学算法](https://github.com/stevenli91748/leetcode-master)|
 ---|---|
