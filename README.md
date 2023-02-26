@@ -24,9 +24,8 @@
 # 算法工具网站
 
   *  [可视化的数据结构 - 各种算法动画演示](https://visualgo.net/en)
-  *  [Algomation：查看、创建和分享算法的学习平台](http://hao.jobbole.com/algomation/)
   *  [ Algorithm Visualizer，做得很好](https://algorithm-visualizer.org/divide-and-conquer/bucket-sort)
-  *  [[数据结构与算法]超级详细解读基本排序算法（不看后悔，带排序演示动画）](https://blog.csdn.net/david_520042/article/details/52784620)
+
 
 
 
