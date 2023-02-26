@@ -21,6 +21,13 @@
 第三遍：提升刷题速度，拿出一个题，就能够知道其考察重点，解题方法，在短时间内写出解答。定期总结：按照题目类型进行总结：针对一类问题，总结有哪些解题方法，哪种方法是最优的，为什么。总结重点：有些题你刷了好多遍都还是不会，那就要重点关注，多思考解决方法，不断练习强结合图解刷题：有些人认为刷题比较枯燥，比较抽象。那你可以结合动画图解刷题。**
 
 
+# 算法工具网站
+  *  [可视化的数据结构 - 各种算法动画演示](https://visualgo.net/en)
+  *  [Algomation：查看、创建和分享算法的学习平台](http://hao.jobbole.com/algomation/)
+  *  [ Algorithm Visualizer，做得很好](https://algorithm-visualizer.org/divide-and-conquer/bucket-sort)
+  *  [[数据结构与算法]超级详细解读基本排序算法（不看后悔，带排序演示动画）](https://blog.csdn.net/david_520042/article/details/52784620)
+
+
 
 # 在线模拟环境
 * [SQL在线模拟环境---很好⽤的 SQL 练习平台](https://sqlzoo.net/)
