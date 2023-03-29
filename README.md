@@ -126,6 +126,10 @@
 ---|
 
 
+[very good  algorithmic](https://www.youtube.com/user/mycodeschool)|
+----|
+
+
 [java 算法例子程序](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/java%20%E7%AE%97%E6%B3%95%E4%BE%8B%E5%AD%90%E7%A8%8B%E5%BA%8F/README.md)|[数据结构精讲：从原理到实战](https://www.kancloud.cn/alex_wsc/datastructure)|[leetcode笔记](https://www.kancloud.cn/digest/leetcodeojs)|
 ---|---|---|
 
