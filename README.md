@@ -192,6 +192,9 @@
 
 # [第一篇 数学篇 计算几何篇](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/%E6%95%B0%E5%AD%A6/README.md)
 
+
+# 数组、链表、栈、队列、散列表、二叉树、堆、跳表、图、Trie树
+
 # 第二篇 数据结构篇
 |[Data Structures and Algorithms in Java ](https://www.youtube.com/watch?v=6iCHf7OZn6c&list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d&index=1)||
 | **第一章 数据结构和算法概述** || 
@@ -237,7 +240,7 @@
 | 5-2  [队列](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%98%9F%E5%88%97/README.md) |  |
 |[5-3  栈与队列：总结篇](https://mp.weixin.qq.com/s/xBcHyvHlWq4P13fzxEtkPg)||
 |---|---|
-| **[第八章 递归](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%80%92%E5%BD%92/README.md)**|  |
+| **[第八章 散列表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E9%80%92%E5%BD%92/README.md)**|  |
 |排列||
 |子集||
 |组合||
@@ -348,6 +351,9 @@
 |---|---|
 |---|---|
 
+
+# 递归、排序、二分查找、搜索、哈希算法、贪心算法、分治算法、回溯算法、动态规划、字符串匹配算法
+
 # 第三篇 算法篇
 | **第十六章 基本算法思想**||
 |---|---|
@@ -370,14 +376,63 @@
 | [递归算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E9%80%92%E5%BD%92%E7%AE%97%E6%B3%95/README.md)|  |
 | [一篇总结带你彻底搞透回溯算法](https://mp.weixin.qq.com/s/r73thpBnK1tXndFDtlsdCQ)  || 
 | 顺序查找算法||
-| 二分查找算法(非递归)| |
-| ---[二分专题（上）](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/binary-search-1)||
-| ---[二分专题（下）](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/thinkings/binary-search-2)||
-| 14-1-1 二分查找算法(非递归)的应用场景 | |
-| 14-1-2 二分查找算法(非递归)的解决方案的基本步骤| |
-| 14-1-3 二分查找算法(非递归)的代码实现| |
-| 14-1-4 二分查找算法(非递归)的时间复杂度| |
-| 11-1-5 二分查找算法(非递归)的空间复杂度| |
+| **[第九章 排序算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95/README.md)**|  |
+|7-1 内部排序 只使用内存||
+|7-1-1 冒泡排序|  |
+|7-1-1-1 冒泡排序 算法基本思想||
+|7-1-1-1 冒泡排序 算法的时间复杂度||
+|7-1-1-1 冒泡排序 算法的空间复杂度||
+|7-1-1-1 冒泡排序 算法的稳定性||
+|7-1-2 插入排序|  |
+|7-1-2-1 直接插入排序||
+|7-1-2-1 直接插入排序 算法基本思想||
+|7-1-2-1 直接插入排序 算法的时间复杂度||
+|7-1-2-1 直接插入排序 算法的空间复杂度||
+|7-1-2-1 直接插入排序 算法的稳定性||
+|7-1-3 选择排序| |
+|7-1-3-1 [简单选择排序 算法基本思想](#简单选择排序-算法基本思想)||
+|7-1-3-1 [简单选择排序 算法的时间复杂度](#简单选择排序-算法的时间复杂度)||
+|7-1-3-1 [简单选择排序 算法的空间复杂度](#简单选择排序-算法的空间复杂度)||
+|7-1-3-1 [简单选择排序 算法的稳定性](#简单选择排序-算法的稳定性)||
+|7-1-4 希尔排序|  |
+|7-1-5 稳定排序||
+|7-1-6 快速排序|  |
+|7-1-7 归并排序|  |
+|7-1-8 基数排序|  |
+|7-1-9 分割排序||
+|7-1-10 逆序数排序||
+|7-1-11 最小成本排序||
+|[7-2 外部排序 针对于体积过大以至内存装不下的文件，在对其包含的记录进行排序时所用到的算法](http://data.biancheng.net/out_sort/)||
+| 7-2-1 多路平衡归并排序算法（多路归并排序、胜者树、败者树）||
+| 7-2-2 置换选择排序算法||
+| 7-2-3 最佳归并树||
+|---|---|
+| **[第十章 查找算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E6%9F%A5%E6%89%BE%E7%AE%97%E6%B3%95/README.md)**|  |
+|  1  [顺序查找算法](http://data.biancheng.net/view/54.html)| |
+|  2  [二分查找算法(非递归)](http://data.biancheng.net/view/55.html)|  |
+|  ---[二分法专题](https://leetcode-solution-leetcode-pp.gitbook.io/leetcode-solution/91/binary-search)||
+|  ---二分查找算法(非递归)的应用场景 |  |
+|  ---二分查找算法(非递归)的解决方案的基本步骤|  |
+|  ---二分查找算法(非递归)的代码实现|  |
+|  ---二分查找算法(非递归)的时间复杂度|  |
+|  ---二分查找算法(非递归)的空间复杂度| |
+|  3  [分块查找算法（索引顺序查找）](http://data.biancheng.net/view/56.html)||
+|  4  静态树表查找算法||
+|  5  二叉排序树查找算法（二叉查找树）||
+|  6  红黑树查找算法(更高级的二叉查找树)||
+|  7  平衡二叉树查找算法（AVL树）||
+|  8  B-树查找算法||
+|  9  B+树查找算法||
+|  10  键树查找算法（双链树和字典树）||
+|  11  插值查找算法|  |
+|  12  奜波那契(黄金分割法)查找算法|  |
+|  数据结构中的查找算法|  |
+|  --顺序表结构中的查找算法|  |
+|  --数组结构中的查找算法||
+|  --链表结构中的查找算法|  |
+|  --树结构中的查找算法|  |
+|  --图结构中的查找算法|  |
+|---|---|
 | 分治算法 | |
 | ---[用分治法求数组中的最值 分治算法的一个简单应用](http://www.nowamagic.net/librarys/veda/detail/257)||
 | [动态规划算法](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Algorithmic/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92%E7%AE%97%E6%B3%95/README.md)| |
