@@ -230,6 +230,8 @@
 | 3-1-3  环型链表|  |
 | 3-1-4  双向环链表||
 | 3-2 动态链表 ||
+| 3-3 链表反转||
+| 3-4 有序链表||
 | 3-6  [链表：总结篇](https://mp.weixin.qq.com/s/vK0JjSTHfpAbs8evz5hH8A)||
 | **[第五章 字符串---“一对一”逻辑关系的数据，最佳的存储方式是使用线性表](https://github.com/stevenli91748/Data-Structure-and-Algorithmic/blob/master/Data%20Structure/%E5%AD%97%E7%AC%A6%E4%B8%B2/README.md)**| | 
 | ||
