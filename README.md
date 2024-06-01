@@ -29,7 +29,8 @@
   *  [ Algorithm Visualizer，做得很好](https://algorithm-visualizer.org/divide-and-conquer/bucket-sort)
 
 
-
+# 算法视频
+  * [Learn Data Structures and Algorithms for free](https://www.youtube.com/watch?v=CBYHwZcbD-s&t=165s)
 
 # 在线模拟环境
 * [SQL在线模拟环境---很好⽤的 SQL 练习平台](https://sqlzoo.net/)
