@@ -31,7 +31,7 @@
 
 # 算法视频
   * [Learn Data Structures and Algorithms for free](https://www.youtube.com/watch?v=CBYHwZcbD-s&t=165s)
-
+  * [Top 7 Algorithms for Coding Interviews Explained SIMPLY](https://www.youtube.com/watch?v=kp3fCihUXEg)
 # 在线模拟环境
 * [SQL在线模拟环境---很好⽤的 SQL 练习平台](https://sqlzoo.net/)
 * [正则表达式练习平台](https://regexone.com/)
