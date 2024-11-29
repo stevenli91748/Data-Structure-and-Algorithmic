@@ -115,6 +115,8 @@
 <a href="https://ibb.co/xHNNFgf"><img src="https://i.ibb.co/fvssDNn/image.png" alt="image" border="0"></a>
 
 ---
+[【干货】程序员面试一定要掌握的10个算法 | LeetCode 刷题清单 | 100小时+刷题经验分享 [上]](https://www.youtube.com/watch?v=3toa_cJu49g)|
+---|
 
 [Grokking the Coding Interview: Patterns for Coding Questions----Leetcode刷题顺序,看这一篇就够了](https://www.educative.io/courses/grokking-the-coding-interview?aff=K7qB)|
 ---|
