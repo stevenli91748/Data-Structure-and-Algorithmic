@@ -118,6 +118,8 @@
 [【干货】程序员面试一定要掌握的10个算法 | LeetCode 刷题清单 | 100小时+刷题经验分享 [上]](https://www.youtube.com/watch?v=3toa_cJu49g)|
 ---|
 
+[小白都能懂的学算法方法！我刷了 1000 道，LeetCode 入门不难！【程序员鱼皮】](https://www.youtube.com/watch?v=UJLLP-6WGMo)|
+---|
 [Grokking the Coding Interview: Patterns for Coding Questions----Leetcode刷题顺序,看这一篇就够了](https://www.educative.io/courses/grokking-the-coding-interview?aff=K7qB)|
 ---|
 
