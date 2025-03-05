@@ -33,6 +33,7 @@
   * [Learn Data Structures and Algorithms for free](https://www.youtube.com/watch?v=CBYHwZcbD-s&t=165s)
   * [Top 7 Algorithms for Coding Interviews Explained SIMPLY](https://www.youtube.com/watch?v=kp3fCihUXEg)
 # 在线模拟环境
+* [豆包MarsCode AI的刷题助手---在刷题过程中，遇到代码问题，先让AI给出思路，不行再给出参考代码](https://www.marscode.cn/practice/kd0dekkw5oj749?problem_id=7414004855077847084)
 * [SQL在线模拟环境---很好⽤的 SQL 练习平台](https://sqlzoo.net/)
 * [正则表达式练习平台](https://regexone.com/)
 * [测试正则表达式的平台](https://regexr.com/)
